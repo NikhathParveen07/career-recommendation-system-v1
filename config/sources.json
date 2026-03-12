@@ -1,0 +1,443 @@
+{
+  "version": "1.0",
+  "description": "CounselAI — Monitoring sources for 7 career forces in India",
+  "last_updated": "2026-03",
+
+  "forces": {
+
+    "F1_TECHNOLOGY": {
+      "name": "Technology Force",
+      "description": "Tracks technology changes affecting Indian workforce",
+      "sources": [
+        {
+          "source_id": "F1_RSS_001",
+          "name": "NASSCOM News",
+          "type": "rss",
+          "url": "https://nasscom.in/rss.xml",
+          "credibility": "very_high",
+          "update_frequency": "daily",
+          "India_specific": true,
+          "active": true
+        },
+        {
+          "source_id": "F1_RSS_002",
+          "name": "NASSCOM Insights",
+          "type": "rss",
+          "url": "https://nasscom.in/insights/rss.xml",
+          "credibility": "very_high",
+          "update_frequency": "weekly",
+          "India_specific": true,
+          "active": true
+        },
+        {
+          "source_id": "F1_RSS_003",
+          "name": "Economic Times Technology",
+          "type": "rss",
+          "url": "https://economictimes.indiatimes.com/tech/rssfeeds/13357270.cms",
+          "credibility": "high",
+          "update_frequency": "continuous",
+          "India_specific": true,
+          "active": true
+        },
+        {
+          "source_id": "F1_RSS_004",
+          "name": "PIB Science and Technology",
+          "type": "rss",
+          "url": "https://pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3",
+          "credibility": "very_high",
+          "update_frequency": "daily",
+          "India_specific": true,
+          "active": true
+        },
+        {
+          "source_id": "F1_NEWS_001",
+          "name": "News API — Technology India",
+          "type": "news_api",
+          "query": "artificial intelligence automation technology India workforce",
+          "language": "en",
+          "country": "in",
+          "credibility": "medium",
+          "update_frequency": "daily",
+          "India_specific": true,
+          "active": true
+        },
+        {
+          "source_id": "F1_NEWS_002",
+          "name": "News API — AI India Jobs",
+          "type": "news_api",
+          "query": "AI jobs technology emerging careers India 2024 2025",
+          "language": "en",
+          "credibility": "medium",
+          "update_frequency": "daily",
+          "India_specific": true,
+          "active": true
+        }
+      ]
+    },
+
+    "F2_GOVERNMENT_POLICY": {
+      "name": "Government Policy Force",
+      "description": "Tracks Indian government policy signals affecting career demand",
+      "sources": [
+        {
+          "source_id": "F2_RSS_001",
+          "name": "PIB — All Releases",
+          "type": "rss",
+          "url": "https://pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3",
+          "credibility": "very_high",
+          "update_frequency": "continuous",
+          "India_specific": true,
+          "active": true
+        },
+        {
+          "source_id": "F2_RSS_002",
+          "name": "PIB — Ministry of Labour",
+          "type": "rss",
+          "url": "https://pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3",
+          "credibility": "very_high",
+          "update_frequency": "daily",
+          "India_specific": true,
+          "active": true
+        },
+        {
+          "source_id": "F2_RSS_003",
+          "name": "PIB — Skill Development",
+          "type": "rss",
+          "url": "https://pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3",
+          "credibility": "very_high",
+          "update_frequency": "daily",
+          "India_specific": true,
+          "active": true
+        },
+        {
+          "source_id": "F2_RSS_004",
+          "name": "PRS Legislative Research",
+          "type": "rss",
+          "url": "https://prsindia.org/rss.xml",
+          "credibility": "very_high",
+          "update_frequency": "daily",
+          "India_specific": true,
+          "active": true
+        },
+        {
+          "source_id": "F2_RSS_005",
+          "name": "NITI Aayog News",
+          "type": "rss",
+          "url": "https://niti.gov.in/rss.xml",
+          "credibility": "very_high",
+          "update_frequency": "weekly",
+          "India_specific": true,
+          "active": true
+        },
+        {
+          "source_id": "F2_NEWS_001",
+          "name": "News API — India Government Policy",
+          "type": "news_api",
+          "query": "India government policy scheme PLI PMKVY budget skill development",
+          "language": "en",
+          "credibility": "medium",
+          "update_frequency": "daily",
+          "India_specific": true,
+          "active": true
+        }
+      ]
+    },
+
+    "F3_DEMOGRAPHICS": {
+      "name": "Demographics Force",
+      "description": "Tracks India population and demographic shifts",
+      "sources": [
+        {
+          "source_id": "F3_RSS_001",
+          "name": "Economic Times — Economy",
+          "type": "rss",
+          "url": "https://economictimes.indiatimes.com/rss/economy/news.cms",
+          "credibility": "high",
+          "update_frequency": "continuous",
+          "India_specific": true,
+          "active": true
+        },
+        {
+          "source_id": "F3_RSS_002",
+          "name": "PIB — Census and Population",
+          "type": "rss",
+          "url": "https://pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3",
+          "credibility": "very_high",
+          "update_frequency": "monthly",
+          "India_specific": true,
+          "active": true
+        },
+        {
+          "source_id": "F3_API_001",
+          "name": "World Bank India Demographics API",
+          "type": "world_bank_api",
+          "country_code": "IND",
+          "indicators": [
+            "SP.POP.TOTL",
+            "SP.POP.GROW",
+            "SP.URB.TOTL.IN.ZS",
+            "SP.POP.65UP.TO.ZS",
+            "SP.POP.0014.TO.ZS",
+            "NY.GNP.PCAP.CD"
+          ],
+          "credibility": "very_high",
+          "update_frequency": "annual",
+          "India_specific": true,
+          "active": true
+        },
+        {
+          "source_id": "F3_NEWS_001",
+          "name": "News API — India Demographics",
+          "type": "news_api",
+          "query": "India population urbanisation middle class growth demographic dividend",
+          "language": "en",
+          "credibility": "medium",
+          "update_frequency": "daily",
+          "India_specific": true,
+          "active": true
+        }
+      ]
+    },
+
+    "F4_GLOBAL_MARKET": {
+      "name": "Global Market Force",
+      "description": "Tracks global demand for Indian talent and international opportunities",
+      "sources": [
+        {
+          "source_id": "F4_RSS_001",
+          "name": "RBI News",
+          "type": "rss",
+          "url": "https://rbi.org.in/scripts/rss.aspx",
+          "credibility": "very_high",
+          "update_frequency": "daily",
+          "India_specific": true,
+          "active": true
+        },
+        {
+          "source_id": "F4_RSS_002",
+          "name": "Ministry of External Affairs",
+          "type": "rss",
+          "url": "https://mea.gov.in/rss/press-releases.xml",
+          "credibility": "very_high",
+          "update_frequency": "daily",
+          "India_specific": true,
+          "active": true
+        },
+        {
+          "source_id": "F4_RSS_003",
+          "name": "Economic Times — International",
+          "type": "rss",
+          "url": "https://economictimes.indiatimes.com/rss/internationalbusiness.cms",
+          "credibility": "high",
+          "update_frequency": "continuous",
+          "India_specific": false,
+          "active": true
+        },
+        {
+          "source_id": "F4_API_001",
+          "name": "World Bank Trade Data API",
+          "type": "world_bank_api",
+          "country_code": "IND",
+          "indicators": [
+            "BX.GSR.NFSV.CD",
+            "BM.GSR.NFSV.CD",
+            "BX.TRF.PWKR.DT.GD.ZS"
+          ],
+          "credibility": "very_high",
+          "update_frequency": "annual",
+          "India_specific": true,
+          "active": true
+        },
+        {
+          "source_id": "F4_NEWS_001",
+          "name": "News API — Global India Talent",
+          "type": "news_api",
+          "query": "India talent export outsourcing global demand Indian professionals abroad",
+          "language": "en",
+          "credibility": "medium",
+          "update_frequency": "daily",
+          "India_specific": false,
+          "active": true
+        }
+      ]
+    },
+
+    "F5_EDUCATION_SUPPLY": {
+      "name": "Education Supply Force",
+      "description": "Tracks graduate output vs market demand in India",
+      "sources": [
+        {
+          "source_id": "F5_RSS_001",
+          "name": "Ministry of Education — PIB",
+          "type": "rss",
+          "url": "https://pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3",
+          "credibility": "very_high",
+          "update_frequency": "daily",
+          "India_specific": true,
+          "active": true
+        },
+        {
+          "source_id": "F5_RSS_002",
+          "name": "UGC News",
+          "type": "rss",
+          "url": "https://www.ugc.gov.in/rss/news.xml",
+          "credibility": "very_high",
+          "update_frequency": "weekly",
+          "India_specific": true,
+          "active": true
+        },
+        {
+          "source_id": "F5_NEWS_001",
+          "name": "News API — India Education Employment",
+          "type": "news_api",
+          "query": "India graduate unemployment engineering oversupply skill gap employability",
+          "language": "en",
+          "credibility": "medium",
+          "update_frequency": "daily",
+          "India_specific": true,
+          "active": true
+        },
+        {
+          "source_id": "F5_API_001",
+          "name": "World Bank Education Indicators",
+          "type": "world_bank_api",
+          "country_code": "IND",
+          "indicators": [
+            "SE.TER.ENRR",
+            "SL.UEM.ADVN.ZS",
+            "SE.TER.GRAD.FE.SI.ZS"
+          ],
+          "credibility": "very_high",
+          "update_frequency": "annual",
+          "India_specific": true,
+          "active": true
+        }
+      ]
+    },
+
+    "F6_CLIMATE": {
+      "name": "Climate Force",
+      "description": "Tracks India climate commitments and green economy signals",
+      "sources": [
+        {
+          "source_id": "F6_RSS_001",
+          "name": "MNRE News",
+          "type": "rss",
+          "url": "https://mnre.gov.in/rss.xml",
+          "credibility": "very_high",
+          "update_frequency": "daily",
+          "India_specific": true,
+          "active": true
+        },
+        {
+          "source_id": "F6_RSS_002",
+          "name": "PIB — Environment and Climate",
+          "type": "rss",
+          "url": "https://pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3",
+          "credibility": "very_high",
+          "update_frequency": "daily",
+          "India_specific": true,
+          "active": true
+        },
+        {
+          "source_id": "F6_RSS_003",
+          "name": "Carbon Brief — India",
+          "type": "rss",
+          "url": "https://www.carbonbrief.org/rss",
+          "credibility": "high",
+          "update_frequency": "daily",
+          "India_specific": false,
+          "active": true
+        },
+        {
+          "source_id": "F6_RSS_004",
+          "name": "Economic Times — Energy",
+          "type": "rss",
+          "url": "https://economictimes.indiatimes.com/rss/energy.cms",
+          "credibility": "high",
+          "update_frequency": "continuous",
+          "India_specific": true,
+          "active": true
+        },
+        {
+          "source_id": "F6_NEWS_001",
+          "name": "News API — India Climate Green",
+          "type": "news_api",
+          "query": "India renewable energy solar wind EV green economy climate commitment",
+          "language": "en",
+          "credibility": "medium",
+          "update_frequency": "daily",
+          "India_specific": true,
+          "active": true
+        }
+      ]
+    },
+
+    "F7_SOCIAL_SHIFTS": {
+      "name": "Social Shifts Force",
+      "description": "Tracks Indian society behaviour and attitude changes",
+      "sources": [
+        {
+          "source_id": "F7_RSS_001",
+          "name": "Economic Times — Society",
+          "type": "rss",
+          "url": "https://economictimes.indiatimes.com/rss/news.cms",
+          "credibility": "high",
+          "update_frequency": "continuous",
+          "India_specific": true,
+          "active": true
+        },
+        {
+          "source_id": "F7_RSS_002",
+          "name": "The Hindu — Society",
+          "type": "rss",
+          "url": "https://www.thehindu.com/society/feeder/default.rss",
+          "credibility": "high",
+          "update_frequency": "daily",
+          "India_specific": true,
+          "active": true
+        },
+        {
+          "source_id": "F7_RSS_003",
+          "name": "Live Mint — Consumer",
+          "type": "rss",
+          "url": "https://www.livemint.com/rss/consumer.xml",
+          "credibility": "high",
+          "update_frequency": "daily",
+          "India_specific": true,
+          "active": true
+        },
+        {
+          "source_id": "F7_NEWS_001",
+          "name": "News API — India Social Change",
+          "type": "news_api",
+          "query": "India social change consumer behaviour lifestyle mental health awareness wellness",
+          "language": "en",
+          "credibility": "medium",
+          "update_frequency": "daily",
+          "India_specific": true,
+          "active": true
+        },
+        {
+          "source_id": "F7_TRENDS_001",
+          "name": "Google Trends India",
+          "type": "google_trends",
+          "keywords": [
+            "mental health India",
+            "yoga instructor India",
+            "content creator India",
+            "therapy India",
+            "work from home India",
+            "electric vehicle India",
+            "sustainable living India"
+          ],
+          "geo": "IN",
+          "credibility": "medium",
+          "update_frequency": "weekly",
+          "India_specific": true,
+          "active": true
+        }
+      ]
+    }
+  }
+}
