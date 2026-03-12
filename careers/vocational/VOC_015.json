@@ -1,0 +1,85 @@
+{
+  "career_id": "VOC_015",
+  "title": "Railway Technician",
+  "stream": "Vocational",
+  "description": "A Railway Technician in India is responsible for maintaining and repairing railway equipment, tracks, and signals. They work on trains, stations, and yards, ensuring that the railway network runs smoothly and safely. Their day-to-day tasks involve troubleshooting, repairing, and replacing faulty equipment, as well as performing routine maintenance tasks to prevent breakdowns and accidents.",
+  "riasec_primary": "Realistic",
+  "riasec_secondary": "Conventional",
+  "riasec_scores": {
+    "Realistic": 8,
+    "Investigative": 2,
+    "Artistic": 1,
+    "Social": 3,
+    "Enterprising": 2,
+    "Conventional": 4
+  },
+  "work_values": [
+    "Job Security",
+    "Sense of Accomplishment",
+    "Physical Activity"
+  ],
+  "eligible_streams": [
+    "Science",
+    "Engineering",
+    "Vocational"
+  ],
+  "entrance_exams": [
+    "Railway Recruitment Board (RRB) Exam",
+    "Indian Railways Technical Examination"
+  ],
+  "degree_name": "Diploma in Rail Engineering",
+  "degree_duration_years": 3,
+  "course_cost_lakhs": {
+    "government_college": 2,
+    "private_college": 10
+  },
+  "top_govt_colleges": [
+    "Indian Railways Institute of Mechanical and Electrical Engineering",
+    "Railway Staff College",
+    "National Rail and Transportation Institute"
+  ],
+  "top_private_colleges": [
+    "Railway Institute of Technology",
+    "Indian Railways Technical Institute",
+    "National Institute of Railways and Transportation Management"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 3,
+    "mid_3_7_years": 8,
+    "senior_8_15_years": 18,
+    "top_earner": 35
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Delhi",
+      "Mumbai",
+      "Kolkata",
+      "Chennai"
+    ],
+    "govt_vs_private": "40% govt 60% private",
+    "demand_trend": "stable",
+    "approximate_annual_openings_india": 30000
+  },
+  "career_progression": {
+    "year_0_2": "Initial training and apprenticeship, followed by on-the-job experience and gradual promotion to senior technician roles.",
+    "year_3_5": "Specialization in a specific area of rail engineering, such as electrical or mechanical engineering, and taking on more complex projects and responsibilities.",
+    "year_6_10": "Leadership roles, such as section engineer or deputy chief engineer, and involvement in major rail infrastructure projects.",
+    "senior_paths": [
+      "Senior Technician",
+      "Section Engineer",
+      "Deputy Chief Engineer"
+    ],
+    "entrepreneurship_exit": "Starting a business related to rail engineering, such as a consulting firm or a manufacturing company.",
+    "global_pathway": "Opportunities for working on international rail projects, such as the Asian Development Bank's rail infrastructure projects in Southeast Asia."
+  },
+  "india_social_context": {
+    "family_acceptance": "high",
+    "regional_availability": "national",
+    "first_year_reality": "Initial years can be challenging, with long working hours and limited social life.",
+    "common_misconceptions": [
+      "Railway Technician is a desk job",
+      "Railway Technician requires no technical skills"
+    ]
+  },
+  "force_connections": {}
+}

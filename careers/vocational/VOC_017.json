@@ -1,0 +1,91 @@
+{
+  "career_id": "VOC_017",
+  "title": "Network Technician",
+  "stream": "Vocational",
+  "description": "A Network Technician in India installs, configures, and troubleshoots computer networks, ensuring smooth data transmission and connectivity. They work with various network devices, protocols, and software to resolve technical issues and maintain network security. Their daily tasks involve monitoring network performance, identifying bottlenecks, and implementing upgrades to improve network efficiency and reliability.",
+  "riasec_primary": "Realistic",
+  "riasec_secondary": "Conventional",
+  "riasec_scores": {
+    "Realistic": 8,
+    "Investigative": 2,
+    "Artistic": 1,
+    "Social": 3,
+    "Enterprising": 2,
+    "Conventional": 4
+  },
+  "work_values": [
+    "Job Security",
+    "Technical Challenge",
+    "Opportunities for Advancement"
+  ],
+  "eligible_streams": [
+    "Computer Science",
+    "Electronics",
+    "Information Technology"
+  ],
+  "entrance_exams": [
+    "NATA",
+    "JEECUP",
+    "UPSEE"
+  ],
+  "degree_name": "Diploma in Computer Hardware and Networking",
+  "degree_duration_years": 3,
+  "course_cost_lakhs": {
+    "government_college": 2,
+    "private_college": 10
+  },
+  "top_govt_colleges": [
+    "National Institute of Electronics and Information Technology (NIELIT)",
+    "Central Electronics Engineering Research Institute (CEERI)",
+    "National Institute of Technology (NIT) Delhi",
+    "Indian Institute of Information Technology (IIIT) Allahabad",
+    "National Institute of Technology (NIT) Warangal"
+  ],
+  "top_private_colleges": [
+    "Vellore Institute of Technology (VIT)",
+    "Birla Institute of Technology and Science (BITS) Pilani",
+    "Symbiosis International University (SIU)",
+    "Amity University",
+    "Manipal University"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 3,
+    "mid_3_7_years": 8,
+    "senior_8_15_years": 18,
+    "top_earner": 35
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Bengaluru",
+      "Mumbai",
+      "Delhi",
+      "Hyderabad",
+      "Chennai"
+    ],
+    "govt_vs_private": "30% govt 70% private",
+    "demand_trend": "stable",
+    "approximate_annual_openings_india": 30000
+  },
+  "career_progression": {
+    "year_0_2": "Assist in network installation and configuration, perform basic troubleshooting, and assist in network maintenance.",
+    "year_3_5": "Take on more complex network projects, develop and implement network security protocols, and lead small teams.",
+    "year_6_10": "Oversee large-scale network infrastructure projects, develop and implement network architecture, and mentor junior technicians.",
+    "senior_paths": [
+      "Network Architect",
+      "Cybersecurity Specialist",
+      "IT Manager"
+    ],
+    "entrepreneurship_exit": "Start a network consulting firm or offer network-related services to small and medium-sized businesses.",
+    "global_pathway": "Opportunities exist in the Middle East, Singapore, and the United States, but require additional certifications and experience."
+  },
+  "india_social_context": {
+    "family_acceptance": "medium",
+    "regional_availability": "national",
+    "first_year_reality": "Starting salary is low, and work hours can be long, especially during peak network maintenance seasons.",
+    "common_misconceptions": [
+      "Network Technicians only work with computers.",
+      "Network Technicians are not required to have strong communication skills."
+    ]
+  },
+  "force_connections": {}
+}

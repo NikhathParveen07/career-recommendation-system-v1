@@ -1,0 +1,100 @@
+{
+  "career_id": "COM_012",
+  "title": "Marketing Manager",
+  "stream": "Commerce",
+  "description": "A Marketing Manager in India is responsible for developing and implementing marketing strategies to promote products or services, analyzing market trends, and managing budgets. They work closely with cross-functional teams, including sales, product, and creative teams, to ensure alignment and achieve business objectives. In a typical day, a Marketing Manager in India may spend time reviewing market research reports, brainstorming new campaign ideas, and collaborating with external agencies to execute marketing campaigns.",
+  "riasec_primary": "Enterprising",
+  "riasec_secondary": "Conventional",
+  "riasec_scores": {
+    "Realistic": 0,
+    "Investigative": 0,
+    "Artistic": 0,
+    "Social": 0,
+    "Enterprising": 8,
+    "Conventional": 6
+  },
+  "work_values": [
+    "Achievement",
+    "Recognition",
+    "Autonomy",
+    "Stability",
+    "Security",
+    "Progression"
+  ],
+  "eligible_streams": [
+    "Commerce",
+    "Business Studies",
+    "Economics",
+    "Accountancy",
+    "Management",
+    "Finance"
+  ],
+  "entrance_exams": [
+    "CAT",
+    "XAT",
+    "MAT",
+    "CMAT",
+    "ATMA",
+    "NMAT"
+  ],
+  "degree_name": "Master of Business Administration (MBA)",
+  "degree_duration_years": 2,
+  "course_cost_lakhs": {
+    "government_college": 2,
+    "private_college": 12
+  },
+  "top_govt_colleges": [
+    "Indian Institute of Management (IIM) Ahmedabad",
+    "IIM Bangalore",
+    "IIM Calcutta",
+    "IIM Lucknow",
+    "IIM Kozhikode"
+  ],
+  "top_private_colleges": [
+    "SPJIMR Mumbai",
+    "MDI Gurgaon",
+    "IMT Ghaziabad",
+    "XIMB Bhubaneswar",
+    "TAPMI Manipal"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 3.5,
+    "mid_3_7_years": 8,
+    "senior_8_15_years": 18,
+    "top_earner": 35
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Mumbai",
+      "Delhi",
+      "Bangalore",
+      "Hyderabad",
+      "Chennai"
+    ],
+    "govt_vs_private": "10% govt 90% private",
+    "demand_trend": "stable",
+    "approximate_annual_openings_india": 30000
+  },
+  "career_progression": {
+    "year_0_2": "Typically, a Marketing Manager in India starts as an Executive or Assistant Manager in a marketing team, handling tasks such as market research, campaign execution, and budget management. They may work under the guidance of a senior marketing manager or director.",
+    "year_3_5": "As they gain experience, they may take on more responsibilities, such as leading a team, managing multiple campaigns, and developing marketing strategies. They may also start to take on more senior roles, such as Senior Marketing Manager or Marketing Director.",
+    "year_6_10": "At this stage, they may have established themselves as a marketing expert and may be leading large teams or managing multiple marketing functions. They may also start to take on more strategic roles, such as Chief Marketing Officer (CMO) or Head of Marketing.",
+    "senior_paths": [
+      "Chief Marketing Officer (CMO)",
+      "Head of Marketing",
+      "Marketing Director"
+    ],
+    "entrepreneurship_exit": "A Marketing Manager in India can start their own marketing agency or consulting firm, leveraging their expertise and network to attract clients.",
+    "global_pathway": "Marketing Managers in India can also explore opportunities in international companies, particularly in the Asia-Pacific region, or work with global brands that have a presence in India."
+  },
+  "india_social_context": {
+    "family_acceptance": "high",
+    "regional_availability": "national",
+    "first_year_reality": "Starting as a Marketing Manager in India can be challenging, with long working hours, tight deadlines, and high expectations. However, it can also be rewarding, with opportunities to work on exciting campaigns and develop skills in marketing strategy, team management, and leadership.",
+    "common_misconceptions": [
+      "Marketing Managers in India only work on advertising and promotions.",
+      "Marketing Managers in India do not require any technical skills."
+    ]
+  },
+  "force_connections": {}
+}

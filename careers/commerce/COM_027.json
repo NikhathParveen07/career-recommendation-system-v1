@@ -1,0 +1,96 @@
+{
+  "career_id": "COM_027",
+  "title": "Tourism and Travel Manager",
+  "stream": "Commerce",
+  "description": "A Tourism and Travel Manager in India is responsible for planning, coordinating, and executing travel itineraries for individuals, groups, and corporate clients. They work with airlines, hotels, and other travel service providers to ensure smooth travel experiences. They also handle customer complaints, manage budgets, and stay updated with industry trends and regulations.",
+  "riasec_primary": "Enterprising",
+  "riasec_secondary": "Conventional",
+  "riasec_scores": {
+    "Realistic": 6,
+    "Investigative": 4,
+    "Artistic": 3,
+    "Social": 5,
+    "Enterprising": 8,
+    "Conventional": 7
+  },
+  "work_values": [
+    "Achievement",
+    "Recognition",
+    "Autonomy",
+    "Stability",
+    "Security"
+  ],
+  "eligible_streams": [
+    "Commerce",
+    "Business Studies",
+    "Accountancy",
+    "Economics",
+    "Hospitality Management"
+  ],
+  "entrance_exams": [
+    "NCHMCT JEE",
+    "Hotel Management Entrance Exam",
+    "Tourism and Hospitality Management Entrance Exam"
+  ],
+  "degree_name": "Bachelor of Business Administration in Tourism and Travel Management",
+  "degree_duration_years": 4,
+  "course_cost_lakhs": {
+    "government_college": 2,
+    "private_college": 12
+  },
+  "top_govt_colleges": [
+    "National Council of Hotel Management and Catering Technology",
+    "Indian Institute of Tourism and Travel Management",
+    "NIFT",
+    "IHM",
+    "IITTM"
+  ],
+  "top_private_colleges": [
+    "ITM Business School",
+    "IMT Ghaziabad",
+    "Symbiosis Institute of Business Management",
+    "Xavier Institute of Management",
+    "SP Jain School of Global Management"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 3.5,
+    "mid_3_7_years": 8,
+    "senior_8_15_years": 18,
+    "top_earner": 35
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Mumbai",
+      "Delhi",
+      "Bangalore",
+      "Chennai",
+      "Kolkata"
+    ],
+    "govt_vs_private": "15% govt 85% private",
+    "demand_trend": "stable",
+    "approximate_annual_openings_india": 30000
+  },
+  "career_progression": {
+    "year_0_2": "Entry-level positions in travel agencies, tour operators, or hospitality companies. Tasks include coordinating travel arrangements, handling customer complaints, and managing budgets.",
+    "year_3_5": "Mid-level positions in travel management companies, airlines, or hotels. Responsibilities include planning and executing travel itineraries, managing teams, and analyzing market trends.",
+    "year_6_10": "Senior-level positions in travel management companies, airlines, or hotels. Tasks include leading teams, developing business strategies, and negotiating with suppliers.",
+    "senior_paths": [
+      "Travel Management Company Manager",
+      "Airline Operations Manager",
+      "Hotel General Manager"
+    ],
+    "entrepreneurship_exit": "Starting a travel agency or tour operator, or creating a travel-related product or service.",
+    "global_pathway": "Opportunities in international travel management companies, airlines, or hotels, or working as a travel consultant for international clients."
+  },
+  "india_social_context": {
+    "family_acceptance": "medium",
+    "regional_availability": "national",
+    "first_year_reality": "Starting salary is low, and initial years may involve working long hours and handling customer complaints.",
+    "common_misconceptions": [
+      "Travel managers get to travel for free",
+      "Travel management is a glamorous career",
+      "Travel managers only work with luxury clients"
+    ]
+  },
+  "force_connections": {}
+}

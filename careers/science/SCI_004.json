@@ -1,0 +1,97 @@
+{
+  "career_id": "SCI_004",
+  "title": "Cybersecurity Analyst",
+  "stream": "Science",
+  "description": "A Cybersecurity Analyst in India works on a daily basis to protect computer systems and networks from cyber threats by monitoring security logs, identifying vulnerabilities, and implementing security measures. They also conduct penetration testing, analyze security incidents, and provide recommendations for improvement. Their work involves staying up-to-date with the latest security threats and technologies to ensure the organization's digital assets are secure.",
+  "riasec_primary": "Investigative",
+  "riasec_secondary": "Realistic",
+  "riasec_scores": {
+    "Realistic": 8,
+    "Investigative": 9,
+    "Artistic": 2,
+    "Social": 3,
+    "Enterprising": 4,
+    "Conventional": 5
+  },
+  "work_values": [
+    "problem-solving",
+    "analytical thinking",
+    "attention to detail",
+    "teamwork",
+    "communication skills"
+  ],
+  "eligible_streams": [
+    "Computer Science",
+    "Information Technology",
+    "Electronics",
+    "Physics",
+    "Mathematics"
+  ],
+  "entrance_exams": [
+    "JEE Main",
+    "JEE Advanced",
+    "BITSAT",
+    "VITEEE",
+    "SRMJEE"
+  ],
+  "degree_name": "Bachelor of Technology in Cyber Security",
+  "degree_duration_years": 4,
+  "course_cost_lakhs": {
+    "government_college": 2,
+    "private_college": 12
+  },
+  "top_govt_colleges": [
+    "National Institute of Technology, Warangal",
+    "Indian Institute of Technology, Guwahati",
+    "National Institute of Technology, Tiruchirappalli",
+    "Indian Institute of Technology, Roorkee",
+    "National Institute of Technology, Jamshedpur"
+  ],
+  "top_private_colleges": [
+    "BITS Pilani",
+    "Vellore Institute of Technology",
+    "SRM Institute of Science and Technology",
+    "Amrita Vishwa Vidyapeetham",
+    "Birla Institute of Technology, Mesra"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 3.5,
+    "mid_3_7_years": 8,
+    "senior_8_15_years": 18,
+    "top_earner": 35
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Bangalore",
+      "Mumbai",
+      "Hyderabad",
+      "Pune",
+      "Chennai"
+    ],
+    "govt_vs_private": "15% govt 85% private",
+    "demand_trend": "growing",
+    "approximate_annual_openings_india": 40000
+  },
+  "career_progression": {
+    "year_0_2": "Entry-level positions in cybersecurity teams, performing routine tasks and learning from experienced professionals.",
+    "year_3_5": "Mid-level positions, taking on more responsibilities, such as conducting vulnerability assessments and implementing security measures.",
+    "year_6_10": "Senior-level positions, leading teams, developing security strategies, and advising on major security initiatives.",
+    "senior_paths": [
+      "Chief Information Security Officer",
+      "Cybersecurity Consultant",
+      "Security Architect"
+    ],
+    "entrepreneurship_exit": "Starting a cybersecurity consulting firm or developing and selling cybersecurity products.",
+    "global_pathway": "Opportunities in the US, UK, and Australia for Indians with advanced degrees and relevant experience."
+  },
+  "india_social_context": {
+    "family_acceptance": "high",
+    "regional_availability": "national",
+    "first_year_reality": "Starting salary is around ₹3-4 lakhs per annum, with a steep learning curve and long working hours.",
+    "common_misconceptions": [
+      "Cybersecurity is a field for only tech-savvy people.",
+      "Cybersecurity jobs are only available in the US."
+    ]
+  },
+  "force_connections": {}
+}

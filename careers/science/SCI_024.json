@@ -1,0 +1,72 @@
+{
+  "career_id": "SCI_024",
+  "title": "Geologist",
+  "stream": "Science",
+  "description": "A geologist in India typically spends their days conducting fieldwork, collecting and analyzing rock samples, and interpreting data to understand the Earth's composition and structure. They often work in teams with other geologists, engineers, and scientists to identify mineral deposits, assess environmental risks, and develop strategies for sustainable resource extraction. In addition to their technical work, geologists in India may also engage in community outreach and education to raise awareness about geological hazards and promote environmental conservation.",
+  "riasec_primary": "Realistic",
+  "riasec_secondary": "Investigative",
+  "riasec_scores": {
+    "Realistic": 8,
+    "Investigative": 6,
+    "Artistic": 2,
+    "Social": 1,
+    "Enterprising": 1,
+    "Conventional": 2
+  },
+  "work_values": [
+    "Independence",
+    "Problem-solving",
+    "Analytical thinking"
+  ],
+  "eligible_streams": [
+    "Physics, Chemistry, Mathematics (PCM)"
+  ],
+  "entrance_exams": [
+    "Joint Entrance Examination (JEE) Main, JEE Advanced, National Eligibility cum Entrance Test (NEET)"
+  ],
+  "degree_name": "Bachelor of Science in Geology",
+  "degree_duration_years": 4,
+  "course_cost_lakhs": {
+    "government_college": 3,
+    "private_college": 15
+  },
+  "top_govt_colleges": [
+    "Indian Institute of Technology (IIT) Bombay, Indian Institute of Science (IISc) Bangalore, University of Delhi, University of Mumbai, Jadavpur University"
+  ],
+  "top_private_colleges": [
+    "Manipal University, Vellore Institute of Technology (VIT), Amity University, Birla Institute of Technology and Science (BITS) Pilani, SRM University"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 4,
+    "mid_3_7_years": 10,
+    "senior_8_15_years": 22,
+    "top_earner": 45
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Mumbai, Delhi, Bengaluru, Hyderabad, Chennai"
+    ],
+    "govt_vs_private": "20% govt 80% private",
+    "demand_trend": "growing",
+    "approximate_annual_openings_india": 50000
+  },
+  "career_progression": {
+    "year_0_2": "Typically, a geologist in India starts their career as a junior geologist or a research assistant, working under the supervision of experienced geologists. They may be involved in data collection, laboratory analysis, and fieldwork.",
+    "year_3_5": "As they gain experience, geologists in India may take on more responsibilities, such as leading fieldwork teams, analyzing complex data, and developing reports. They may also start to specialize in a particular area of geology, such as petroleum geology or environmental geology.",
+    "year_6_10": "Senior geologists in India may hold leadership positions, such as team leader or department head. They may also be involved in policy-making, research, and education. Some may choose to start their own consulting firms or become entrepreneurs.",
+    "senior_paths": [
+      "Petroleum geology, Environmental geology, Mining geology, Geophysics, Geomorphology"
+    ],
+    "entrepreneurship_exit": "Geologists in India can start their own consulting firms, offering services such as geological mapping, mineral exploration, and environmental impact assessment.",
+    "global_pathway": "Geologists from India can pursue opportunities abroad, particularly in countries with significant oil and gas reserves, such as the Middle East, Africa, and the Americas."
+  },
+  "india_social_context": {
+    "family_acceptance": "medium",
+    "regional_availability": "national",
+    "first_year_reality": "Starting a career as a geologist in India can be challenging, with limited job opportunities and high competition. However, with experience and specialization, geologists can build a successful and fulfilling career.",
+    "common_misconceptions": [
+      "Geology is a dying field, Geology is only about rocks, Geology is not a lucrative career"
+    ]
+  },
+  "force_connections": {}
+}

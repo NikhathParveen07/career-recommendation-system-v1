@@ -1,0 +1,93 @@
+{
+  "career_id": "COM_009",
+  "title": "Tax Consultant",
+  "stream": "Commerce",
+  "description": "A Tax Consultant in India works with individuals and businesses to ensure compliance with tax laws and regulations. They prepare tax returns, provide tax planning advice, and represent clients in tax disputes. They also stay updated on changes in tax laws and regulations to provide the best possible services to their clients.",
+  "riasec_primary": "Conventional",
+  "riasec_secondary": "Enterprising",
+  "riasec_scores": {
+    "Realistic": 0,
+    "Investigative": 0,
+    "Artistic": 0,
+    "Social": 0,
+    "Enterprising": 0,
+    "Conventional": 10
+  },
+  "work_values": [
+    "Security",
+    "Stability",
+    "Structure",
+    "Predictability"
+  ],
+  "eligible_streams": [
+    "Commerce",
+    "Accountancy",
+    "Business Studies"
+  ],
+  "entrance_exams": [
+    "CA Foundation",
+    "CMA Foundation",
+    "CS Foundation",
+    "B.Com Entrance Exam"
+  ],
+  "degree_name": "Bachelor of Commerce (B.Com)",
+  "degree_duration_years": 3,
+  "course_cost_lakhs": {
+    "government_college": 2,
+    "private_college": 8
+  },
+  "top_govt_colleges": [
+    "Lady Shri Ram College for Women",
+    "Hansraj College",
+    "Kirori Mal College",
+    "Daulat Ram College",
+    "Shri Ram College of Commerce"
+  ],
+  "top_private_colleges": [
+    "Sharda University",
+    "Amity University",
+    "Christ University",
+    "Symbiosis International University",
+    "Birla Institute of Technology and Science (BITS) Pilani"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 3,
+    "mid_3_7_years": 8,
+    "senior_8_15_years": 18,
+    "top_earner": 35
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Mumbai",
+      "Delhi",
+      "Bangalore",
+      "Hyderabad",
+      "Chennai"
+    ],
+    "govt_vs_private": "30% govt 70% private",
+    "demand_trend": "stable",
+    "approximate_annual_openings_india": 30000
+  },
+  "career_progression": {
+    "year_0_2": "Initial years involve working under a senior consultant, learning tax laws and regulations, and assisting clients with tax returns and planning.",
+    "year_3_5": "As experience grows, consultants take on more complex cases, develop expertise in specific areas of taxation, and start to lead small teams.",
+    "year_6_10": "Senior consultants lead large teams, advise on complex tax matters, and may take on leadership roles within the organization.",
+    "senior_paths": [
+      "Tax Director",
+      "Tax Partner",
+      "Tax Consultant (Large Firm)"
+    ],
+    "entrepreneurship_exit": "Tax consultants can start their own tax consulting firms or offer tax services as a freelancer.",
+    "global_pathway": "Tax consultants can work with international firms or move to countries with high demand for tax services, such as Singapore or Dubai."
+  },
+  "india_social_context": {
+    "family_acceptance": "high",
+    "regional_availability": "national",
+    "first_year_reality": "Starting as a tax consultant can be challenging, with long working hours and high expectations from clients.",
+    "common_misconceptions": [
+      "Tax consultants only deal with numbers and financials.",
+      "Tax consulting is a low-stress profession."
+    ]
+  },
+  "force_connections": {}
+}

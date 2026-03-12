@@ -1,0 +1,90 @@
+{
+  "career_id": "SCI_016",
+  "title": "Doctor MBBS",
+  "stream": "Science",
+  "description": "A Doctor MBBS in India typically works in hospitals, clinics, or government health services, diagnosing and treating patients, prescribing medications, and performing surgeries. They may also work in research, public health, or administrative roles. Their daily tasks involve examining patients, analyzing medical data, and collaborating with other healthcare professionals.",
+  "riasec_primary": "Realistic",
+  "riasec_secondary": "Investigative",
+  "riasec_scores": {
+    "Realistic": 8,
+    "Investigative": 6,
+    "Artistic": 2,
+    "Social": 4,
+    "Enterprising": 3,
+    "Conventional": 5
+  },
+  "work_values": [
+    "Helping Others",
+    "Sense of Accomplishment",
+    "Job Security"
+  ],
+  "eligible_streams": [
+    "Biology",
+    "Chemistry",
+    "Physics"
+  ],
+  "entrance_exams": [
+    "NEET",
+    "AIIMS"
+  ],
+  "degree_name": "Bachelor of Medicine and Bachelor of Surgery",
+  "degree_duration_years": 5.5,
+  "course_cost_lakhs": {
+    "government_college": 2,
+    "private_college": 12
+  },
+  "top_govt_colleges": [
+    "All India Institute of Medical Sciences",
+    "Christian Medical College",
+    "King George's Medical University",
+    "Maharashtra University of Health Sciences",
+    "National Medical College"
+  ],
+  "top_private_colleges": [
+    "Manipal Academy of Higher Education",
+    "Sri Ramachandra Medical College and Research Institute",
+    "Saveetha Institute of Medical and Technical Sciences",
+    "Kasturba Medical College",
+    "Bharati Vidyapeeth Deemed University"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 4,
+    "mid_3_7_years": 10,
+    "senior_8_15_years": 22,
+    "top_earner": 45
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Mumbai",
+      "Delhi",
+      "Kolkata",
+      "Chennai",
+      "Bangalore"
+    ],
+    "govt_vs_private": "30% govt 70% private",
+    "demand_trend": "stable",
+    "approximate_annual_openings_india": 40000
+  },
+  "career_progression": {
+    "year_0_2": "Residency in a hospital or clinic, with on-the-job training and mentorship.",
+    "year_3_5": "Specialization in a chosen field, such as surgery, pediatrics, or cardiology.",
+    "year_6_10": "Senior residency or fellowship, with leadership roles and research opportunities.",
+    "senior_paths": [
+      "Hospital Administration",
+      "Medical Research",
+      "Public Health"
+    ],
+    "entrepreneurship_exit": "Starting a private medical practice or clinic, with potential for expansion and growth.",
+    "global_pathway": "Opportunities for specialization or research in countries like the US, UK, or Australia, with potential for permanent residency or citizenship."
+  },
+  "india_social_context": {
+    "family_acceptance": "very_high",
+    "regional_availability": "national",
+    "first_year_reality": "Long working hours, high stress levels, and limited personal time.",
+    "common_misconceptions": [
+      "Doctors are always rich and successful.",
+      "Medical school is easy and fun."
+    ]
+  },
+  "force_connections": {}
+}

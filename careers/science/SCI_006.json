@@ -1,0 +1,91 @@
+{
+  "career_id": "SCI_006",
+  "title": "Robotics Engineer",
+  "stream": "Science",
+  "description": "A robotics engineer in India designs, develops, and tests robots and robotic systems for various industries, including manufacturing, healthcare, and transportation. They work on programming, mechanical design, and integration of sensors and actuators. Their day-to-day tasks involve collaborating with cross-functional teams, conducting experiments, and troubleshooting issues.",
+  "riasec_primary": "Realistic",
+  "riasec_secondary": "Investigative",
+  "riasec_scores": {
+    "Realistic": 8,
+    "Investigative": 7,
+    "Artistic": 2,
+    "Social": 3,
+    "Enterprising": 4,
+    "Conventional": 6
+  },
+  "work_values": [
+    "Creativity",
+    "Problem-solving",
+    "Teamwork",
+    "Innovation"
+  ],
+  "eligible_streams": [
+    "Physics, Chemistry, Mathematics",
+    "Biology, Chemistry, Physics"
+  ],
+  "entrance_exams": [
+    "JEE Main",
+    "JEE Advanced",
+    "BITSAT"
+  ],
+  "degree_name": "Bachelor of Engineering in Robotics Engineering",
+  "degree_duration_years": 4,
+  "course_cost_lakhs": {
+    "government_college": 3,
+    "private_college": 15
+  },
+  "top_govt_colleges": [
+    "National Institute of Technology (NIT) Warangal",
+    "NIT Trichy",
+    "NIT Surathkal",
+    "NIT Calicut",
+    "NIT Rourkela"
+  ],
+  "top_private_colleges": [
+    "BITS Pilani",
+    "Vellore Institute of Technology (VIT)",
+    "Sri Sivasubramaniya Nadar College of Engineering (SSN)",
+    "Amrita Vishwa Vidyapeetham",
+    "Birla Institute of Technology (BIT) Mesra"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 4,
+    "mid_3_7_years": 10,
+    "senior_8_15_years": 22,
+    "top_earner": 45
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Bangalore",
+      "Mumbai",
+      "Hyderabad",
+      "Pune",
+      "Chennai"
+    ],
+    "govt_vs_private": "20% govt 80% private",
+    "demand_trend": "growing",
+    "approximate_annual_openings_india": 50000
+  },
+  "career_progression": {
+    "year_0_2": "Assist in design and development of robots, participate in internships, and work on small projects.",
+    "year_3_5": "Work on complex projects, lead teams, and develop expertise in specific areas like computer vision or machine learning.",
+    "year_6_10": "Take on leadership roles, mentor junior engineers, and contribute to research and development.",
+    "senior_paths": [
+      "Technical Lead",
+      "Research Scientist",
+      "Product Manager"
+    ],
+    "entrepreneurship_exit": "Start a robotics-based startup, develop and market innovative products, and create a successful business.",
+    "global_pathway": "Work for international companies like Boston Dynamics, iRobot, or participate in robotics research at top universities abroad."
+  },
+  "india_social_context": {
+    "family_acceptance": "high",
+    "regional_availability": "national",
+    "first_year_reality": "Starting salary is around ₹4-6 lakhs per annum, with a steep learning curve and long working hours.",
+    "common_misconceptions": [
+      "Robotics engineering is only about programming.",
+      "Robotics engineers only work in manufacturing."
+    ]
+  },
+  "force_connections": {}
+}

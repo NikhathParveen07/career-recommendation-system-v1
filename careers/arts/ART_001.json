@@ -1,0 +1,94 @@
+{
+  "career_id": "ART_001",
+  "title": "Lawyer Advocate",
+  "stream": "Arts",
+  "description": "A lawyer advocate in India spends most of their day reading case laws, drafting legal documents, arguing cases in court, and advising clients on legal matters. They often work long hours, including evenings and weekends, to meet deadlines and prepare for trials. In addition, they may need to travel to courts and meet clients at their offices or homes.",
+  "riasec_primary": "Social",
+  "riasec_secondary": "Artistic",
+  "riasec_scores": {
+    "Realistic": 2,
+    "Investigative": 3,
+    "Artistic": 8,
+    "Social": 9,
+    "Enterprising": 1,
+    "Conventional": 2
+  },
+  "work_values": [
+    "helping others",
+    "making a difference",
+    "creativity",
+    "autonomy",
+    "stability"
+  ],
+  "eligible_streams": [
+    "Commerce",
+    "Arts",
+    "Humanities"
+  ],
+  "entrance_exams": [
+    "CLAT",
+    "AILET",
+    "LSAT India"
+  ],
+  "degree_name": "Bachelor of Laws (LL.B.)",
+  "degree_duration_years": 3,
+  "course_cost_lakhs": {
+    "government_college": 1,
+    "private_college": 8
+  },
+  "top_govt_colleges": [
+    "National Law School of India University",
+    "National Law University, Delhi",
+    "National Law University, Jodhpur",
+    "National Law University, Odisha",
+    "Dr. Ram Manohar Lohia National Law University"
+  ],
+  "top_private_colleges": [
+    "Symbiosis Law School, Pune",
+    "Jamia Millia Islamia, New Delhi",
+    "Amity Law School, Noida",
+    "Christ University, Bengaluru",
+    "Manipal University, Jaipur"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 3,
+    "mid_3_7_years": 8,
+    "senior_8_15_years": 18,
+    "top_earner": 35
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Mumbai",
+      "New Delhi",
+      "Bangalore",
+      "Chennai",
+      "Hyderabad"
+    ],
+    "govt_vs_private": "30% govt 70% private",
+    "demand_trend": "stable",
+    "approximate_annual_openings_india": 30000
+  },
+  "career_progression": {
+    "year_0_2": "First 2 years involve articling with a senior lawyer, attending court hearings, and gaining practical experience. You may also take up internships with law firms or government agencies to build your network.",
+    "year_3_5": "Years 3 to 5 involve building your client base, taking on more complex cases, and developing your expertise in a specific area of law. You may also start to take on leadership roles within your firm or organization.",
+    "year_6_10": "Years 6 to 10 involve establishing yourself as a senior lawyer, taking on high-profile cases, and mentoring junior lawyers. You may also start to consider starting your own law firm or practice.",
+    "senior_paths": [
+      "Partner in a law firm",
+      "In-house counsel for a large corporation",
+      "Judge or magistrate"
+    ],
+    "entrepreneurship_exit": "Starting a law firm or practice requires significant investment and planning. You may need to secure funding, build a team, and develop a business plan before launching your venture.",
+    "global_pathway": "Lawyers with international experience or qualifications may find opportunities in countries like the UK, US, or Singapore. However, this often requires additional education or training, as well as a strong understanding of foreign laws and regulations."
+  },
+  "india_social_context": {
+    "family_acceptance": "high",
+    "regional_availability": "national",
+    "first_year_reality": "Starting out as a lawyer can be challenging, with long hours and limited financial rewards. However, with dedication and hard work, you can build a successful career and make a meaningful impact in the legal profession.",
+    "common_misconceptions": [
+      "Lawyers are always rich and successful",
+      "Lawyers only work in courts",
+      "Lawyers have an easy life"
+    ]
+  },
+  "force_connections": {}
+}

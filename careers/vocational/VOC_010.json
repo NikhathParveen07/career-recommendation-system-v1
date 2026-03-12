@@ -1,0 +1,84 @@
+{
+  "career_id": "VOC_010",
+  "title": "Fitter and Turner",
+  "stream": "Vocational",
+  "description": "A Fitter and Turner in India works on assembling, installing, and repairing machinery, tools, and other equipment. They use hand tools, power tools, and precision instruments to perform tasks such as fitting, turning, and drilling. Their work involves attention to detail, manual dexterity, and problem-solving skills to ensure that equipment is functioning correctly and efficiently.",
+  "riasec_primary": "Realistic",
+  "riasec_secondary": "Conventional",
+  "riasec_scores": {
+    "Realistic": 8,
+    "Investigative": 2,
+    "Artistic": 1,
+    "Social": 2,
+    "Enterprising": 1,
+    "Conventional": 6
+  },
+  "work_values": [
+    "Attention to detail",
+    "Manual dexterity",
+    "Problem-solving skills"
+  ],
+  "eligible_streams": [
+    "Vocational",
+    "Engineering",
+    "Technical Education"
+  ],
+  "entrance_exams": [
+    "NCVT",
+    "SCVT",
+    "All India Trade Test (AITT)"
+  ],
+  "degree_name": "Diploma in Fitter and Turner",
+  "degree_duration_years": 3,
+  "course_cost_lakhs": {
+    "government_college": 1,
+    "private_college": 6
+  },
+  "top_govt_colleges": [
+    "National Council for Vocational Training (NCVT) affiliated colleges",
+    "Industrial Training Institutes (ITIs)"
+  ],
+  "top_private_colleges": [
+    "Maharashtra State Board of Technical Education (MSBTE) affiliated colleges",
+    "Delhi State Industrial and Technical Training (DSIT) affiliated colleges"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 3,
+    "mid_3_7_years": 8,
+    "senior_8_15_years": 18,
+    "top_earner": 35
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Mumbai",
+      "Delhi",
+      "Chennai",
+      "Bangalore"
+    ],
+    "govt_vs_private": "30% govt 70% private",
+    "demand_trend": "stable",
+    "approximate_annual_openings_india": 30000
+  },
+  "career_progression": {
+    "year_0_2": "Apprenticeship or entry-level positions in manufacturing, maintenance, or repair shops",
+    "year_3_5": "Promotions to supervisory or team lead roles, or specialization in a specific area like CNC machining or robotics",
+    "year_6_10": "Senior roles in quality control, production planning, or training and development",
+    "senior_paths": [
+      "Quality Control Manager",
+      "Production Planning Manager",
+      "Training and Development Manager"
+    ],
+    "entrepreneurship_exit": "Starting a small business offering repair or maintenance services, or creating a product line using skills learned as a Fitter and Turner",
+    "global_pathway": "Opportunities in countries like the UAE, Saudi Arabia, or Singapore, where there is a high demand for skilled tradespeople"
+  },
+  "india_social_context": {
+    "family_acceptance": "medium",
+    "regional_availability": "national",
+    "first_year_reality": "Initial years may involve working long hours, including night shifts, and facing physical demands of the job",
+    "common_misconceptions": [
+      "Fitter and Turners are only skilled in manual labor",
+      "The job is limited to manufacturing industries"
+    ]
+  },
+  "force_connections": {}
+}

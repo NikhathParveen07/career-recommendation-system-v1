@@ -1,0 +1,87 @@
+{
+  "career_id": "VOC_018",
+  "title": "Mobile Repair Technician",
+  "stream": "Vocational",
+  "description": "A mobile repair technician in India repairs and maintains mobile phones, tablets, and other handheld devices. They diagnose faults, replace damaged components, and perform routine maintenance tasks. They often work in small repair shops, mobile phone stores, or as freelancers, and may also provide on-site repair services to customers.",
+  "riasec_primary": "Realistic",
+  "riasec_secondary": "Conventional",
+  "riasec_scores": {
+    "Realistic": 8,
+    "Investigative": 2,
+    "Artistic": 1,
+    "Social": 3,
+    "Enterprising": 2,
+    "Conventional": 4
+  },
+  "work_values": [
+    "Practicality",
+    "Efficiency",
+    "Reliability",
+    "Attention to detail"
+  ],
+  "eligible_streams": [
+    "Science",
+    "Commerce",
+    "Vocational"
+  ],
+  "entrance_exams": [
+    "NCVT",
+    "NSQF",
+    "ITI"
+  ],
+  "degree_name": "Diploma in Mobile Repair and Maintenance",
+  "degree_duration_years": 2,
+  "course_cost_lakhs": {
+    "government_college": 0.5,
+    "private_college": 5
+  },
+  "top_govt_colleges": [
+    "National Institute of Electronics and Information Technology (NIELIT)",
+    "Central Electronics Engineering Research Institute (CEERI)",
+    "Indian Institute of Information Technology (IIIT)"
+  ],
+  "top_private_colleges": [
+    "Vellore Institute of Technology (VIT)",
+    "Amity University",
+    "Birla Institute of Technology (BIT)"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 2,
+    "mid_3_7_years": 5,
+    "senior_8_15_years": 12,
+    "top_earner": 25
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Bangalore",
+      "Mumbai",
+      "Delhi",
+      "Hyderabad"
+    ],
+    "govt_vs_private": "10% govt 90% private",
+    "demand_trend": "stable",
+    "approximate_annual_openings_india": 20000
+  },
+  "career_progression": {
+    "year_0_2": "Assist senior technicians, learn repair techniques, and gain hands-on experience.",
+    "year_3_5": "Take on more complex repair tasks, manage repair shops, and supervise junior technicians.",
+    "year_6_10": "Specialize in specific areas, such as smartphone repair or tablet maintenance, and take on leadership roles.",
+    "senior_paths": [
+      "Repair shop owner",
+      "Mobile phone manufacturer",
+      "Electronics industry consultant"
+    ],
+    "entrepreneurship_exit": "Start a mobile repair business, offering on-site services and repair shop facilities.",
+    "global_pathway": "Opportunities for specialization in niche areas, such as repair of high-end smartphones or tablets, may exist in countries like the US, UK, or Singapore."
+  },
+  "india_social_context": {
+    "family_acceptance": "medium",
+    "regional_availability": "national",
+    "first_year_reality": "Starting salary is low, and working hours can be long, especially in small repair shops.",
+    "common_misconceptions": [
+      "Mobile repair technicians are not required to have formal education.",
+      "Repairing mobile phones is a simple task that anyone can learn."
+    ]
+  },
+  "force_connections": {}
+}

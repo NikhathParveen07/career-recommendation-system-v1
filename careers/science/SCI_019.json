@@ -1,0 +1,92 @@
+{
+  "career_id": "SCI_019",
+  "title": "Nurse",
+  "stream": "Science",
+  "description": "A nurse in India works in hospitals, clinics, and healthcare facilities, providing basic medical care, administering medications, and assisting doctors. They often work long hours, including night shifts, and may be required to work in challenging environments. Nurses in India also play a crucial role in educating patients and their families about health and wellness, and may be involved in health promotion and disease prevention activities.",
+  "riasec_primary": "Realistic",
+  "riasec_secondary": "Social",
+  "riasec_scores": {
+    "Realistic": 8,
+    "Investigative": 2,
+    "Artistic": 1,
+    "Social": 7,
+    "Enterprising": 1,
+    "Conventional": 1
+  },
+  "work_values": [
+    "helping others",
+    "job security",
+    "work-life balance"
+  ],
+  "eligible_streams": [
+    "PCB",
+    "PCMB",
+    "PCME"
+  ],
+  "entrance_exams": [
+    "NEET",
+    "AIIMS MBBS",
+    "JIPMER MBBS"
+  ],
+  "degree_name": "Bachelor of Science in Nursing",
+  "degree_duration_years": 4,
+  "course_cost_lakhs": {
+    "government_college": 3,
+    "private_college": 15
+  },
+  "top_govt_colleges": [
+    "All India Institute of Medical Sciences (AIIMS)",
+    "Postgraduate Institute of Medical Education and Research (PGIMER)",
+    "Christian Medical College (CMC)",
+    "King George's Medical University (KGMU)",
+    "Maharashtra University of Health Sciences (MUHS)"
+  ],
+  "top_private_colleges": [
+    "Manipal College of Nursing",
+    "Sri Ramachandra Medical College and Research Institute",
+    "Saveetha Institute of Medical and Technical Sciences",
+    "Kasturba Medical College",
+    "Bharati Vidyapeeth Deemed University"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 4,
+    "mid_3_7_years": 10,
+    "senior_8_15_years": 22,
+    "top_earner": 45
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Mumbai",
+      "Delhi",
+      "Bangalore",
+      "Chennai",
+      "Hyderabad"
+    ],
+    "govt_vs_private": "20% govt 80% private",
+    "demand_trend": "growing",
+    "approximate_annual_openings_india": 50000
+  },
+  "career_progression": {
+    "year_0_2": "Initial years involve working under supervision, gaining experience, and developing clinical skills. Nurses may work in various departments, such as pediatrics, surgery, or ICU.",
+    "year_3_5": "As experience grows, nurses may take on more responsibilities, such as leading teams, mentoring junior nurses, and participating in quality improvement initiatives.",
+    "year_6_10": "Senior nurses may specialize in a particular area, such as critical care, oncology, or pediatrics, and may also take on leadership roles or pursue advanced education.",
+    "senior_paths": [
+      "Clinical Specialist",
+      "Nurse Educator",
+      "Nurse Manager"
+    ],
+    "entrepreneurship_exit": "Nurses may start their own healthcare services, such as home care or wellness centers, or create products related to healthcare.",
+    "global_pathway": "Nurses can pursue opportunities abroad, such as working in hospitals, teaching, or research, in countries like the US, UK, or Australia."
+  },
+  "india_social_context": {
+    "family_acceptance": "very_high",
+    "regional_availability": "national",
+    "first_year_reality": "Initial years can be challenging, with long working hours, physical demands, and emotional stress. Nurses may face criticism or skepticism from family and society.",
+    "common_misconceptions": [
+      "Nursing is an easy job",
+      "Nurses only work in hospitals",
+      "Nursing is a low-paying profession"
+    ]
+  },
+  "force_connections": {}
+}

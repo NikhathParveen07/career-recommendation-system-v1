@@ -1,0 +1,96 @@
+{
+  "career_id": "ART_011",
+  "title": "Podcast Content Creator",
+  "stream": "Arts",
+  "description": "A podcast content creator in India typically spends their days researching and writing engaging content for podcasts, collaborating with hosts and producers, and editing audio recordings to ensure high-quality output. They may also engage with listeners through social media and online platforms, and stay updated with the latest trends and developments in the podcasting industry. With the rise of podcasting in India, this role has become increasingly popular, but it still requires a lot of hard work and dedication to succeed.",
+  "riasec_primary": "Artistic",
+  "riasec_secondary": "Social",
+  "riasec_scores": {
+    "Realistic": 0,
+    "Investigative": 0,
+    "Artistic": 8,
+    "Social": 6,
+    "Enterprising": 2,
+    "Conventional": 0
+  },
+  "work_values": [
+    "Creativity",
+    "Self-expression",
+    "Flexibility",
+    "Autonomy",
+    "Recognition"
+  ],
+  "eligible_streams": [
+    "Arts",
+    "Humanities",
+    "Social Sciences",
+    "Mass Media and Communications"
+  ],
+  "entrance_exams": [
+    "NIFT Entrance Exam",
+    "NID Entrance Exam",
+    "UCEED Entrance Exam",
+    "BITSAT Entrance Exam",
+    "JEE Main Entrance Exam"
+  ],
+  "degree_name": "Bachelor of Arts in Mass Communications",
+  "degree_duration_years": 4,
+  "course_cost_lakhs": {
+    "government_college": 2,
+    "private_college": 12
+  },
+  "top_govt_colleges": [
+    "Lady Shri Ram College for Women",
+    "Hansraj College",
+    "Kirori Mal College",
+    "Daulat Ram College",
+    "Miranda House"
+  ],
+  "top_private_colleges": [
+    "MICA Ahmedabad",
+    "Symbiosis Institute of Media and Communication",
+    "Xavier Institute of Communication",
+    "Indian Institute of Journalism and Mass Communication",
+    "Asian College of Journalism"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 3,
+    "mid_3_7_years": 8,
+    "senior_8_15_years": 18,
+    "top_earner": 35
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Mumbai",
+      "Delhi",
+      "Bangalore",
+      "Chennai",
+      "Pune"
+    ],
+    "govt_vs_private": "10% govt 90% private",
+    "demand_trend": "growing",
+    "approximate_annual_openings_india": 30000
+  },
+  "career_progression": {
+    "year_0_2": "Starting out as a podcast content creator, you'll likely work as an intern or assistant to an experienced content creator, learning the ropes and building your portfolio. You may also start creating your own content on platforms like YouTube or Medium to gain visibility and build your personal brand.",
+    "year_3_5": "As you gain experience and build your portfolio, you may move on to working as a full-time content creator for a podcast or media company. You'll be responsible for researching and writing engaging content, collaborating with hosts and producers, and editing audio recordings.",
+    "year_6_10": "With 6-10 years of experience, you may move on to more senior roles such as a content manager or editor for a media company. You'll be responsible for overseeing the content creation process, managing a team of content creators, and ensuring that the content meets the company's standards.",
+    "senior_paths": [
+      "Content Manager",
+      "Editor",
+      "Podcast Producer"
+    ],
+    "entrepreneurship_exit": "To start a podcasting business in India, you'll need to create a business plan, secure funding, and build a team of content creators and producers. You'll also need to market your podcast and attract listeners to build a loyal audience.",
+    "global_pathway": "With experience and a strong portfolio, you may be able to work as a podcast content creator for international media companies or create your own podcast that appeals to a global audience."
+  },
+  "india_social_context": {
+    "family_acceptance": "medium",
+    "regional_availability": "national",
+    "first_year_reality": "Starting out as a podcast content creator can be challenging, with many new entrants competing for a limited number of jobs. You may need to work multiple part-time jobs or internships to gain experience and build your portfolio.",
+    "common_misconceptions": [
+      "Podcasting is easy and requires no experience",
+      "You can make a lot of money as a podcast content creator without any experience"
+    ]
+  },
+  "force_connections": {}
+}

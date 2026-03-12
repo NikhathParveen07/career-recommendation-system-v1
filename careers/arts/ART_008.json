@@ -1,0 +1,97 @@
+{
+  "career_id": "ART_008",
+  "title": "PR Specialist",
+  "stream": "Arts",
+  "description": "A PR Specialist in India typically spends their days crafting and disseminating press releases, managing social media campaigns, and building relationships with media personnel, influencers, and other stakeholders to promote their clients' or organization's image and reputation.",
+  "riasec_primary": "Artistic",
+  "riasec_secondary": "Social",
+  "riasec_scores": {
+    "Realistic": 0,
+    "Investigative": 0,
+    "Artistic": 8,
+    "Social": 6,
+    "Enterprising": 4,
+    "Conventional": 2
+  },
+  "work_values": [
+    "Creativity",
+    "Self-expression",
+    "Social interaction",
+    "Recognition",
+    "Autonomy"
+  ],
+  "eligible_streams": [
+    "English",
+    "Hindi",
+    "Economics",
+    "History",
+    "Political Science"
+  ],
+  "entrance_exams": [
+    "NIFT Entrance Exam",
+    "NID Entrance Exam",
+    "XAT",
+    "CMAT",
+    "MBA Entrance Exams"
+  ],
+  "degree_name": "Bachelor of Mass Media",
+  "degree_duration_years": 4,
+  "course_cost_lakhs": {
+    "government_college": 3,
+    "private_college": 15
+  },
+  "top_govt_colleges": [
+    "Lady Shri Ram College for Women",
+    "Hansraj College",
+    "Kirori Mal College",
+    "Daulat Ram College",
+    "Shri Ram College of Commerce"
+  ],
+  "top_private_colleges": [
+    "MICA Ahmedabad",
+    "Symbiosis Institute of Media and Communication",
+    "Xavier Institute of Communication",
+    "Manipal University Jaipur",
+    "Amity University Noida"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 4,
+    "mid_3_7_years": 10,
+    "senior_8_15_years": 22,
+    "top_earner": 45
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Mumbai",
+      "Delhi",
+      "Bangalore",
+      "Chennai",
+      "Pune"
+    ],
+    "govt_vs_private": "20% govt 80% private",
+    "demand_trend": "growing",
+    "approximate_annual_openings_india": 50000
+  },
+  "career_progression": {
+    "year_0_2": "Entry-level PR roles in small agencies or in-house teams, handling social media and basic PR tasks.",
+    "year_3_5": "Mid-level PR roles in larger agencies or in-house teams, handling more complex PR tasks and managing teams.",
+    "year_6_10": "Senior PR roles in top agencies or in-house teams, handling high-profile clients and leading teams.",
+    "senior_paths": [
+      "PR Agency Manager",
+      "In-house PR Manager",
+      "Corporate Communications Manager"
+    ],
+    "entrepreneurship_exit": "Starting a boutique PR agency or a digital marketing firm.",
+    "global_pathway": "Opportunities in international PR agencies, in-house teams, or as a freelancer in countries like the US, UK, or Singapore."
+  },
+  "india_social_context": {
+    "family_acceptance": "medium",
+    "regional_availability": "national",
+    "first_year_reality": "Starting out can be challenging, with long working hours and low pay.",
+    "common_misconceptions": [
+      "PR is all about glamour and fame",
+      "PR is only for celebrities and politicians"
+    ]
+  },
+  "force_connections": {}
+}

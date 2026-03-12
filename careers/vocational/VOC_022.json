@@ -1,0 +1,92 @@
+{
+  "career_id": "VOC_022",
+  "title": "Yoga Instructor",
+  "stream": "Vocational",
+  "description": "A yoga instructor in India typically teaches yoga classes in gyms, studios, or private settings. They design and lead yoga sessions for students of various skill levels, often focusing on physical postures, breathing techniques, and meditation. In addition to teaching, they may also conduct workshops, events, and online sessions, and sometimes offer private coaching or therapy services.",
+  "riasec_primary": "Social",
+  "riasec_secondary": "Enterprising",
+  "riasec_scores": {
+    "Realistic": 4,
+    "Investigative": 2,
+    "Artistic": 3,
+    "Social": 8,
+    "Enterprising": 6,
+    "Conventional": 1
+  },
+  "work_values": [
+    "Creativity",
+    "Helping Others",
+    "Flexibility"
+  ],
+  "eligible_streams": [
+    "Commerce",
+    "Arts",
+    "Science",
+    "Vocational"
+  ],
+  "entrance_exams": [
+    "NAT",
+    "YIC",
+    "YOGA CET"
+  ],
+  "degree_name": "Diploma in Yoga",
+  "degree_duration_years": 2,
+  "course_cost_lakhs": {
+    "government_college": 2,
+    "private_college": 8
+  },
+  "top_govt_colleges": [
+    "Yoga University, Rishikesh",
+    "National Institute of Yoga, New Delhi",
+    "Swami Vivekananda Yoga Anusandhana Samsthana, Bengaluru",
+    "Sri Sathya Sai Institute of Higher Medical Sciences, Puttaparthi",
+    "Baba Ramdev's Patanjali Yogpeeth, Haridwar"
+  ],
+  "top_private_colleges": [
+    "Sivananda Yoga Vedanta Dhanwantari, Kerala",
+    "Yoga Institute, Mumbai",
+    "Art of Living, Bengaluru",
+    "Isha Yoga, Coimbatore",
+    "Sri Aurobindo Ashram, Pondicherry"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 3,
+    "mid_3_7_years": 8,
+    "senior_8_15_years": 18,
+    "top_earner": 35
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Mumbai",
+      "New Delhi",
+      "Bengaluru",
+      "Chennai",
+      "Pune"
+    ],
+    "govt_vs_private": "40% govt 60% private",
+    "demand_trend": "stable",
+    "approximate_annual_openings_india": 30000
+  },
+  "career_progression": {
+    "year_0_2": "Initial years involve teaching yoga classes, workshops, and events. You may also assist senior instructors or work as a yoga therapist.",
+    "year_3_5": "As you gain experience, you can lead your own classes, workshops, and events. You may also start offering private coaching or therapy services.",
+    "year_6_10": "You can become a senior instructor, leading large classes and workshops. You may also start your own yoga studio or business.",
+    "senior_paths": [
+      "Yoga Therapy",
+      "Yoga Education",
+      "Yoga Business"
+    ],
+    "entrepreneurship_exit": "You can start a yoga studio, online platform, or product business, leveraging your expertise and network.",
+    "global_pathway": "You can work as a yoga instructor in international yoga retreats, studios, or resorts, or teach yoga abroad through online platforms."
+  },
+  "india_social_context": {
+    "family_acceptance": "high",
+    "regional_availability": "national",
+    "first_year_reality": "Starting out as a yoga instructor can be challenging, with limited income and uncertain job security.",
+    "common_misconceptions": [
+      "Yoga is a hobby, not a career",
+      "Yoga instructors are not respected professionals"
+    ]
+  },
+  "force_connections": {}
+}

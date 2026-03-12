@@ -1,0 +1,87 @@
+{
+  "career_id": "VOC_008",
+  "title": "Industrial Mechanic",
+  "stream": "Vocational",
+  "description": "An Industrial Mechanic in India performs routine maintenance, repairs, and overhauls of machinery and equipment in various industries such as manufacturing, construction, and power plants. They work with hands-on skills, using tools and equipment to diagnose and fix problems, and may also be involved in quality control and safety inspections. Their work is often physically demanding and requires attention to detail, problem-solving skills, and the ability to work independently or as part of a team.",
+  "riasec_primary": "Realistic",
+  "riasec_secondary": "Conventional",
+  "riasec_scores": {
+    "Realistic": 8,
+    "Investigative": 2,
+    "Artistic": 1,
+    "Social": 3,
+    "Enterprising": 2,
+    "Conventional": 4
+  },
+  "work_values": [
+    "Practicality",
+    "Efficiency",
+    "Reliability",
+    "Precision",
+    "Quality",
+    "Safety"
+  ],
+  "eligible_streams": [
+    "Science",
+    "Mathematics",
+    "Vocational"
+  ],
+  "entrance_exams": [
+    "ITI Entrance Exam",
+    "NCVT Exam",
+    "DGET Exam"
+  ],
+  "degree_name": "Diploma in Industrial Mechanic",
+  "degree_duration_years": 3,
+  "course_cost_lakhs": {
+    "government_college": 2,
+    "private_college": 8
+  },
+  "top_govt_colleges": [
+    "National Council of Vocational Training (NCVT) Institutes",
+    "Industrial Training Institutes (ITIs)"
+  ],
+  "top_private_colleges": [
+    "Vocational Training Centres (VTCs)",
+    "Industrial Training Centres (ITCs)"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 3,
+    "mid_3_7_years": 7,
+    "senior_8_15_years": 18,
+    "top_earner": 35
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Mumbai",
+      "Delhi",
+      "Chennai",
+      "Bangalore"
+    ],
+    "govt_vs_private": "30% govt 70% private",
+    "demand_trend": "stable",
+    "approximate_annual_openings_india": 30000
+  },
+  "career_progression": {
+    "year_0_2": "Assist senior mechanics, learn basic repair and maintenance skills, and work under supervision.",
+    "year_3_5": "Take on more responsibility, work independently, and specialize in specific areas such as electrical or mechanical systems.",
+    "year_6_10": "Supervise junior mechanics, oversee projects, and develop expertise in complex equipment and systems.",
+    "senior_paths": [
+      "Maintenance Manager",
+      "Equipment Specialist",
+      "Quality Control Inspector"
+    ],
+    "entrepreneurship_exit": "Start a small repair shop or maintenance service, or offer specialized services to industries.",
+    "global_pathway": "Opportunities for work in the Middle East, Southeast Asia, and Africa, particularly in the oil and gas, construction, and manufacturing sectors."
+  },
+  "india_social_context": {
+    "family_acceptance": "medium",
+    "regional_availability": "national",
+    "first_year_reality": "Initial years can be challenging, with long working hours and physical demands.",
+    "common_misconceptions": [
+      "Industrial Mechanics are only skilled laborers.",
+      "The job is not challenging or requires high-level skills."
+    ]
+  },
+  "force_connections": {}
+}

@@ -1,0 +1,97 @@
+{
+  "career_id": "ART_015",
+  "title": "Fashion Designer",
+  "stream": "Arts",
+  "description": "A Fashion Designer in India spends most of their time conceptualizing and creating clothing designs, patterns, and prototypes for various clients. They work closely with manufacturers, suppliers, and other stakeholders to ensure timely production and quality control. Additionally, they stay updated with the latest fashion trends, attend fashion shows, and participate in workshops to enhance their skills and knowledge.",
+  "riasec_primary": "Artistic",
+  "riasec_secondary": "Conventional",
+  "riasec_scores": {
+    "Realistic": 0,
+    "Investigative": 0,
+    "Artistic": 8,
+    "Social": 0,
+    "Enterprising": 0,
+    "Conventional": 4
+  },
+  "work_values": [
+    "Creativity",
+    "Self-expression",
+    "Innovation",
+    "Quality",
+    "Attention to detail"
+  ],
+  "eligible_streams": [
+    "Fine Arts",
+    "Home Science",
+    "Textile Design",
+    "Fashion Design",
+    "Interior Design"
+  ],
+  "entrance_exams": [
+    "NIFT Entrance Exam",
+    "NID Entrance Exam",
+    "UCEED Entrance Exam",
+    "AIEED Entrance Exam",
+    "FDCE Entrance Exam"
+  ],
+  "degree_name": "Bachelor of Design (Fashion Design)",
+  "degree_duration_years": 4,
+  "course_cost_lakhs": {
+    "government_college": 2,
+    "private_college": 12
+  },
+  "top_govt_colleges": [
+    "National Institute of Fashion Technology (NIFT) Delhi",
+    "National Institute of Fashion Technology (NIFT) Mumbai",
+    "National Institute of Fashion Technology (NIFT) Bengaluru",
+    "National Institute of Fashion Technology (NIFT) Chennai",
+    "National Institute of Fashion Technology (NIFT) Kolkata"
+  ],
+  "top_private_colleges": [
+    "Pearl Academy Delhi",
+    "National Institute of Fashion Technology (NIFT) Mumbai",
+    "Symbiosis Institute of Design (SID) Pune",
+    "Indian Institute of Art and Design (IIAD) New Delhi",
+    "WLCI School of Fashion Technology Mumbai"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 3,
+    "mid_3_7_years": 8,
+    "senior_8_15_years": 18,
+    "top_earner": 35
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Mumbai",
+      "Delhi",
+      "Bangalore",
+      "Chennai",
+      "Pune"
+    ],
+    "govt_vs_private": "10% govt 90% private",
+    "demand_trend": "stable",
+    "approximate_annual_openings_india": 30000
+  },
+  "career_progression": {
+    "year_0_2": "Assistants in design studios, work on small projects, and assist in production.",
+    "year_3_5": "Work as junior designers in design studios, participate in fashion shows, and create designs for clients.",
+    "year_6_10": "Lead design teams, create collections for clients, and participate in international fashion shows.",
+    "senior_paths": [
+      "Senior Designer",
+      "Creative Director",
+      "Fashion Consultant"
+    ],
+    "entrepreneurship_exit": "Start a fashion label, create a clothing line, or open a fashion boutique.",
+    "global_pathway": "Work in international fashion brands, participate in international fashion shows, or start a fashion business abroad."
+  },
+  "india_social_context": {
+    "family_acceptance": "high",
+    "regional_availability": "national",
+    "first_year_reality": "Starting out can be challenging, with long working hours and low pay.",
+    "common_misconceptions": [
+      "Fashion designing is all about glamour and fame.",
+      "Fashion designing is easy and requires no skills."
+    ]
+  },
+  "force_connections": {}
+}

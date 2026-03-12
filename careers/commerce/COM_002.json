@@ -1,0 +1,88 @@
+{
+  "career_id": "COM_002",
+  "title": "Cost Accountant CMA",
+  "stream": "Commerce",
+  "description": "A Cost Accountant CMA in India typically spends their days analyzing financial data, preparing budgets, and ensuring compliance with accounting standards. They work closely with management to make informed business decisions and optimize resource allocation. Their tasks may include financial reporting, cost control, and performance analysis, often using specialized software and tools.",
+  "riasec_primary": "Conventional",
+  "riasec_secondary": "Realistic",
+  "riasec_scores": {
+    "Realistic": 6,
+    "Investigative": 4,
+    "Artistic": 2,
+    "Social": 3,
+    "Enterprising": 5,
+    "Conventional": 8
+  },
+  "work_values": [
+    "Attention to detail",
+    "Analytical thinking",
+    "Organizational skills",
+    "Problem-solving ability",
+    "Financial expertise",
+    "Compliance with regulations"
+  ],
+  "eligible_streams": [
+    "Commerce",
+    "Accountancy",
+    "Business Studies"
+  ],
+  "entrance_exams": [
+    "CMA Foundation",
+    "CMA Inter",
+    "CMA Final"
+  ],
+  "degree_name": "Certified Management Accountant (CMA)",
+  "degree_duration_years": 3,
+  "course_cost_lakhs": {
+    "government_college": 2,
+    "private_college": 10
+  },
+  "top_govt_colleges": [
+    "Institute of Cost Accountants of India (ICAI)"
+  ],
+  "top_private_colleges": [
+    "ICAI's own colleges",
+    "Symbiosis Institute of Cost and Management Accountants",
+    "K J Somaiya Institute of Cost and Management Studies",
+    "Institute of Management Studies (IMS)"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 3.5,
+    "mid_3_7_years": 8,
+    "senior_8_15_years": 18,
+    "top_earner": 35
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Mumbai",
+      "Delhi",
+      "Bangalore",
+      "Chennai"
+    ],
+    "govt_vs_private": "10% govt 90% private",
+    "demand_trend": "stable",
+    "approximate_annual_openings_india": 30000
+  },
+  "career_progression": {
+    "year_0_2": "Entry-level roles in accounting firms, internal audit, or financial analysis. Developing skills in financial reporting, budgeting, and cost control.",
+    "year_3_5": "Mid-level roles in management accounting, financial planning, or cost management. Taking on leadership roles, mentoring junior staff, and contributing to strategic decision-making.",
+    "year_6_10": "Senior roles in financial management, strategic planning, or business development. Leading teams, driving business growth, and advising senior management on financial matters.",
+    "senior_paths": [
+      "Financial Planning and Analysis (FP&A) Manager",
+      "Cost Management Specialist",
+      "Financial Controller"
+    ],
+    "entrepreneurship_exit": "Cost Accountants can leverage their expertise to start their own consulting firms, offering services in financial analysis, cost management, and business strategy.",
+    "global_pathway": "Cost Accountants can pursue international certifications like CIMA (Chartered Institute of Management Accountants) or ACCA (Association of Chartered Certified Accountants), enhancing their career prospects globally."
+  },
+  "india_social_context": {
+    "family_acceptance": "high",
+    "regional_availability": "national",
+    "first_year_reality": "Initial years may involve long working hours, intense focus on studies, and limited social life. However, with experience, the work-life balance improves, and opportunities for professional growth increase.",
+    "common_misconceptions": [
+      "Cost Accountants are only involved in financial reporting.",
+      "Cost Accountants do not have opportunities for career growth."
+    ]
+  },
+  "force_connections": {}
+}

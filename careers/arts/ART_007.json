@@ -1,0 +1,98 @@
+{
+  "career_id": "ART_007",
+  "title": "Content Writer",
+  "stream": "Arts",
+  "description": "A Content Writer in India creates engaging content for various mediums like blogs, articles, social media, and websites. They conduct research, write articles, and edit content to meet client or company requirements. They often work on a freelance or contract basis, and their work hours can be flexible, but may also involve tight deadlines and pressure to produce high-quality content within a short timeframe.",
+  "riasec_primary": "Artistic",
+  "riasec_secondary": "Social",
+  "riasec_scores": {
+    "Realistic": 2,
+    "Investigative": 3,
+    "Artistic": 8,
+    "Social": 4,
+    "Enterprising": 1,
+    "Conventional": 2
+  },
+  "work_values": [
+    "creativity",
+    "self-expression",
+    "helping others",
+    "making a difference"
+  ],
+  "eligible_streams": [
+    "English Literature",
+    "Hindi Literature",
+    "History",
+    "Philosophy",
+    "Psychology",
+    "Sociology"
+  ],
+  "entrance_exams": [
+    "NET (National Eligibility Test)",
+    "SET (State Eligibility Test)",
+    "JNUEE (Jawaharlal Nehru University Entrance Examination)",
+    "DUET (Delhi University Entrance Test)",
+    "CUSAT (Cochin University of Science and Technology) CAT (Common Admission Test)"
+  ],
+  "degree_name": "Master of Arts (MA)",
+  "degree_duration_years": 2,
+  "course_cost_lakhs": {
+    "government_college": 1,
+    "private_college": 8
+  },
+  "top_govt_colleges": [
+    "Jawaharlal Nehru University",
+    "University of Delhi",
+    "University of Calcutta",
+    "University of Mumbai",
+    "University of Hyderabad"
+  ],
+  "top_private_colleges": [
+    "Christ University",
+    "Symbiosis International University",
+    "Amity University",
+    "Birla Institute of Technology and Science",
+    "Manipal University"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 2.5,
+    "mid_3_7_years": 6,
+    "senior_8_15_years": 15,
+    "top_earner": 30
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Mumbai",
+      "Delhi",
+      "Bangalore",
+      "Chennai",
+      "Kolkata"
+    ],
+    "govt_vs_private": "10% govt 90% private",
+    "demand_trend": "growing",
+    "approximate_annual_openings_india": 30000
+  },
+  "career_progression": {
+    "year_0_2": "Start as a junior content writer, work on small projects, and build portfolio. Develop writing skills, learn about content marketing, and understand client requirements.",
+    "year_3_5": "Take on more responsibilities, lead content projects, and manage a team. Develop expertise in specific niches, and build a professional network.",
+    "year_6_10": "Become a senior content writer, lead content strategy, and mentor junior writers. Develop leadership skills, and build a personal brand.",
+    "senior_paths": [
+      "Content Strategist",
+      "Digital Marketing Manager",
+      "Editor",
+      "Publishing Manager"
+    ],
+    "entrepreneurship_exit": "Start a content writing agency, create and sell online courses, or launch a podcast.",
+    "global_pathway": "Work as a content writer for international companies, or start a content writing business in a foreign country."
+  },
+  "india_social_context": {
+    "family_acceptance": "medium",
+    "regional_availability": "national",
+    "first_year_reality": "Starting as a content writer can be challenging, with low pay and high competition. However, with persistence and hard work, it is possible to build a successful career.",
+    "common_misconceptions": [
+      "Content writing is easy and requires no skills.",
+      "Content writing is a stable and secure career."
+    ]
+  },
+  "force_connections": {}
+}

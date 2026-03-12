@@ -1,0 +1,92 @@
+{
+  "career_id": "SCI_021",
+  "title": "Research Scientist",
+  "stream": "Science",
+  "description": "A Research Scientist in India typically spends their days conducting experiments, collecting and analyzing data, and publishing research papers. They often work in laboratories, universities, or research institutions, and may collaborate with other scientists and experts. Their work involves staying up-to-date with the latest developments in their field and applying their knowledge to solve real-world problems.",
+  "riasec_primary": "Investigative",
+  "riasec_secondary": "Realistic",
+  "riasec_scores": {
+    "Realistic": 6,
+    "Investigative": 8,
+    "Artistic": 2,
+    "Social": 3,
+    "Enterprising": 4,
+    "Conventional": 1
+  },
+  "work_values": [
+    "Independence",
+    "Intellectual Stimulation",
+    "Problem-Solving"
+  ],
+  "eligible_streams": [
+    "Biology",
+    "Chemistry",
+    "Physics",
+    "Mathematics"
+  ],
+  "entrance_exams": [
+    "IIT JAM",
+    "GATE",
+    "NET"
+  ],
+  "degree_name": "Master of Science (M.Sc.)",
+  "degree_duration_years": 2,
+  "course_cost_lakhs": {
+    "government_college": 2,
+    "private_college": 10
+  },
+  "top_govt_colleges": [
+    "Indian Institute of Science (IISc)",
+    "Tata Institute of Fundamental Research (TIFR)",
+    "Indian Institute of Technology (IIT) Bombay",
+    "Indian Institute of Science Education and Research (IISER) Pune",
+    "National Centre for Biological Sciences (NCBS)"
+  ],
+  "top_private_colleges": [
+    "Indian Institute of Technology (IIT) Delhi",
+    "Birla Institute of Technology and Science (BITS) Pilani",
+    "Indian Institute of Technology (IIT) Kanpur",
+    "Anna University",
+    "Vellore Institute of Technology (VIT)"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 3,
+    "mid_3_7_years": 8,
+    "senior_8_15_years": 18,
+    "top_earner": 35
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Bangalore",
+      "Mumbai",
+      "Delhi",
+      "Pune",
+      "Hyderabad"
+    ],
+    "govt_vs_private": "30% govt 70% private",
+    "demand_trend": "stable",
+    "approximate_annual_openings_india": 30000
+  },
+  "career_progression": {
+    "year_0_2": "Typically, a Research Scientist in India starts their career by working as a junior researcher or research assistant. They may assist senior researchers, collect data, and conduct experiments.",
+    "year_3_5": "As they gain experience, they may take on more responsibilities, such as leading research projects, mentoring junior researchers, and publishing research papers.",
+    "year_6_10": "With significant experience, they may become senior researchers, lead research teams, and take on leadership roles in their institutions.",
+    "senior_paths": [
+      "Research Manager",
+      "Professor",
+      "Scientific Consultant"
+    ],
+    "entrepreneurship_exit": "A Research Scientist in India may start their own research-based business, such as a consulting firm or a research services company.",
+    "global_pathway": "With a strong research background, a Research Scientist in India may pursue opportunities abroad, such as working in research institutions, universities, or industries in developed countries."
+  },
+  "india_social_context": {
+    "family_acceptance": "high",
+    "regional_availability": "national",
+    "first_year_reality": "Starting as a Research Scientist in India can be challenging, with limited job opportunities and intense competition.",
+    "common_misconceptions": [
+      "Research Scientists are always working in laboratories.",
+      "Research Scientists have a fixed 9-to-5 schedule."
+    ]
+  },
+  "force_connections": {}
+}

@@ -1,0 +1,97 @@
+{
+  "career_id": "VOC_028",
+  "title": "Agricultural Technician",
+  "stream": "Vocational",
+  "description": "An Agricultural Technician in India works with farmers, agricultural companies, and research institutions to improve crop yields, soil quality, and pest management. They conduct experiments, collect data, and analyze results to develop new farming techniques and technologies. Their daily tasks involve visiting farms, collecting samples, and providing technical guidance to farmers and farm workers.",
+  "riasec_primary": "Realistic",
+  "riasec_secondary": "Investigative",
+  "riasec_scores": {
+    "Realistic": 8,
+    "Investigative": 6,
+    "Artistic": 2,
+    "Social": 3,
+    "Enterprising": 4,
+    "Conventional": 1
+  },
+  "work_values": [
+    "Job Security",
+    "Stability",
+    "Opportunities for Advancement",
+    "Work-Life Balance",
+    "Sense of Accomplishment"
+  ],
+  "eligible_streams": [
+    "Agriculture",
+    "Vocational",
+    "Science",
+    "Mathematics",
+    "Commerce"
+  ],
+  "entrance_exams": [
+    "AIEEA",
+    "NCHMCT JEE",
+    "ICAR AIEEA",
+    "BCECE",
+    "KCET"
+  ],
+  "degree_name": "Bachelor of Science in Agriculture",
+  "degree_duration_years": 4,
+  "course_cost_lakhs": {
+    "government_college": 2,
+    "private_college": 12
+  },
+  "top_govt_colleges": [
+    "College of Agriculture, Punjab Agricultural University",
+    "College of Agriculture, Jawaharlal Nehru Agricultural University",
+    "College of Agriculture, Tamil Nadu Agricultural University",
+    "College of Agriculture, Andhra Pradesh Agricultural University",
+    "College of Agriculture, Bihar Agricultural University"
+  ],
+  "top_private_colleges": [
+    "Suresh Gyan Vihar University",
+    "Birla Institute of Technology and Science",
+    "Symbiosis International University",
+    "Amity University",
+    "Lovely Professional University"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 3,
+    "mid_3_7_years": 8,
+    "senior_8_15_years": 18,
+    "top_earner": 35
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Delhi",
+      "Mumbai",
+      "Chennai",
+      "Bangalore",
+      "Hyderabad"
+    ],
+    "govt_vs_private": "30% govt 70% private",
+    "demand_trend": "stable",
+    "approximate_annual_openings_india": 30000
+  },
+  "career_progression": {
+    "year_0_2": "Assist in farm experiments, collect data, and analyze results. Work under the supervision of senior agricultural technicians.",
+    "year_3_5": "Conduct experiments independently, develop new farming techniques, and provide technical guidance to farmers and farm workers.",
+    "year_6_10": "Lead research teams, develop and implement new agricultural technologies, and provide training to junior agricultural technicians.",
+    "senior_paths": [
+      "Agricultural Research and Development",
+      "Agricultural Extension Services",
+      "Agricultural Education and Training"
+    ],
+    "entrepreneurship_exit": "Start a business providing agricultural services, such as crop management, soil testing, and pest control.",
+    "global_pathway": "Work in international agricultural organizations, such as the Food and Agriculture Organization of the United Nations, or work in agricultural companies in countries with a strong agricultural industry."
+  },
+  "india_social_context": {
+    "family_acceptance": "high",
+    "regional_availability": "national",
+    "first_year_reality": "Starting salary is low, and working hours can be long, especially during peak agricultural seasons.",
+    "common_misconceptions": [
+      "Agricultural technicians only work in rural areas.",
+      "Agricultural technicians do not require a degree."
+    ]
+  },
+  "force_connections": {}
+}

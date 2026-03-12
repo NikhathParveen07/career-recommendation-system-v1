@@ -1,0 +1,96 @@
+{
+  "career_id": "ART_020",
+  "title": "Psychologist Counsellor",
+  "stream": "Arts",
+  "description": "A Psychologist Counsellor in India works with individuals, groups, or families to help them cope with various mental health issues, relationship problems, or personal crises. They may work in hospitals, clinics, schools, or private practice, using various techniques such as cognitive-behavioral therapy, psychodynamic therapy, or family therapy. Their daily tasks may include conducting assessments, developing treatment plans, providing therapy sessions, and maintaining records. They may also work with community organizations, NGOs, or government agencies to promote mental health awareness and provide training to professionals.",
+  "riasec_primary": "Artistic",
+  "riasec_secondary": "Social",
+  "riasec_scores": {
+    "Realistic": 0,
+    "Investigative": 0,
+    "Artistic": 8,
+    "Social": 6,
+    "Enterprising": 2,
+    "Conventional": 4
+  },
+  "work_values": [
+    "Helping Others",
+    "Personal Growth",
+    "Work-Life Balance"
+  ],
+  "eligible_streams": [
+    "Humanities",
+    "Social Sciences",
+    "Psychology",
+    "Sociology"
+  ],
+  "entrance_exams": [
+    "NEET",
+    "JIPMER",
+    "AIIMS",
+    "UGC NET",
+    "CSIR NET"
+  ],
+  "degree_name": "Master of Arts in Psychology",
+  "degree_duration_years": 2,
+  "course_cost_lakhs": {
+    "government_college": 2,
+    "private_college": 8
+  },
+  "top_govt_colleges": [
+    "University of Delhi",
+    "Jawaharlal Nehru University",
+    "Banaras Hindu University",
+    "University of Mumbai",
+    "University of Calcutta"
+  ],
+  "top_private_colleges": [
+    "Christ University",
+    "Symbiosis International University",
+    "Manipal University",
+    "Amity University",
+    "Birla Institute of Technology and Science"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 3.5,
+    "mid_3_7_years": 8,
+    "senior_8_15_years": 18,
+    "top_earner": 35
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Mumbai",
+      "Delhi",
+      "Bangalore",
+      "Chennai",
+      "Hyderabad"
+    ],
+    "govt_vs_private": "30% govt 70% private",
+    "demand_trend": "growing",
+    "approximate_annual_openings_india": 30000
+  },
+  "career_progression": {
+    "year_0_2": "Starts as a trainee counsellor in a hospital or clinic, working under the supervision of a senior counsellor. May also work in a school or private practice.",
+    "year_3_5": "Gains experience and starts working independently, taking on more complex cases. May also start teaching or training others.",
+    "year_6_10": "Specializes in a particular area of psychology, such as clinical psychology or neuropsychology. May also start working in research or academia.",
+    "senior_paths": [
+      "Clinical Psychology",
+      "Neuropsychology",
+      "Counselling Psychology",
+      "Research and Academia",
+      "Policy and Advocacy"
+    ],
+    "entrepreneurship_exit": "May start a private practice or a mental health clinic, or create online resources and services.",
+    "global_pathway": "Opportunities for working abroad in countries like the US, UK, Australia, or Canada, or working with international organizations."
+  },
+  "india_social_context": {
+    "family_acceptance": "high",
+    "regional_availability": "national",
+    "first_year_reality": "Starting salary is low, and may have to work long hours or irregular shifts. May also face stigma or misconceptions about mental health professionals.",
+    "common_misconceptions": [
+      "Mental health professionals are only for rich people",
+      "Mental health professionals are only for severe cases"
+    ]
+  },
+  "force_connections": {}
+}

@@ -1,0 +1,97 @@
+{
+  "career_id": "ART_014",
+  "title": "UI UX Designer",
+  "stream": "Arts",
+  "description": "A UI UX Designer in India spends most of their time creating user-friendly and visually appealing digital products, such as websites and mobile applications. They conduct user research, create wireframes and prototypes, and test their designs with users to ensure a seamless user experience. They also work closely with cross-functional teams, including developers and product managers, to bring their designs to life.",
+  "riasec_primary": "Artistic",
+  "riasec_secondary": "Conventional",
+  "riasec_scores": {
+    "Realistic": 0,
+    "Investigative": 0,
+    "Artistic": 8,
+    "Social": 0,
+    "Enterprising": 0,
+    "Conventional": 4
+  },
+  "work_values": [
+    "Creativity",
+    "Self-expression",
+    "Flexibility",
+    "Autonomy"
+  ],
+  "eligible_streams": [
+    "Commerce",
+    "Science",
+    "Arts",
+    "Humanities"
+  ],
+  "entrance_exams": [
+    "NID DAT",
+    "UCEED",
+    "CEED",
+    "B.Des Entrance Exam"
+  ],
+  "degree_name": "Bachelor of Design (B.Des.)",
+  "degree_duration_years": 4,
+  "course_cost_lakhs": {
+    "government_college": 3,
+    "private_college": 15
+  },
+  "top_govt_colleges": [
+    "National Institute of Design (NID)",
+    "Indian Institute of Technology (IIT) Bombay",
+    "Indian Institute of Technology (IIT) Delhi",
+    "National Institute of Fashion Technology (NIFT)",
+    "Indian Institute of Technology (IIT) Kanpur"
+  ],
+  "top_private_colleges": [
+    "Srishti Institute of Art, Design and Technology",
+    "Raffles Design International",
+    "Pearl Academy",
+    "Apeejay Institute of Design",
+    "MIT Institute of Design"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 4,
+    "mid_3_7_years": 10,
+    "senior_8_15_years": 22,
+    "top_earner": 45
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Bangalore",
+      "Mumbai",
+      "New Delhi",
+      "Hyderabad",
+      "Pune"
+    ],
+    "govt_vs_private": "20% govt 80% private",
+    "demand_trend": "growing",
+    "approximate_annual_openings_india": 50000
+  },
+  "career_progression": {
+    "year_0_2": "Starts as a junior designer, working on small projects and assisting senior designers. Develops basic design skills and learns to work with design tools.",
+    "year_3_5": "Takes on more responsibility, working on larger projects and leading smaller teams. Develops expertise in specific design areas, such as UI or UX.",
+    "year_6_10": "Becomes a senior designer, leading large projects and mentoring junior designers. Develops leadership skills and expertise in design management.",
+    "senior_paths": [
+      "Design Director",
+      "Creative Director",
+      "UX Strategist",
+      "Design Consultant",
+      "Entrepreneur"
+    ],
+    "entrepreneurship_exit": "Can start a design studio or a product design company, offering services to clients.",
+    "global_pathway": "Can work with international companies or start-ups, or move to countries like the US, UK, or Australia for better opportunities."
+  },
+  "india_social_context": {
+    "family_acceptance": "high",
+    "regional_availability": "national",
+    "first_year_reality": "Starting salary is around ₹4-6 lakhs per annum, and the first year can be challenging as the designer needs to learn the ropes and adapt to the work environment.",
+    "common_misconceptions": [
+      "Designing is just about being creative",
+      "Designers don't need to learn coding",
+      "Designing is a solo activity"
+    ]
+  },
+  "force_connections": {}
+}

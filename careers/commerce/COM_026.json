@@ -1,0 +1,96 @@
+{
+  "career_id": "COM_026",
+  "title": "Real Estate Professional",
+  "stream": "Commerce",
+  "description": "A Real Estate Professional in India is responsible for buying, selling, and renting properties. They work with clients to understand their needs, conduct site visits, and negotiate deals. They also handle paperwork, market properties, and stay updated with market trends and regulations.",
+  "riasec_primary": "Enterprising",
+  "riasec_secondary": "Conventional",
+  "riasec_scores": {
+    "Realistic": 6,
+    "Investigative": 4,
+    "Artistic": 3,
+    "Social": 5,
+    "Enterprising": 8,
+    "Conventional": 7
+  },
+  "work_values": [
+    "Achievement",
+    "Recognition",
+    "Independence",
+    "Security",
+    "Stability"
+  ],
+  "eligible_streams": [
+    "Commerce",
+    "Economics",
+    "Business Studies",
+    "Accountancy"
+  ],
+  "entrance_exams": [
+    "CLAT",
+    "LSAT",
+    "IPU CET",
+    "AEEE",
+    "NATA"
+  ],
+  "degree_name": "Bachelor of Business Administration (BBA) in Real Estate",
+  "degree_duration_years": 4,
+  "course_cost_lakhs": {
+    "government_college": 3,
+    "private_college": 15
+  },
+  "top_govt_colleges": [
+    "National Law University, Delhi",
+    "University of Delhi",
+    "Jamia Millia Islamia",
+    "Indian Institute of Technology, Delhi",
+    "University of Mumbai"
+  ],
+  "top_private_colleges": [
+    "Amity University",
+    "LPU",
+    "Symbiosis International University",
+    "Manipal University",
+    "Christ University"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 4,
+    "mid_3_7_years": 10,
+    "senior_8_15_years": 22,
+    "top_earner": 45
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Mumbai",
+      "Delhi",
+      "Bangalore",
+      "Hyderabad",
+      "Chennai"
+    ],
+    "govt_vs_private": "20% govt 80% private",
+    "demand_trend": "growing",
+    "approximate_annual_openings_india": 50000
+  },
+  "career_progression": {
+    "year_0_2": "Assistants and junior professionals work under senior professionals, learning the ropes and gaining experience.",
+    "year_3_5": "Mid-level professionals take on more responsibilities, handling client relationships, and property transactions.",
+    "year_6_10": "Senior professionals lead teams, handle complex deals, and mentor junior professionals.",
+    "senior_paths": [
+      "Property Development",
+      "Real Estate Investment",
+      "Real Estate Consulting"
+    ],
+    "entrepreneurship_exit": "Starting a real estate business requires significant capital, expertise, and networking.",
+    "global_pathway": "Opportunities abroad are limited, but professionals with international experience can work in global real estate firms."
+  },
+  "india_social_context": {
+    "family_acceptance": "high",
+    "regional_availability": "national",
+    "first_year_reality": "Starting salaries are low, and professionals often work long hours.",
+    "common_misconceptions": [
+      "Real Estate is a get-rich-quick scheme",
+      "Anyone can become a successful real estate professional"
+    ]
+  },
+  "force_connections": {}
+}

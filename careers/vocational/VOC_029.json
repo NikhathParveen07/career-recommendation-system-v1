@@ -1,0 +1,94 @@
+{
+  "career_id": "VOC_029",
+  "title": "Horticulture Professional",
+  "stream": "Vocational",
+  "description": "A Horticulture Professional in India works daily with farmers, nurseries, and greenhouses to cultivate and maintain crops, trees, and flowers. They conduct soil tests, apply fertilizers, and manage irrigation systems to ensure optimal plant growth. They also advise clients on crop selection, pruning, and pest management techniques.",
+  "riasec_primary": "Realistic",
+  "riasec_secondary": "Conventional",
+  "riasec_scores": {
+    "Realistic": 8,
+    "Investigative": 2,
+    "Artistic": 1,
+    "Social": 3,
+    "Enterprising": 2,
+    "Conventional": 4
+  },
+  "work_values": [
+    "Practicality",
+    "Efficiency",
+    "Orderliness",
+    "Security",
+    "Consistency"
+  ],
+  "eligible_streams": [
+    "Agriculture",
+    "Vocational",
+    "Science",
+    "Commerce"
+  ],
+  "entrance_exams": [
+    "ICAR AIEEA",
+    "NCHMCT JEE",
+    "BCECE"
+  ],
+  "degree_name": "Bachelor of Science in Horticulture",
+  "degree_duration_years": 4,
+  "course_cost_lakhs": {
+    "government_college": 2,
+    "private_college": 12
+  },
+  "top_govt_colleges": [
+    "Dr. Y.S. Parmar University of Horticulture and Forestry",
+    "Horticultural Research Station",
+    "College of Horticulture",
+    "University of Agricultural Sciences",
+    "Orissa University of Agriculture and Technology"
+  ],
+  "top_private_colleges": [
+    "Suresh Gyan Vihar University",
+    "Birla Institute of Technology and Science",
+    "Lovely Professional University",
+    "Siksha O Anusandhan University",
+    "Amity University"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 3,
+    "mid_3_7_years": 8,
+    "senior_8_15_years": 18,
+    "top_earner": 35
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "New Delhi",
+      "Mumbai",
+      "Kolkata",
+      "Chennai",
+      "Bangalore"
+    ],
+    "govt_vs_private": "30% govt 70% private",
+    "demand_trend": "stable",
+    "approximate_annual_openings_india": 30000
+  },
+  "career_progression": {
+    "year_0_2": "Assistants in nurseries, greenhouses, and farms, with basic training and certification.",
+    "year_3_5": "Supervisors in horticulture departments, with experience and specialized knowledge.",
+    "year_6_10": "Senior horticulturists in research institutions, universities, and government agencies, with advanced degrees and expertise.",
+    "senior_paths": [
+      "Research and Development",
+      "Teaching and Academia",
+      "Consulting and Entrepreneurship"
+    ],
+    "entrepreneurship_exit": "Starting a nursery, greenhouse, or farm with initial investment and business planning.",
+    "global_pathway": "Opportunities for specialization in international horticulture, such as tropical agriculture, organic farming, or floriculture, through collaborations and exchange programs."
+  },
+  "india_social_context": {
+    "family_acceptance": "medium",
+    "regional_availability": "national",
+    "first_year_reality": "Initial difficulties in finding employment, but opportunities increase with experience and networking.",
+    "common_misconceptions": [
+      "Horticulture is only about gardening",
+      "Horticulturists are not needed in urban areas"
+    ]
+  },
+  "force_connections": {}
+}

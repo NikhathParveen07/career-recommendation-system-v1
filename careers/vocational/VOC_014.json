@@ -1,0 +1,93 @@
+{
+  "career_id": "VOC_014",
+  "title": "Merchant Navy Rating",
+  "stream": "Vocational",
+  "description": "A Merchant Navy Rating is responsible for performing various tasks on a ship, including navigation, communication, and maintenance. They work in a fast-paced environment, often in harsh weather conditions, and are required to be physically fit and able to work long hours. In India, Merchant Navy Ratings typically work on cargo ships, tankers, and passenger vessels, and are responsible for ensuring the safe and efficient operation of the vessel.",
+  "riasec_primary": "Realistic",
+  "riasec_secondary": "Conventional",
+  "riasec_scores": {
+    "Realistic": 8,
+    "Investigative": 2,
+    "Artistic": 1,
+    "Social": 3,
+    "Enterprising": 2,
+    "Conventional": 4
+  },
+  "work_values": [
+    "Safety",
+    "Security",
+    "Order",
+    "Structure",
+    "Stability"
+  ],
+  "eligible_streams": [
+    "Science",
+    "Commerce",
+    "Vocational"
+  ],
+  "entrance_exams": [
+    "IMU CET",
+    "BIMCO",
+    "Merchant Navy Entrance Exam"
+  ],
+  "degree_name": "Bachelor of Nautical Science",
+  "degree_duration_years": 4,
+  "course_cost_lakhs": {
+    "government_college": 3,
+    "private_college": 15
+  },
+  "top_govt_colleges": [
+    "Indian Maritime University",
+    "National Maritime Academy",
+    "T.S. Chanakya",
+    "Coimbatore Marine College",
+    "Rajiv Gandhi Institute of Petroleum Technology"
+  ],
+  "top_private_colleges": [
+    "Great Eastern Institute of Maritime Studies",
+    "Tolani Maritime Institute",
+    "Dufferin International Maritime Academy",
+    "Marine Engineering and Research Institute",
+    "Vels Institute of Science, Technology and Advanced Studies"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 4,
+    "mid_3_7_years": 10,
+    "senior_8_15_years": 22,
+    "top_earner": 45
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Mumbai",
+      "Chennai",
+      "Kolkata",
+      "Visakhapatnam",
+      "Kochi"
+    ],
+    "govt_vs_private": "20% govt 80% private",
+    "demand_trend": "growing",
+    "approximate_annual_openings_india": 50000
+  },
+  "career_progression": {
+    "year_0_2": "Initial training and certification, followed by on-the-job training and experience on various types of vessels.",
+    "year_3_5": "Promotion to senior ratings, with increased responsibility and opportunities for specialization.",
+    "year_6_10": "Officer-level positions, with command of vessels and leadership responsibilities.",
+    "senior_paths": [
+      "Chief Officer",
+      "Master",
+      "Ship Manager"
+    ],
+    "entrepreneurship_exit": "Merchant Navy Ratings can start their own shipping companies or provide maritime services.",
+    "global_pathway": "Opportunities for work on international vessels and with global shipping companies."
+  },
+  "india_social_context": {
+    "family_acceptance": "high",
+    "regional_availability": "national",
+    "first_year_reality": "Challenging initial training and certification process, followed by a steep learning curve on the job.",
+    "common_misconceptions": [
+      "Merchant Navy Ratings are not sailors.",
+      "Merchant Navy Ratings do not have to work on cargo ships."
+    ]
+  },
+  "force_connections": {}
+}

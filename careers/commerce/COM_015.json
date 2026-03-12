@@ -1,0 +1,101 @@
+{
+  "career_id": "COM_015",
+  "title": "Operations Manager",
+  "stream": "Commerce",
+  "description": "An Operations Manager in India is responsible for overseeing the day-to-day activities of a company, ensuring smooth functioning of processes, managing budgets, and making strategic decisions to improve efficiency and productivity. They work closely with cross-functional teams, including production, logistics, and finance, to identify areas for improvement and implement changes. In a typical day, an Operations Manager in India may review production schedules, analyze financial reports, and meet with team members to discuss ongoing projects and challenges.",
+  "riasec_primary": "Enterprising",
+  "riasec_secondary": "Conventional",
+  "riasec_scores": {
+    "Realistic": 4,
+    "Investigative": 3,
+    "Artistic": 2,
+    "Social": 2,
+    "Enterprising": 8,
+    "Conventional": 6
+  },
+  "work_values": [
+    "Achievement",
+    "Recognition",
+    "Autonomy",
+    "Security",
+    "Stability",
+    "Progression"
+  ],
+  "eligible_streams": [
+    "Commerce",
+    "Business Studies",
+    "Accountancy",
+    "Economics",
+    "Mathematics",
+    "Statistics"
+  ],
+  "entrance_exams": [
+    "CAT",
+    "MAT",
+    "XAT",
+    "CMAT",
+    "ATMA"
+  ],
+  "degree_name": "Master of Business Administration (MBA)",
+  "degree_duration_years": 2,
+  "course_cost_lakhs": {
+    "government_college": 1,
+    "private_college": 8
+  },
+  "top_govt_colleges": [
+    "Indian Institute of Management (IIM) Ahmedabad",
+    "Indian Institute of Management (IIM) Bangalore",
+    "Indian Institute of Management (IIM) Calcutta",
+    "Indian Institute of Management (IIM) Lucknow",
+    "National Institute of Industrial Engineering (NITIE) Mumbai"
+  ],
+  "top_private_colleges": [
+    "SP Jain Institute of Management and Research (SPJIMR) Mumbai",
+    "Management Development Institute (MDI) Gurgaon",
+    "International Management Institute (IMI) New Delhi",
+    "Xavier Labour Relations Institute (XLRI) Jamshedpur",
+    "T.A. Pai Management Institute (TAPMI) Manipal"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 4,
+    "mid_3_7_years": 10,
+    "senior_8_15_years": 22,
+    "top_earner": 45
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Mumbai",
+      "Delhi",
+      "Bangalore",
+      "Hyderabad",
+      "Chennai"
+    ],
+    "govt_vs_private": "20% govt 80% private",
+    "demand_trend": "growing",
+    "approximate_annual_openings_india": 50000
+  },
+  "career_progression": {
+    "year_0_2": "Typically, an Operations Manager in India starts their career in a junior role, such as an Operations Executive or a Production Manager, and gradually moves up the hierarchy as they gain experience and skills. In the first 2 years, they may be responsible for managing small teams, coordinating logistics, and analyzing data to identify areas for improvement.",
+    "year_3_5": "As they gain more experience, Operations Managers in India may take on more senior roles, such as a Deputy Operations Manager or an Operations Manager, and be responsible for leading larger teams, managing budgets, and making strategic decisions to improve efficiency and productivity.",
+    "year_6_10": "In the next 4-6 years, Operations Managers in India may move into senior leadership roles, such as a Director of Operations or a Chief Operating Officer, and be responsible for overseeing the overall operations of the company, developing and implementing strategic plans, and making key decisions to drive business growth.",
+    "senior_paths": [
+      "Director of Operations",
+      "Chief Operating Officer",
+      "Head of Business Development",
+      "Head of Strategy",
+      "CEO"
+    ],
+    "entrepreneurship_exit": "Operations Managers in India may choose to start their own businesses, leveraging their skills and experience to create new ventures or acquire existing companies.",
+    "global_pathway": "With experience and skills, Operations Managers in India may have opportunities to work in international companies, either in India or abroad, and may be able to move into senior leadership roles in global companies."
+  },
+  "india_social_context": {
+    "family_acceptance": "high",
+    "regional_availability": "national",
+    "first_year_reality": "Starting out as an Operations Manager in India can be challenging, with long working hours, high stress levels, and limited job security. However, with experience and skills, the career can be rewarding and offer good job security.",
+    "common_misconceptions": [
+      "Operations Managers in India are only responsible for managing production and logistics.",
+      "Operations Managers in India do not have any strategic responsibilities."
+    ]
+  },
+  "force_connections": {}
+}

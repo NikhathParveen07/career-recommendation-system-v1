@@ -1,0 +1,87 @@
+{
+  "career_id": "ART_024",
+  "title": "Linguist Translator",
+  "stream": "Arts",
+  "description": "A Linguist Translator in India works as a language expert, translating documents, interpreting conversations, and creating language learning materials. They often work with government agencies, private companies, and educational institutions. Their daily tasks involve researching language nuances, analyzing texts, and communicating with clients to deliver accurate translations.",
+  "riasec_primary": "Artistic",
+  "riasec_secondary": "Investigative",
+  "riasec_scores": {
+    "Realistic": 2,
+    "Investigative": 5,
+    "Artistic": 8,
+    "Social": 3,
+    "Enterprising": 1,
+    "Conventional": 1
+  },
+  "work_values": [
+    "Creativity",
+    "Accuracy",
+    "Attention to detail",
+    "Communication"
+  ],
+  "eligible_streams": [
+    "English",
+    "Hindi",
+    "Foreign Languages"
+  ],
+  "entrance_exams": [
+    "DUET",
+    "JNU Entrance Exam",
+    "IGNOU Entrance Exam"
+  ],
+  "degree_name": "Master of Arts in Translation Studies",
+  "degree_duration_years": 2,
+  "course_cost_lakhs": {
+    "government_college": 1,
+    "private_college": 8
+  },
+  "top_govt_colleges": [
+    "University of Delhi",
+    "Jawaharlal Nehru University",
+    "Banaras Hindu University"
+  ],
+  "top_private_colleges": [
+    "Amity University",
+    "Christ University",
+    "Symbiosis International University"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 3,
+    "mid_3_7_years": 7,
+    "senior_8_15_years": 18,
+    "top_earner": 35
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "New Delhi",
+      "Mumbai",
+      "Bangalore",
+      "Hyderabad"
+    ],
+    "govt_vs_private": "30% govt 70% private",
+    "demand_trend": "stable",
+    "approximate_annual_openings_india": 30000
+  },
+  "career_progression": {
+    "year_0_2": "Start as a junior translator, work on small projects, and gain experience.",
+    "year_3_5": "Take on more complex projects, work with clients directly, and develop expertise in specific languages.",
+    "year_6_10": "Lead translation teams, mentor junior translators, and take on leadership roles.",
+    "senior_paths": [
+      "Translation Team Lead",
+      "Language Consultant",
+      "Freelance Translator"
+    ],
+    "entrepreneurship_exit": "Start a translation agency, offer services to clients, and hire other translators.",
+    "global_pathway": "Work as a translator for international organizations, or start a translation business in a foreign country."
+  },
+  "india_social_context": {
+    "family_acceptance": "medium",
+    "regional_availability": "national",
+    "first_year_reality": "Starting as a junior translator can be challenging, with long hours and low pay.",
+    "common_misconceptions": [
+      "Translation is an easy job",
+      "You can work from home as a translator"
+    ]
+  },
+  "force_connections": {}
+}

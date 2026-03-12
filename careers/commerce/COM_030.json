@@ -1,0 +1,91 @@
+{
+  "career_id": "COM_030",
+  "title": "Bank Officer",
+  "stream": "Commerce",
+  "description": "A Bank Officer in India is responsible for managing day-to-day banking operations, handling customer queries, processing transactions, and maintaining records. They work in a team environment, often under pressure to meet deadlines and targets. Their work involves a mix of routine tasks and problem-solving, requiring strong communication and analytical skills.",
+  "riasec_primary": "Conventional",
+  "riasec_secondary": "Enterprising",
+  "riasec_scores": {
+    "Realistic": 6,
+    "Investigative": 4,
+    "Artistic": 2,
+    "Social": 5,
+    "Enterprising": 8,
+    "Conventional": 9
+  },
+  "work_values": [
+    "Security",
+    "Order",
+    "Stability"
+  ],
+  "eligible_streams": [
+    "Commerce",
+    "Economics",
+    "Business Studies"
+  ],
+  "entrance_exams": [
+    "IBPS PO",
+    "SBI PO",
+    "RBI Grade B"
+  ],
+  "degree_name": "Bachelor of Commerce",
+  "degree_duration_years": 4,
+  "course_cost_lakhs": {
+    "government_college": 2,
+    "private_college": 12
+  },
+  "top_govt_colleges": [
+    "University of Delhi",
+    "University of Mumbai",
+    "University of Calcutta",
+    "University of Madras",
+    "University of Hyderabad"
+  ],
+  "top_private_colleges": [
+    "Shiv Nadar University",
+    "OP Jindal Global University",
+    "Birla Institute of Technology and Science",
+    "Symbiosis International University",
+    "Amity University"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 3.5,
+    "mid_3_7_years": 8,
+    "senior_8_15_years": 18,
+    "top_earner": 35
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Mumbai",
+      "Delhi",
+      "Bangalore",
+      "Chennai",
+      "Kolkata"
+    ],
+    "govt_vs_private": "30% govt 70% private",
+    "demand_trend": "stable",
+    "approximate_annual_openings_india": 30000
+  },
+  "career_progression": {
+    "year_0_2": "Initial training and probation period, followed by on-the-job training and gradual increase in responsibilities.",
+    "year_3_5": "Promotions to senior officer roles, with increased responsibilities and higher salaries.",
+    "year_6_10": "Leadership roles, with opportunities to move into specialized areas like risk management or credit analysis.",
+    "senior_paths": [
+      "Branch Manager",
+      "Risk Management Specialist",
+      "Credit Analyst"
+    ],
+    "entrepreneurship_exit": "Limited opportunities for entrepreneurship, as banking is a highly regulated industry.",
+    "global_pathway": "Limited opportunities for international careers, as banking regulations vary across countries."
+  },
+  "india_social_context": {
+    "family_acceptance": "high",
+    "regional_availability": "national",
+    "first_year_reality": "Challenging, with long working hours and high expectations.",
+    "common_misconceptions": [
+      "Banking is a stable and secure career",
+      "Bank officers have a lot of power and influence"
+    ]
+  },
+  "force_connections": {}
+}

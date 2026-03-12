@@ -1,0 +1,91 @@
+{
+  "career_id": "SCI_003",
+  "title": "AI ML Engineer",
+  "stream": "Science",
+  "description": "An AI ML Engineer in India typically spends their days designing, developing, and deploying machine learning models to solve complex business problems. They work with large datasets, programming languages like Python, and frameworks like TensorFlow or PyTorch. Their tasks involve data preprocessing, model training, and model deployment, often collaborating with cross-functional teams to integrate AI solutions into existing systems.",
+  "riasec_primary": "Investigative",
+  "riasec_secondary": "Realistic",
+  "riasec_scores": {
+    "Realistic": 6,
+    "Investigative": 8,
+    "Artistic": 2,
+    "Social": 4,
+    "Enterprising": 3,
+    "Conventional": 5
+  },
+  "work_values": [
+    "problem-solving",
+    "innovation",
+    "teamwork"
+  ],
+  "eligible_streams": [
+    "Computer Science",
+    "Electronics",
+    "Mathematics"
+  ],
+  "entrance_exams": [
+    "JEE Main",
+    "JEE Advanced",
+    "BITSAT"
+  ],
+  "degree_name": "Bachelor of Engineering in Artificial Intelligence and Machine Learning",
+  "degree_duration_years": 4,
+  "course_cost_lakhs": {
+    "government_college": 3,
+    "private_college": 15
+  },
+  "top_govt_colleges": [
+    "Indian Institute of Technology Bombay",
+    "Indian Institute of Technology Delhi",
+    "National Institute of Technology Tiruchirappalli",
+    "Indian Institute of Science Bangalore",
+    "Indian Institute of Technology Kanpur"
+  ],
+  "top_private_colleges": [
+    "BITS Pilani",
+    "Vellore Institute of Technology",
+    "Amity University",
+    "Symbiosis International University",
+    "Manipal Academy of Higher Education"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 4,
+    "mid_3_7_years": 10,
+    "senior_8_15_years": 22,
+    "top_earner": 45
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Bangalore",
+      "Mumbai",
+      "New Delhi",
+      "Hyderabad",
+      "Pune"
+    ],
+    "govt_vs_private": "20% govt 80% private",
+    "demand_trend": "growing",
+    "approximate_annual_openings_india": 50000
+  },
+  "career_progression": {
+    "year_0_2": "Typically, an AI ML Engineer in India starts with internships or entry-level positions in data science or research roles. They work on small projects, learn from experienced professionals, and develop their skills in machine learning frameworks and programming languages.",
+    "year_3_5": "As they gain experience, AI ML Engineers in India move into more senior roles, taking on leadership positions in data science teams or working as technical leads on large-scale AI projects.",
+    "year_6_10": "With significant experience, AI ML Engineers in India can transition into senior leadership roles, such as Director of Data Science or Chief Technology Officer, or start their own AI-related businesses.",
+    "senior_paths": [
+      "Technical Lead",
+      "Data Science Manager",
+      "AI Research Scientist"
+    ],
+    "entrepreneurship_exit": "AI ML Engineers in India can start their own AI-related businesses, such as AI consulting firms, data science startups, or AI-powered product development companies.",
+    "global_pathway": "AI ML Engineers in India can work abroad in top tech companies, research institutions, or startups, or pursue higher education in AI-related fields in countries like the US, UK, or Canada."
+  },
+  "india_social_context": {
+    "family_acceptance": "high",
+    "regional_availability": "national",
+    "first_year_reality": "Starting out as an AI ML Engineer in India can be challenging, with intense competition for jobs and limited opportunities in certain regions.",
+    "common_misconceptions": [
+      "AI ML Engineers only work on complex algorithms",
+      "AI ML Engineers are not needed in non-tech industries"
+    ]
+  },
+  "force_connections": {}
+}

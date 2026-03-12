@@ -1,0 +1,91 @@
+{
+  "career_id": "ART_022",
+  "title": "NGO Professional",
+  "stream": "Arts",
+  "description": "An NGO Professional in India works with non-profit organizations, often in roles such as program management, fundraising, and community outreach. They may work on various causes like education, healthcare, and environmental conservation. Their day-to-day tasks involve coordinating with stakeholders, managing budgets, and developing project proposals. They may also engage with local communities, conduct research, and advocate for social change.",
+  "riasec_primary": "Social",
+  "riasec_secondary": "Artistic",
+  "riasec_scores": {
+    "Realistic": 0,
+    "Investigative": 0,
+    "Artistic": 0,
+    "Social": 0,
+    "Enterprising": 0,
+    "Conventional": 0
+  },
+  "work_values": [
+    "Social Impact",
+    "Personal Growth",
+    "Creativity"
+  ],
+  "eligible_streams": [
+    "Humanities",
+    "Social Sciences",
+    "Commerce"
+  ],
+  "entrance_exams": [
+    "CLAT",
+    "LSAT",
+    "UGC NET"
+  ],
+  "degree_name": "Master of Social Work (MSW)",
+  "degree_duration_years": 2,
+  "course_cost_lakhs": {
+    "government_college": 1,
+    "private_college": 8
+  },
+  "top_govt_colleges": [
+    "Tata Institute of Social Sciences",
+    "Jamia Millia Islamia",
+    "University of Delhi",
+    "University of Mumbai",
+    "Madras University"
+  ],
+  "top_private_colleges": [
+    "Symbiosis School of International Studies",
+    "Christ University",
+    "Manipal University",
+    "Amity University",
+    "Birla Institute of Management Technology"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 3,
+    "mid_3_7_years": 8,
+    "senior_8_15_years": 18,
+    "top_earner": 35
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Delhi",
+      "Mumbai",
+      "Bangalore",
+      "Chennai",
+      "Kolkata"
+    ],
+    "govt_vs_private": "30% govt 70% private",
+    "demand_trend": "stable",
+    "approximate_annual_openings_india": 30000
+  },
+  "career_progression": {
+    "year_0_2": "Starting as a project assistant or coordinator, handling administrative tasks and supporting program implementation.",
+    "year_3_5": "Moving to program management roles, overseeing project planning, budgeting, and team management.",
+    "year_6_10": "Taking on senior leadership positions, developing strategic plans, and overseeing organizational growth.",
+    "senior_paths": [
+      "Program Director",
+      "Organizational Development Manager",
+      "Social Entrepreneur"
+    ],
+    "entrepreneurship_exit": "Starting a social enterprise or non-profit organization, leveraging skills and experience to create a new venture.",
+    "global_pathway": "Opportunities for international work with NGOs, UN agencies, and development organizations, often requiring additional education or certifications."
+  },
+  "india_social_context": {
+    "family_acceptance": "medium",
+    "regional_availability": "national",
+    "first_year_reality": "Initial years can be challenging, with limited job opportunities and low salaries, but with experience and networking, career growth is possible.",
+    "common_misconceptions": [
+      "NGO work is only for idealists",
+      "NGOs are not professional organizations"
+    ]
+  },
+  "force_connections": {}
+}

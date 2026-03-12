@@ -1,0 +1,92 @@
+{
+  "career_id": "ART_030",
+  "title": "Hotel Management Professional",
+  "stream": "Arts",
+  "description": "A Hotel Management Professional in India is responsible for managing day-to-day operations of a hotel, including supervising staff, maintaining quality standards, and ensuring customer satisfaction. They work closely with the front office, housekeeping, and food and beverage departments to ensure seamless service delivery. Their tasks may include conducting staff training sessions, resolving customer complaints, and implementing new policies and procedures to improve hotel efficiency and profitability.",
+  "riasec_primary": "Enterprising",
+  "riasec_secondary": "Social",
+  "riasec_scores": {
+    "Realistic": 0,
+    "Investigative": 0,
+    "Artistic": 0,
+    "Social": 0,
+    "Enterprising": 0,
+    "Conventional": 0
+  },
+  "work_values": [
+    "Creativity",
+    "Flexibility",
+    "Teamwork",
+    "Recognition",
+    "Growth Opportunities"
+  ],
+  "eligible_streams": [
+    "Arts",
+    "Commerce",
+    "Science"
+  ],
+  "entrance_exams": [
+    "NCHMCT JEE",
+    "Hotel Management Entrance Exam (HMEET)"
+  ],
+  "degree_name": "Bachelor of Science in Hospitality and Hotel Administration",
+  "degree_duration_years": 4,
+  "course_cost_lakhs": {
+    "government_college": 3,
+    "private_college": 15
+  },
+  "top_govt_colleges": [
+    "Institute of Hotel Management, Aurangabad",
+    "Institute of Hotel Management, Bhubaneswar",
+    "Institute of Hotel Management, Chennai",
+    "Institute of Hotel Management, Delhi",
+    "Institute of Hotel Management, Mumbai"
+  ],
+  "top_private_colleges": [
+    "ITM Hotel and Tourism Management Institute, Navi Mumbai",
+    "Institute of Hotel Management and Catering Technology, Bengaluru",
+    "Institute of Hotel Management, Kolkata",
+    "Institute of Hotel Management, Pune",
+    "International Institute of Hotel Management, Delhi"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 4,
+    "mid_3_7_years": 10,
+    "senior_8_15_years": 22,
+    "top_earner": 45
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Mumbai",
+      "Delhi",
+      "Bangalore",
+      "Chennai",
+      "Kolkata"
+    ],
+    "govt_vs_private": "20% govt 80% private",
+    "demand_trend": "growing",
+    "approximate_annual_openings_india": 50000
+  },
+  "career_progression": {
+    "year_0_2": "Starting as a junior staff member in a hotel, handling front desk operations, and assisting in housekeeping and food and beverage departments.",
+    "year_3_5": "Moving to supervisory roles, overseeing specific departments, and implementing new policies and procedures to improve hotel efficiency and profitability.",
+    "year_6_10": "Taking on senior management roles, managing multiple departments, and leading teams to achieve business objectives.",
+    "senior_paths": [
+      "Hotel Manager",
+      "General Manager",
+      "Area Manager"
+    ],
+    "entrepreneurship_exit": "Starting a boutique hotel or a hospitality-related business, leveraging industry connections and expertise.",
+    "global_pathway": "Working abroad in international hotels, resorts, or hospitality companies, or pursuing further education in hospitality management."
+  },
+  "india_social_context": {
+    "family_acceptance": "high",
+    "regional_availability": "national",
+    "first_year_reality": "Starting salary is around ₹3-4 lakhs per annum, and working hours can be long, especially during peak tourist seasons.",
+    "common_misconceptions": [
+      "Hotel management is all about serving food and drinks.",
+      "Hotel management is a low-paying career."
+    ]
+  },
+  "force_connections": {}
+}

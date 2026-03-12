@@ -1,0 +1,94 @@
+{
+  "career_id": "ART_016",
+  "title": "Animator",
+  "stream": "Arts",
+  "description": "An Animator in India creates 2D and 3D animations for films, TV shows, advertisements, and video games. They work on storyboarding, character design, and visual effects, often collaborating with writers, directors, and other artists. Their daily tasks involve working on computer software, attending team meetings, and meeting deadlines.",
+  "riasec_primary": "Artistic",
+  "riasec_secondary": "Realistic",
+  "riasec_scores": {
+    "Realistic": 4,
+    "Investigative": 2,
+    "Artistic": 8,
+    "Social": 1,
+    "Enterprising": 3,
+    "Conventional": 2
+  },
+  "work_values": [
+    "Creativity",
+    "Self-expression",
+    "Innovation",
+    "Collaboration"
+  ],
+  "eligible_streams": [
+    "Fine Arts",
+    "Graphic Design",
+    "Animation",
+    "Film and Television Production"
+  ],
+  "entrance_exams": [
+    "NID Entrance Exam",
+    "NIFT Entrance Exam",
+    "UCEED Entrance Exam",
+    "AIEED Entrance Exam"
+  ],
+  "degree_name": "Bachelor of Animation",
+  "degree_duration_years": 4,
+  "course_cost_lakhs": {
+    "government_college": 3,
+    "private_college": 15
+  },
+  "top_govt_colleges": [
+    "National Institute of Design (NID)",
+    "Indian Institute of Technology (IIT) Bombay",
+    "National Institute of Fashion Technology (NIFT)",
+    "Indian Institute of Information Technology (IIIT) Allahabad",
+    "School of Planning and Architecture (SPA) Bhopal"
+  ],
+  "top_private_colleges": [
+    "Raffles Design International",
+    "Srishti Institute of Art, Design and Technology",
+    "Ansal Institute of Technology",
+    "UPES Dehradun",
+    "MIT Institute of Design"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 4,
+    "mid_3_7_years": 10,
+    "senior_8_15_years": 22,
+    "top_earner": 45
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Mumbai",
+      "Bangalore",
+      "Chennai",
+      "Hyderabad",
+      "Pune"
+    ],
+    "govt_vs_private": "20% govt 80% private",
+    "demand_trend": "growing",
+    "approximate_annual_openings_india": 50000
+  },
+  "career_progression": {
+    "year_0_2": "Starts with entry-level positions in animation studios, working on small projects and learning from experienced animators.",
+    "year_3_5": "Gains experience and moves to mid-level positions, taking on more responsibility and working on larger projects.",
+    "year_6_10": "Reaches senior positions, leading teams and working on high-profile projects, and may consider starting their own animation studio.",
+    "senior_paths": [
+      "Animation Director",
+      "Visual Effects Supervisor",
+      "Creative Director"
+    ],
+    "entrepreneurship_exit": "Can start their own animation studio or work as a freelancer, offering services to clients.",
+    "global_pathway": "Can work as an animation director or visual effects supervisor in international animation studios or film production companies."
+  },
+  "india_social_context": {
+    "family_acceptance": "medium",
+    "regional_availability": "national",
+    "first_year_reality": "Starting out as an animator in India can be challenging, with many students competing for a limited number of jobs.",
+    "common_misconceptions": [
+      "Animation is a glamorous job",
+      "You can become a successful animator overnight"
+    ]
+  },
+  "force_connections": {}
+}

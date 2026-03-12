@@ -1,0 +1,91 @@
+{
+  "career_id": "SCI_030",
+  "title": "Veterinarian",
+  "stream": "Science",
+  "description": "Veterinarians in India work in clinics, hospitals, and research institutions, diagnosing and treating animal diseases, performing surgeries, and conducting research to improve animal health. They also educate pet owners and farmers about animal care and disease prevention. In addition, they may work with government agencies to control animal diseases and implement animal welfare policies.",
+  "riasec_primary": "Realistic",
+  "riasec_secondary": "Investigative",
+  "riasec_scores": {
+    "Realistic": 8,
+    "Investigative": 6,
+    "Artistic": 2,
+    "Social": 3,
+    "Enterprising": 1,
+    "Conventional": 0
+  },
+  "work_values": [
+    "Helping Animals",
+    "Scientific Discovery",
+    "Animal Welfare"
+  ],
+  "eligible_streams": [
+    "Biology",
+    "Chemistry",
+    "Physics"
+  ],
+  "entrance_exams": [
+    "NEET",
+    "AIIMS MBBS",
+    "JIPMER MBBS"
+  ],
+  "degree_name": "Bachelor of Veterinary Science and Animal Husbandry",
+  "degree_duration_years": 5,
+  "course_cost_lakhs": {
+    "government_college": 5,
+    "private_college": 25
+  },
+  "top_govt_colleges": [
+    "College of Veterinary Science, Hyderabad",
+    "College of Veterinary Science, Bhopal",
+    "College of Veterinary Science, Mathura",
+    "College of Veterinary Science, Pantnagar",
+    "College of Veterinary Science, Hisar"
+  ],
+  "top_private_colleges": [
+    "Madras Veterinary College",
+    "College of Veterinary Science, Bangalore",
+    "College of Veterinary Science, Chennai",
+    "College of Veterinary Science, Coimbatore",
+    "College of Veterinary Science, Tiruchirappalli"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 3,
+    "mid_3_7_years": 8,
+    "senior_8_15_years": 18,
+    "top_earner": 35
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Delhi",
+      "Mumbai",
+      "Bangalore",
+      "Chennai",
+      "Hyderabad"
+    ],
+    "govt_vs_private": "30% govt 70% private",
+    "demand_trend": "stable",
+    "approximate_annual_openings_india": 30000
+  },
+  "career_progression": {
+    "year_0_2": "Assist veterinarians in clinics and hospitals, conduct research, and participate in animal welfare programs.",
+    "year_3_5": "Work as a veterinarian in private clinics, hospitals, or research institutions, and may start their own practice.",
+    "year_6_10": "Take on leadership roles in veterinary clinics, hospitals, or research institutions, and may specialize in a particular area of veterinary medicine.",
+    "senior_paths": [
+      "Veterinary Research",
+      "Veterinary Education",
+      "Veterinary Practice Management"
+    ],
+    "entrepreneurship_exit": "Start a veterinary clinic, hospital, or research institution, or develop and market veterinary products or services.",
+    "global_pathway": "Work in international organizations, such as the World Health Organization, or in veterinary research institutions abroad."
+  },
+  "india_social_context": {
+    "family_acceptance": "high",
+    "regional_availability": "national",
+    "first_year_reality": "Starting out as a veterinarian in India can be challenging, with long working hours and limited job opportunities.",
+    "common_misconceptions": [
+      "Veterinarians only work with pets",
+      "Veterinarians only work in clinics and hospitals"
+    ]
+  },
+  "force_connections": {}
+}

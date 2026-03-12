@@ -1,0 +1,89 @@
+{
+  "career_id": "SCI_011",
+  "title": "Electronics Engineer",
+  "stream": "Science",
+  "description": "An Electronics Engineer in India designs, develops, and tests electronic systems, circuits, and devices. They work on a wide range of projects, from consumer electronics to industrial control systems, and often collaborate with other engineers and technicians to ensure that their designs meet safety and performance standards. In their daily work, they may spend a significant amount of time analyzing data, writing code, and troubleshooting issues.",
+  "riasec_primary": "Realistic",
+  "riasec_secondary": "Investigative",
+  "riasec_scores": {
+    "Realistic": 8,
+    "Investigative": 6,
+    "Artistic": 2,
+    "Social": 1,
+    "Enterprising": 1,
+    "Conventional": 2
+  },
+  "work_values": [
+    "Creativity",
+    "Problem-solving",
+    "Independence"
+  ],
+  "eligible_streams": [
+    "Physics, Chemistry, Mathematics"
+  ],
+  "entrance_exams": [
+    "JEE Main",
+    "JEE Advanced",
+    "BITSAT"
+  ],
+  "degree_name": "Bachelor of Engineering in Electronics and Communication Engineering",
+  "degree_duration_years": 4,
+  "course_cost_lakhs": {
+    "government_college": 3,
+    "private_college": 15
+  },
+  "top_govt_colleges": [
+    "Indian Institute of Technology Bombay",
+    "Indian Institute of Technology Delhi",
+    "National Institute of Technology Tiruchirappalli",
+    "Indian Institute of Technology Kanpur",
+    "Indian Institute of Technology Kharagpur"
+  ],
+  "top_private_colleges": [
+    "BITS Pilani",
+    "Vellore Institute of Technology",
+    "Sri Sivasubramaniya Nadar College of Engineering",
+    "PSG College of Technology",
+    "Amrita Vishwa Vidyapeetham"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 4,
+    "mid_3_7_years": 10,
+    "senior_8_15_years": 22,
+    "top_earner": 45
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Bangalore",
+      "Mumbai",
+      "Hyderabad",
+      "Chennai",
+      "Pune"
+    ],
+    "govt_vs_private": "20% govt 80% private",
+    "demand_trend": "growing",
+    "approximate_annual_openings_india": 50000
+  },
+  "career_progression": {
+    "year_0_2": "Assist in designing and developing electronic systems, circuits, and devices under the guidance of senior engineers.",
+    "year_3_5": "Work on complex projects, lead small teams, and take ownership of design and development tasks.",
+    "year_6_10": "Lead large teams, manage projects, and make strategic decisions on technology and resource allocation.",
+    "senior_paths": [
+      "Technical Lead",
+      "Project Manager",
+      "Research and Development Engineer"
+    ],
+    "entrepreneurship_exit": "Start a company focused on developing innovative electronic products or providing engineering services.",
+    "global_pathway": "Work in multinational companies, collaborate with international teams, or pursue higher education abroad."
+  },
+  "india_social_context": {
+    "family_acceptance": "very_high",
+    "regional_availability": "national",
+    "first_year_reality": "Starting salary is around ₹4-6 lakhs per annum, and the first year can be challenging due to the high expectations and workload.",
+    "common_misconceptions": [
+      "Electronics Engineering is only about designing circuits.",
+      "Electronics Engineers only work in the IT industry."
+    ]
+  },
+  "force_connections": {}
+}

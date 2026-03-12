@@ -1,0 +1,94 @@
+{
+  "career_id": "VOC_030",
+  "title": "Dairy Technician",
+  "stream": "Vocational",
+  "description": "A Dairy Technician in India works in dairy farms, processing units, and laboratories. Their daily tasks involve monitoring milk quality, testing for bacteria and contaminants, and maintaining equipment. They also assist in the production of dairy products like cheese, butter, and ghee.",
+  "riasec_primary": "Realistic",
+  "riasec_secondary": "Conventional",
+  "riasec_scores": {
+    "Realistic": 8,
+    "Investigative": 2,
+    "Artistic": 1,
+    "Social": 3,
+    "Enterprising": 2,
+    "Conventional": 4
+  },
+  "work_values": [
+    "Job Security",
+    "Work-Life Balance",
+    "Opportunities for Advancement"
+  ],
+  "eligible_streams": [
+    "Agriculture",
+    "Animal Husbandry",
+    "Food Processing",
+    "Science",
+    "Mathematics"
+  ],
+  "entrance_exams": [
+    "ICAR AIEEA",
+    "Dairy Technology Entrance Exam",
+    "JEE Main",
+    "BITSAT"
+  ],
+  "degree_name": "Bachelor of Technology in Dairy Technology",
+  "degree_duration_years": 4,
+  "course_cost_lakhs": {
+    "government_college": 2,
+    "private_college": 12
+  },
+  "top_govt_colleges": [
+    "National Dairy Research Institute",
+    "Indian Veterinary Research Institute",
+    "Indian Agricultural Research Institute",
+    "Anand Agricultural University",
+    "Uttar Banga Krishi Vishwavidyalaya"
+  ],
+  "top_private_colleges": [
+    "Amity University",
+    "Birla Institute of Technology",
+    "Lovely Professional University",
+    "Siksha O Anusandhan University",
+    "Vellore Institute of Technology"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 3,
+    "mid_3_7_years": 8,
+    "senior_8_15_years": 18,
+    "top_earner": 35
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Mumbai",
+      "Delhi",
+      "Chennai",
+      "Bangalore",
+      "Hyderabad"
+    ],
+    "govt_vs_private": "30% govt 70% private",
+    "demand_trend": "stable",
+    "approximate_annual_openings_india": 30000
+  },
+  "career_progression": {
+    "year_0_2": "Assist in laboratory tests, equipment maintenance, and data entry.",
+    "year_3_5": "Take on supervisory roles, oversee quality control, and assist in research and development.",
+    "year_6_10": "Specialize in areas like dairy product development, quality assurance, or dairy farm management.",
+    "senior_paths": [
+      "Quality Assurance Manager",
+      "Dairy Product Development Manager",
+      "Dairy Farm Manager"
+    ],
+    "entrepreneurship_exit": "Start a dairy farm or processing unit, or create a dairy product brand.",
+    "global_pathway": "Opportunities exist in countries like the US, UK, and Australia, particularly in research and development roles."
+  },
+  "india_social_context": {
+    "family_acceptance": "medium",
+    "regional_availability": "national",
+    "first_year_reality": "Initial years can be challenging, with long working hours and limited job security.",
+    "common_misconceptions": [
+      "Dairy Technicians only work in rural areas",
+      "Dairy Technicians have limited career growth opportunities"
+    ]
+  },
+  "force_connections": {}
+}

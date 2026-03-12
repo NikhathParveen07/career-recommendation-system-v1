@@ -1,0 +1,101 @@
+{
+  "career_id": "COM_010",
+  "title": "Auditor",
+  "stream": "Commerce",
+  "description": "An Auditor in India typically spends their day reviewing financial records, conducting audits, and ensuring compliance with laws and regulations. They work with clients to identify areas of improvement and provide recommendations for better financial management. Auditors often work long hours, especially during peak seasons, and may have to travel to different locations for on-site audits.",
+  "riasec_primary": "Conventional",
+  "riasec_secondary": "Realistic",
+  "riasec_scores": {
+    "Realistic": 8,
+    "Investigative": 4,
+    "Artistic": 2,
+    "Social": 3,
+    "Enterprising": 1,
+    "Conventional": 9
+  },
+  "work_values": [
+    "Attention to detail",
+    "Analytical skills",
+    "Organizational skills",
+    "Independence",
+    "Objectivity",
+    "Professionalism"
+  ],
+  "eligible_streams": [
+    "Commerce",
+    "Accountancy",
+    "Business Studies",
+    "Economics",
+    "Mathematics"
+  ],
+  "entrance_exams": [
+    "CA Foundation",
+    "CMA Foundation",
+    "CS Foundation",
+    "ICAI Entrance Exam",
+    "ICMA Entrance Exam"
+  ],
+  "degree_name": "Bachelor of Commerce (B.Com) in Accounting and Finance",
+  "degree_duration_years": 3,
+  "course_cost_lakhs": {
+    "government_college": 1,
+    "private_college": 8
+  },
+  "top_govt_colleges": [
+    "Delhi University",
+    "University of Mumbai",
+    "University of Calcutta",
+    "University of Madras",
+    "University of Hyderabad"
+  ],
+  "top_private_colleges": [
+    "Shri Ram College of Commerce",
+    "Lady Shri Ram College",
+    "Hansraj College",
+    "Kirori Mal College",
+    "St. Stephen's College"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 3,
+    "mid_3_7_years": 8,
+    "senior_8_15_years": 18,
+    "top_earner": 35
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Mumbai",
+      "Delhi",
+      "Bangalore",
+      "Chennai",
+      "Hyderabad"
+    ],
+    "govt_vs_private": "30% govt 70% private",
+    "demand_trend": "stable",
+    "approximate_annual_openings_india": 30000
+  },
+  "career_progression": {
+    "year_0_2": "Typically, an Auditor starts their career as a junior auditor and works under the supervision of a senior auditor. They gain experience and develop their skills over the next two years.",
+    "year_3_5": "As they gain experience, they may move to a senior auditor role and take on more responsibilities, such as leading audits and mentoring junior auditors.",
+    "year_6_10": "With significant experience, they may move to a management role, such as a team leader or a department head.",
+    "senior_paths": [
+      "Audit Manager",
+      "Risk Management Specialist",
+      "Internal Auditor",
+      "Financial Controller",
+      "Chief Financial Officer"
+    ],
+    "entrepreneurship_exit": "Auditors can start their own auditing firms or consulting businesses, leveraging their expertise and network.",
+    "global_pathway": "Auditors can work with international firms or move to countries with a high demand for auditing services, such as the US, UK, or Australia."
+  },
+  "india_social_context": {
+    "family_acceptance": "high",
+    "regional_availability": "national",
+    "first_year_reality": "Starting as an Auditor can be challenging, with long hours and high expectations. However, it can also be a rewarding career with opportunities for growth and development.",
+    "common_misconceptions": [
+      "Auditors only work with big companies",
+      "Auditors are only concerned with financial numbers",
+      "Auditors have a 9-to-5 job"
+    ]
+  },
+  "force_connections": {}
+}

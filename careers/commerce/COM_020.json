@@ -1,0 +1,91 @@
+{
+  "career_id": "COM_020",
+  "title": "Economic Policy Analyst",
+  "stream": "Commerce",
+  "description": "An Economic Policy Analyst in India typically spends their days analyzing economic data, identifying trends, and developing policy recommendations for government agencies, private companies, or research institutions. They often work with large datasets, conduct statistical analysis, and communicate their findings to stakeholders. Their work involves staying up-to-date with economic developments, understanding the impact of policies on various sectors, and providing insights to inform decision-making.",
+  "riasec_primary": "Investigative",
+  "riasec_secondary": "Conventional",
+  "riasec_scores": {
+    "Realistic": 2,
+    "Investigative": 8,
+    "Artistic": 1,
+    "Social": 3,
+    "Enterprising": 2,
+    "Conventional": 4
+  },
+  "work_values": [
+    "Intellectual Stimulation",
+    "Job Security",
+    "Sense of Accomplishment"
+  ],
+  "eligible_streams": [
+    "Commerce",
+    "Economics",
+    "Business Studies"
+  ],
+  "entrance_exams": [
+    "UPSC Civil Services Exam",
+    "IAS Exam",
+    "UGC NET Economics"
+  ],
+  "degree_name": "Master of Economics (MEcon)",
+  "degree_duration_years": 4,
+  "course_cost_lakhs": {
+    "government_college": 2,
+    "private_college": 12
+  },
+  "top_govt_colleges": [
+    "Jawaharlal Nehru University",
+    "University of Delhi",
+    "Banaras Hindu University",
+    "University of Hyderabad",
+    "University of Mumbai"
+  ],
+  "top_private_colleges": [
+    "Indian Institute of Management (IIM) Ahmedabad",
+    "Indian Institute of Technology (IIT) Delhi",
+    "Indian School of Business (ISB) Hyderabad",
+    "Management Development Institute (MDI) Gurgaon",
+    " Xavier Labour Relations Institute (XLRI) Jamshedpur"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 3,
+    "mid_3_7_years": 8,
+    "senior_8_15_years": 18,
+    "top_earner": 35
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "New Delhi",
+      "Mumbai",
+      "Bangalore",
+      "Chennai",
+      "Hyderabad"
+    ],
+    "govt_vs_private": "30% govt 70% private",
+    "demand_trend": "stable",
+    "approximate_annual_openings_india": 30000
+  },
+  "career_progression": {
+    "year_0_2": "Typically starts as a research assistant or data analyst in a government agency or private company, working on projects related to economic policy analysis.",
+    "year_3_5": "Moves to a policy analyst role, working on more complex projects and developing policy recommendations.",
+    "year_6_10": "Takes on a leadership role, overseeing teams and projects, and contributing to strategic decision-making.",
+    "senior_paths": [
+      "Policy Advisor",
+      "Economic Consultant",
+      "Research Director"
+    ],
+    "entrepreneurship_exit": "Can start a consulting firm or research organization, providing economic policy analysis services to clients.",
+    "global_pathway": "Can work with international organizations, such as the World Bank or IMF, or pursue a career in academia, teaching and researching economic policy at a university abroad."
+  },
+  "india_social_context": {
+    "family_acceptance": "high",
+    "regional_availability": "national",
+    "first_year_reality": "Starting salary is relatively low, and the work can be demanding, but the career offers good growth opportunities and a sense of fulfillment.",
+    "common_misconceptions": [
+      "Economic Policy Analysts only work in government",
+      "Economic Policy Analysts are only concerned with numbers"
+    ]
+  },
+  "force_connections": {}
+}

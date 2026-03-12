@@ -1,0 +1,97 @@
+{
+  "career_id": "COM_019",
+  "title": "Economist",
+  "stream": "Commerce",
+  "description": "An Economist in India typically spends their days analyzing economic data, forecasting trends, and advising businesses and governments on economic policies. They may work in offices, conducting research, creating reports, and presenting findings to clients or stakeholders. Their work often involves using statistical software, economic models, and data visualization tools to identify patterns and make predictions about economic behavior.",
+  "riasec_primary": "Investigative",
+  "riasec_secondary": "Conventional",
+  "riasec_scores": {
+    "Realistic": 2,
+    "Investigative": 8,
+    "Artistic": 1,
+    "Social": 3,
+    "Enterprising": 2,
+    "Conventional": 4
+  },
+  "work_values": [
+    "analytical thinking",
+    "problem-solving",
+    "accuracy",
+    "precision",
+    "objectivity"
+  ],
+  "eligible_streams": [
+    "Commerce",
+    "Economics",
+    "Business Studies",
+    "Mathematics"
+  ],
+  "entrance_exams": [
+    "UPSC Civil Services Exam",
+    "UGC NET Economics",
+    "CSIR UGC NET Economics",
+    "JNU Entrance Exam for Economics",
+    "DU Entrance Exam for Economics"
+  ],
+  "degree_name": "Master of Commerce in Economics",
+  "degree_duration_years": 2,
+  "course_cost_lakhs": {
+    "government_college": 2,
+    "private_college": 8
+  },
+  "top_govt_colleges": [
+    "Delhi School of Economics",
+    "Jawaharlal Nehru University",
+    "University of Delhi",
+    "Madras School of Economics",
+    "Gokhale Institute of Politics and Economics"
+  ],
+  "top_private_colleges": [
+    "Indian Institute of Management",
+    "Management Development Institute",
+    "International Management Institute",
+    "Birla Institute of Management Technology",
+    "Symbiosis Centre for Management and Human Resource Development"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 3,
+    "mid_3_7_years": 8,
+    "senior_8_15_years": 18,
+    "top_earner": 35
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Mumbai",
+      "Delhi",
+      "Bangalore",
+      "Hyderabad",
+      "Chennai"
+    ],
+    "govt_vs_private": "30% govt 70% private",
+    "demand_trend": "stable",
+    "approximate_annual_openings_india": 30000
+  },
+  "career_progression": {
+    "year_0_2": "Typically starts as a Research Assistant or Data Analyst, working on data collection, analysis, and reporting.",
+    "year_3_5": "Moves to a Senior Researcher or Policy Analyst role, leading research projects, and advising clients or stakeholders.",
+    "year_6_10": "Takes on a leadership role as a Senior Economist or Head of Research, overseeing research teams, and developing strategic plans.",
+    "senior_paths": [
+      "Academia",
+      "Government",
+      "Private Sector",
+      "Consulting"
+    ],
+    "entrepreneurship_exit": "Can start their own consulting firm or research organization, offering services to clients in the private and public sectors.",
+    "global_pathway": "Can pursue opportunities in international organizations, such as the World Bank, IMF, or OECD, or work for multinational corporations with global operations."
+  },
+  "india_social_context": {
+    "family_acceptance": "high",
+    "regional_availability": "national",
+    "first_year_reality": "Starting salary is relatively low, and the initial years can be challenging, but with experience and a strong network, career prospects improve significantly.",
+    "common_misconceptions": [
+      "Economists only work in government or academia.",
+      "Economists are only concerned with numbers and statistics."
+    ]
+  },
+  "force_connections": {}
+}

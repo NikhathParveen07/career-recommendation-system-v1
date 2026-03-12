@@ -1,0 +1,91 @@
+{
+  "career_id": "VOC_020",
+  "title": "CCTV Security Systems Technician",
+  "stream": "Vocational",
+  "description": "A CCTV Security Systems Technician in India installs, configures, and maintains CCTV systems for residential and commercial clients. They troubleshoot issues, perform routine checks, and ensure the security systems are functioning correctly. They may also provide technical support and advice to clients on CCTV system upgrades and new installations.",
+  "riasec_primary": "Realistic",
+  "riasec_secondary": "Conventional",
+  "riasec_scores": {
+    "Realistic": 8,
+    "Investigative": 2,
+    "Artistic": 1,
+    "Social": 2,
+    "Enterprising": 1,
+    "Conventional": 6
+  },
+  "work_values": [
+    "Technical Competence",
+    "Job Security",
+    "Predictable Work Schedule"
+  ],
+  "eligible_streams": [
+    "Electronics",
+    "Computer Science",
+    "Information Technology",
+    "Electrical Engineering"
+  ],
+  "entrance_exams": [
+    "Diploma Entrance Examination (DEE)",
+    "All India Trade Test (AITT)"
+  ],
+  "degree_name": "Diploma in Electronics and Communication Engineering",
+  "degree_duration_years": 3,
+  "course_cost_lakhs": {
+    "government_college": 2,
+    "private_college": 10
+  },
+  "top_govt_colleges": [
+    "National Institute of Electronics and Information Technology (NIELIT)",
+    "Central Electronics Engineering Research Institute (CEERI)",
+    "Electronics Corporation of India Limited (ECIL)",
+    "Indian Institute of Technology (IIT) Delhi",
+    "National Institute of Technology (NIT) Warangal"
+  ],
+  "top_private_colleges": [
+    "Vellore Institute of Technology (VIT)",
+    "Birla Institute of Technology and Science (BITS) Pilani",
+    "Sri Sathya Sai Institute of Higher Learning (SSSIHL)",
+    "Thiagarajar College of Engineering (TCE)",
+    "PSG College of Technology (PSGCT)"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 3,
+    "mid_3_7_years": 8,
+    "senior_8_15_years": 18,
+    "top_earner": 35
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Mumbai",
+      "Delhi",
+      "Bangalore",
+      "Hyderabad",
+      "Chennai"
+    ],
+    "govt_vs_private": "30% govt 70% private",
+    "demand_trend": "stable",
+    "approximate_annual_openings_india": 30000
+  },
+  "career_progression": {
+    "year_0_2": "Assist in installation and configuration of CCTV systems, perform routine checks, and troubleshoot basic issues.",
+    "year_3_5": "Take on more complex installations, configure advanced CCTV features, and provide technical support to clients.",
+    "year_6_10": "Supervise installation teams, design and implement large-scale CCTV systems, and provide training to junior technicians.",
+    "senior_paths": [
+      "Technical Sales",
+      "System Integration",
+      "CCTV System Design"
+    ],
+    "entrepreneurship_exit": "Start a CCTV installation and maintenance business, or offer specialized services like CCTV system design and integration.",
+    "global_pathway": "Opportunities exist in the Middle East, Africa, and Southeast Asia, particularly in countries with growing infrastructure and security needs."
+  },
+  "india_social_context": {
+    "family_acceptance": "medium",
+    "regional_availability": "national",
+    "first_year_reality": "Initial years may involve working long hours, including nights and weekends, to meet client demands and complete projects.",
+    "common_misconceptions": [
+      "CCTV technicians only work with cameras",
+      "CCTV systems are easy to install and maintain"
+    ]
+  },
+  "force_connections": {}
+}

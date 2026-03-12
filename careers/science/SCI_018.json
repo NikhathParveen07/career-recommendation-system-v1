@@ -1,0 +1,92 @@
+{
+  "career_id": "SCI_018",
+  "title": "Pharmacist",
+  "stream": "Science",
+  "description": "A pharmacist in India works in hospitals, clinics, or retail pharmacies, dispensing medicines, advising patients on medication usage, and monitoring patient health. They also assist in conducting medical research and quality control of pharmaceutical products. Pharmacists often work long hours, including night shifts, and may be required to work on weekends and holidays.",
+  "riasec_primary": "Realistic",
+  "riasec_secondary": "Investigative",
+  "riasec_scores": {
+    "Realistic": 8,
+    "Investigative": 6,
+    "Artistic": 2,
+    "Social": 4,
+    "Enterprising": 3,
+    "Conventional": 5
+  },
+  "work_values": [
+    "Helping Others",
+    "Job Security",
+    "Sense of Accomplishment"
+  ],
+  "eligible_streams": [
+    "Biology",
+    "Chemistry",
+    "Physics",
+    "Mathematics"
+  ],
+  "entrance_exams": [
+    "NEET",
+    "AIAPGET",
+    "GPAT"
+  ],
+  "degree_name": "Bachelor of Pharmacy (B.Pharm)",
+  "degree_duration_years": 4,
+  "course_cost_lakhs": {
+    "government_college": 3,
+    "private_college": 15
+  },
+  "top_govt_colleges": [
+    "Government College of Pharmacy, Mumbai",
+    "National Institute of Pharmaceutical Education and Research, Hyderabad",
+    "Government College of Pharmacy, Ahmedabad",
+    "Institute of Pharmacy, Nirma University, Ahmedabad",
+    "Government College of Pharmacy, Kolkata"
+  ],
+  "top_private_colleges": [
+    "Manipal College of Pharmaceutical Sciences, Manipal",
+    "JSS College of Pharmacy, Mysuru",
+    "Ramaiah College of Pharmacy, Bengaluru",
+    "Sri Ramachandra College of Pharmacy, Chennai",
+    "Birla Institute of Technology and Science, Pilani"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 4,
+    "mid_3_7_years": 10,
+    "senior_8_15_years": 22,
+    "top_earner": 45
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Mumbai",
+      "Delhi",
+      "Bengaluru",
+      "Chennai",
+      "Hyderabad"
+    ],
+    "govt_vs_private": "20% govt 80% private",
+    "demand_trend": "growing",
+    "approximate_annual_openings_india": 50000
+  },
+  "career_progression": {
+    "year_0_2": "Assist in dispensing medicines, conduct basic medical research, and assist in quality control.",
+    "year_3_5": "Take on more responsibilities in research, quality control, and patient care. May also start to supervise junior pharmacists.",
+    "year_6_10": "Specialize in a particular area of pharmacy, such as clinical pharmacy or pharmaceutical research. May also take on leadership roles.",
+    "senior_paths": [
+      "Clinical Pharmacy Specialist",
+      "Pharmaceutical Research Scientist",
+      "Pharmacy Manager"
+    ],
+    "entrepreneurship_exit": "Start a retail pharmacy or a pharmaceutical manufacturing company.",
+    "global_pathway": "Opportunities for working abroad in pharmaceutical companies or research institutions are limited, but possible with experience and specialized skills."
+  },
+  "india_social_context": {
+    "family_acceptance": "high",
+    "regional_availability": "national",
+    "first_year_reality": "Starting salary is low, and working hours can be long. However, job security and opportunities for advancement are good.",
+    "common_misconceptions": [
+      "Pharmacists only work in hospitals",
+      "Pharmacists are not required to have a graduate degree"
+    ]
+  },
+  "force_connections": {}
+}

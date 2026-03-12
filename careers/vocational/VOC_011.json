@@ -1,0 +1,84 @@
+{
+  "career_id": "VOC_011",
+  "title": "Automobile Mechanic",
+  "stream": "Vocational",
+  "description": "An automobile mechanic in India performs routine maintenance, repairs, and overhauls of vehicles. They diagnose problems, replace faulty parts, and perform tune-ups. Mechanics often work in workshops, garages, or dealerships, and may specialize in specific types of vehicles or systems.",
+  "riasec_primary": "Realistic",
+  "riasec_secondary": "Conventional",
+  "riasec_scores": {
+    "Realistic": 8,
+    "Investigative": 2,
+    "Artistic": 1,
+    "Social": 3,
+    "Enterprising": 2,
+    "Conventional": 4
+  },
+  "work_values": [
+    "Practicality",
+    "Efficiency",
+    "Reliability",
+    "Precision"
+  ],
+  "eligible_streams": [
+    "Science",
+    "Vocational"
+  ],
+  "entrance_exams": [
+    "ITI (Industrial Training Institute) Entrance Exam",
+    "NAT (National Apprenticeship Training) Exam"
+  ],
+  "degree_name": "Diploma in Automobile Engineering",
+  "degree_duration_years": 3,
+  "course_cost_lakhs": {
+    "government_college": 2,
+    "private_college": 8
+  },
+  "top_govt_colleges": [
+    "National Council of Vocational Training (NCVT) Institutes",
+    "Industrial Training Institutes (ITIs) in Delhi, Mumbai, Bengaluru, Chennai, Kolkata"
+  ],
+  "top_private_colleges": [
+    "Maharashtra State Board of Technical Education (MSBTE) affiliated colleges",
+    "Andhra Pradesh State Board of Technical Education and Training (APSBTE&T) affiliated colleges"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 3,
+    "mid_3_7_years": 8,
+    "senior_8_15_years": 18,
+    "top_earner": 35
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Delhi",
+      "Mumbai",
+      "Bengaluru",
+      "Chennai",
+      "Kolkata"
+    ],
+    "govt_vs_private": "30% govt 70% private",
+    "demand_trend": "stable",
+    "approximate_annual_openings_india": 30000
+  },
+  "career_progression": {
+    "year_0_2": "Apprenticeship, basic training, and entry-level positions in workshops or garages",
+    "year_3_5": "Specialization in specific vehicle types or systems, supervisory roles, and team leadership",
+    "year_6_10": "Senior mechanic roles, technical training, and potential entrepreneurship",
+    "senior_paths": [
+      "Workshop Manager",
+      "Garage Owner",
+      "Automotive Consultant"
+    ],
+    "entrepreneurship_exit": "Starting a small workshop or garage with initial investment of ₹5-10 lakhs",
+    "global_pathway": "Limited opportunities abroad, mostly in the Middle East or Africa, with a salary range of ₹15-30 lakhs per annum"
+  },
+  "india_social_context": {
+    "family_acceptance": "medium",
+    "regional_availability": "national",
+    "first_year_reality": "Initial struggles with finding employment, but opportunities increase with experience",
+    "common_misconceptions": [
+      "Automobile mechanics are only for those who failed in academics",
+      "Mechanics can earn high salaries without experience"
+    ]
+  },
+  "force_connections": {}
+}

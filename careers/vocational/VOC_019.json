@@ -1,0 +1,91 @@
+{
+  "career_id": "VOC_019",
+  "title": "Solar Panel Technician",
+  "stream": "Vocational",
+  "description": "A Solar Panel Technician in India installs, maintains, and repairs solar panel systems on rooftops, in factories, and other locations. They work with electrical systems, ensure safety protocols are followed, and troubleshoot issues to optimize energy production. Their daily tasks involve site visits, equipment checks, and communication with clients and team members.",
+  "riasec_primary": "Realistic",
+  "riasec_secondary": "Conventional",
+  "riasec_scores": {
+    "Realistic": 8,
+    "Investigative": 2,
+    "Artistic": 1,
+    "Social": 3,
+    "Enterprising": 2,
+    "Conventional": 4
+  },
+  "work_values": [
+    "Practicality",
+    "Efficiency",
+    "Safety",
+    "Reliability"
+  ],
+  "eligible_streams": [
+    "Science",
+    "Vocational",
+    "Engineering"
+  ],
+  "entrance_exams": [
+    "NTPC",
+    "NSDC"
+  ],
+  "degree_name": "Diploma in Solar Energy Technology",
+  "degree_duration_years": 3,
+  "course_cost_lakhs": {
+    "government_college": 1,
+    "private_college": 8
+  },
+  "top_govt_colleges": [
+    "National Power Training Institute",
+    "Central Electronics Engineering Research Institute",
+    "National Institute of Solar Energy",
+    "Indian Institute of Technology",
+    "National Institute of Technology"
+  ],
+  "top_private_colleges": [
+    "Larsen & Toubro Institute of Technology",
+    "Siemens Centre of Excellence",
+    "ABB India Training Centre",
+    "Schneider Electric Institute of Technology",
+    "Wipro Academy of Skills Training"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 3,
+    "mid_3_7_years": 8,
+    "senior_8_15_years": 18,
+    "top_earner": 35
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Mumbai",
+      "Delhi",
+      "Bangalore",
+      "Chennai",
+      "Hyderabad"
+    ],
+    "govt_vs_private": "30% govt 70% private",
+    "demand_trend": "growing",
+    "approximate_annual_openings_india": 30000
+  },
+  "career_progression": {
+    "year_0_2": "Assist experienced technicians, learn safety protocols, and gain hands-on experience with solar panel systems.",
+    "year_3_5": "Take on more responsibility, lead small teams, and develop expertise in system design and installation.",
+    "year_6_10": "Specialize in solar panel maintenance, become a team lead, or move into project management roles.",
+    "senior_paths": [
+      "Solar Panel System Designer",
+      "Renewable Energy Consultant",
+      "Energy Efficiency Specialist"
+    ],
+    "entrepreneurship_exit": "Start a solar panel installation and maintenance business, or create a product related to solar energy.",
+    "global_pathway": "Opportunities exist in countries with high solar energy adoption, such as the US, Germany, and Australia, but require additional certifications and experience."
+  },
+  "india_social_context": {
+    "family_acceptance": "medium",
+    "regional_availability": "national",
+    "first_year_reality": "Starting salary is low, and working hours can be long, especially in rural areas.",
+    "common_misconceptions": [
+      "Solar Panel Technicians work only outdoors",
+      "Solar Panel Technicians are not required to have electrical knowledge"
+    ]
+  },
+  "force_connections": {}
+}

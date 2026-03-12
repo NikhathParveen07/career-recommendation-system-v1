@@ -1,0 +1,87 @@
+{
+  "career_id": "ART_029",
+  "title": "Event Manager",
+  "stream": "Arts",
+  "description": "An Event Manager in India plans, coordinates, and executes events such as weddings, corporate events, and festivals. They work with clients to understand their requirements, create event concepts, and manage logistics, vendors, and timelines. They also handle event promotion, ticketing, and ensure smooth execution on the day of the event.",
+  "riasec_primary": "Enterprising",
+  "riasec_secondary": "Artistic",
+  "riasec_scores": {
+    "Realistic": 0,
+    "Investigative": 0,
+    "Artistic": 5,
+    "Social": 3,
+    "Enterprising": 6,
+    "Conventional": 2
+  },
+  "work_values": [
+    "Creativity",
+    "Flexibility",
+    "Recognition",
+    "Autonomy"
+  ],
+  "eligible_streams": [
+    "Arts",
+    "Commerce",
+    "Humanities"
+  ],
+  "entrance_exams": [
+    "NIFT Entrance Exam",
+    "NID Entrance Exam",
+    "UCEED Entrance Exam"
+  ],
+  "degree_name": "Bachelor of Arts in Event Management",
+  "degree_duration_years": 4,
+  "course_cost_lakhs": {
+    "government_college": 3,
+    "private_college": 15
+  },
+  "top_govt_colleges": [
+    "National Institute of Fashion Technology (NIFT) Delhi",
+    "National Institute of Design (NID) Ahmedabad",
+    "Indian Institute of Art and Design (IIAD) New Delhi"
+  ],
+  "top_private_colleges": [
+    "Pearl Academy New Delhi",
+    "Srishti Institute of Art, Design and Technology Bangalore",
+    "Apeejay Institute of Design New Delhi"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 4,
+    "mid_3_7_years": 10,
+    "senior_8_15_years": 22,
+    "top_earner": 45
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Mumbai",
+      "Delhi",
+      "Bangalore",
+      "Chennai"
+    ],
+    "govt_vs_private": "20% govt 80% private",
+    "demand_trend": "growing",
+    "approximate_annual_openings_india": 50000
+  },
+  "career_progression": {
+    "year_0_2": "Assistant Event Manager, Event Coordinator, Junior Marketing Executive",
+    "year_3_5": "Event Manager, Senior Marketing Executive, Brand Manager",
+    "year_6_10": "Senior Event Manager, Marketing Manager, Business Development Manager",
+    "senior_paths": [
+      "Event Director",
+      "Marketing Director",
+      "Business Development Director"
+    ],
+    "entrepreneurship_exit": "Start an event management company, create a mobile app for event ticketing, or develop an event planning software",
+    "global_pathway": "Work in international event management companies, join global event planning firms, or start an event management business in foreign countries"
+  },
+  "india_social_context": {
+    "family_acceptance": "medium",
+    "regional_availability": "national",
+    "first_year_reality": "Starting salary is low, but opportunities for growth are high",
+    "common_misconceptions": [
+      "Event management is only about planning parties",
+      "Event managers are only required for large events"
+    ]
+  },
+  "force_connections": {}
+}

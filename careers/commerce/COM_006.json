@@ -1,0 +1,90 @@
+{
+  "career_id": "COM_006",
+  "title": "Actuary",
+  "stream": "Commerce",
+  "description": "An Actuary in India works with insurance companies, assessing and managing risk, creating policies, and analyzing data to predict future outcomes. They use mathematical models and statistical techniques to determine the likelihood of events and make informed decisions. Actuaries in India often work long hours, especially during peak periods, and must stay up-to-date with changing regulations and technologies.",
+  "riasec_primary": "Conventional",
+  "riasec_secondary": "Investigative",
+  "riasec_scores": {
+    "Realistic": 2,
+    "Investigative": 8,
+    "Artistic": 1,
+    "Social": 3,
+    "Enterprising": 2,
+    "Conventional": 4
+  },
+  "work_values": [
+    "Analytical",
+    "Attention to detail",
+    "Problem-solving"
+  ],
+  "eligible_streams": [
+    "Commerce",
+    "Mathematics",
+    "Statistics"
+  ],
+  "entrance_exams": [
+    "CAIIB",
+    "Actuarial Common Entrance Test (ACET)"
+  ],
+  "degree_name": "Bachelor of Actuarial Science",
+  "degree_duration_years": 4,
+  "course_cost_lakhs": {
+    "government_college": 2,
+    "private_college": 12
+  },
+  "top_govt_colleges": [
+    "University of Delhi",
+    "University of Mumbai",
+    "University of Calcutta",
+    "University of Madras",
+    "University of Hyderabad"
+  ],
+  "top_private_colleges": [
+    "Indian Institute of Actuaries",
+    "Actuarial Science Institute of India",
+    "National Insurance Academy",
+    "Indian Institute of Insurance and Risk Management",
+    "Actuarial Science and Risk Management Institute"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 3,
+    "mid_3_7_years": 8,
+    "senior_8_15_years": 18,
+    "top_earner": 35
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Mumbai",
+      "Delhi",
+      "Chennai",
+      "Bangalore",
+      "Kolkata"
+    ],
+    "govt_vs_private": "30% govt 70% private",
+    "demand_trend": "growing",
+    "approximate_annual_openings_india": 30000
+  },
+  "career_progression": {
+    "year_0_2": "Internships, entry-level positions in insurance companies, and basic actuarial training.",
+    "year_3_5": "Specialization in actuarial science, advanced training, and leadership roles in insurance companies.",
+    "year_6_10": "Senior actuarial positions, management roles, and potential entrepreneurship.",
+    "senior_paths": [
+      "Actuarial Science Research",
+      "Insurance Company Management",
+      "Risk Management Consulting"
+    ],
+    "entrepreneurship_exit": "Starting an actuarial consulting firm or creating innovative actuarial products.",
+    "global_pathway": "Opportunities in international insurance companies, actuarial firms, and consulting companies."
+  },
+  "india_social_context": {
+    "family_acceptance": "medium",
+    "regional_availability": "national",
+    "first_year_reality": "Initial struggles to find a job, but opportunities increase with experience.",
+    "common_misconceptions": [
+      "Actuaries only work in insurance companies.",
+      "Actuarial science is only about numbers."
+    ]
+  },
+  "force_connections": {}
+}

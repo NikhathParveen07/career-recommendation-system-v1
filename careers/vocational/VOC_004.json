@@ -1,0 +1,92 @@
+{
+  "career_id": "VOC_004",
+  "title": "HVAC Technician",
+  "stream": "Vocational",
+  "description": "An HVAC Technician in India installs, maintains, and repairs heating, ventilation, and air conditioning systems in residential, commercial, and industrial settings. They work with various equipment, including air handlers, chillers, and ductwork, and often troubleshoot issues to ensure optimal system performance. Their daily tasks may involve inspecting systems, performing routine maintenance, and responding to emergency calls for repairs or replacements.",
+  "riasec_primary": "Realistic",
+  "riasec_secondary": "Conventional",
+  "riasec_scores": {
+    "Realistic": 8,
+    "Investigative": 2,
+    "Artistic": 1,
+    "Social": 3,
+    "Enterprising": 2,
+    "Conventional": 4
+  },
+  "work_values": [
+    "Practicality",
+    "Efficiency",
+    "Reliability",
+    "Precision"
+  ],
+  "eligible_streams": [
+    "Science",
+    "Vocational",
+    "Engineering"
+  ],
+  "entrance_exams": [
+    "NATs",
+    "DGET",
+    "ITI Entrance Exam"
+  ],
+  "degree_name": "Diploma in HVAC Technology",
+  "degree_duration_years": 3,
+  "course_cost_lakhs": {
+    "government_college": 2,
+    "private_college": 12
+  },
+  "top_govt_colleges": [
+    "National Institute of Construction Management and Research",
+    "National Council for Vocational Training",
+    "Central Institute of Building Technology",
+    "National Institute of Technology",
+    "Indian Institute of Technology"
+  ],
+  "top_private_colleges": [
+    "HVAC Institute of India",
+    "National Institute of Refrigeration and Air Conditioning",
+    "Indian Institute of Refrigeration and Air Conditioning",
+    "National Institute of Building Science and Technology",
+    "Institute of Refrigeration and Air Conditioning"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 3,
+    "mid_3_7_years": 8,
+    "senior_8_15_years": 18,
+    "top_earner": 35
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Mumbai",
+      "Delhi",
+      "Bangalore",
+      "Chennai",
+      "Hyderabad"
+    ],
+    "govt_vs_private": "30% govt 70% private",
+    "demand_trend": "growing",
+    "approximate_annual_openings_india": 30000
+  },
+  "career_progression": {
+    "year_0_2": "Assist experienced technicians, learn trade skills, and complete apprenticeships.",
+    "year_3_5": "Work independently, take on more complex tasks, and pursue certifications.",
+    "year_6_10": "Supervise teams, manage projects, and consider starting own business.",
+    "senior_paths": [
+      "Senior Technician",
+      "HVAC Project Manager",
+      "Building Services Engineer"
+    ],
+    "entrepreneurship_exit": "Start own HVAC contracting business, offer services to residential and commercial clients.",
+    "global_pathway": "Opportunities exist in the Middle East, Southeast Asia, and the United States for experienced HVAC technicians."
+  },
+  "india_social_context": {
+    "family_acceptance": "medium",
+    "regional_availability": "national",
+    "first_year_reality": "Starting salary is low, but opportunities for growth and advancement exist.",
+    "common_misconceptions": [
+      "HVAC work is only for men",
+      "HVAC requires a high level of education"
+    ]
+  },
+  "force_connections": {}
+}

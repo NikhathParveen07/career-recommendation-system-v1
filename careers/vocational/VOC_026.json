@@ -1,0 +1,88 @@
+{
+  "career_id": "VOC_026",
+  "title": "Bakery Professional",
+  "stream": "Vocational",
+  "description": "A Bakery Professional in India works in commercial bakeries, hotels, or restaurants, preparing and baking a variety of bread, pastries, cakes, and other sweet and savory items. They are responsible for following recipes, operating equipment, and maintaining a clean and safe work environment. They may also be involved in decorating cakes and pastries, and interacting with customers to take orders and provide customer service.",
+  "riasec_primary": "Realistic",
+  "riasec_secondary": "Conventional",
+  "riasec_scores": {
+    "Realistic": 8,
+    "Investigative": 2,
+    "Artistic": 1,
+    "Social": 3,
+    "Enterprising": 1,
+    "Conventional": 5
+  },
+  "work_values": [
+    "Creativity",
+    "Independence",
+    "Security",
+    "Recognition",
+    "Helping Others"
+  ],
+  "eligible_streams": [
+    "Vocational",
+    "Hotel Management",
+    "Food Technology"
+  ],
+  "entrance_exams": [
+    "National Council for Vocational Training (NCVT)"
+  ],
+  "degree_name": "Diploma in Bakery and Confectionery",
+  "degree_duration_years": 2,
+  "course_cost_lakhs": {
+    "government_college": 1,
+    "private_college": 8
+  },
+  "top_govt_colleges": [
+    "National Council for Vocational Training (NCVT) Institutes",
+    "Industrial Training Institutes (ITIs)"
+  ],
+  "top_private_colleges": [
+    "Institute of Hotel Management (IHM)",
+    "International Institute of Hotel Management (IIHM)",
+    "National Institute of Food Technology (NIFT)",
+    "Institute of Bakery and Confectionery (IBC)",
+    "National Institute of Bakery and Confectionery (NIBC)"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 2.5,
+    "mid_3_7_years": 6,
+    "senior_8_15_years": 15,
+    "top_earner": 30
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Mumbai",
+      "Delhi",
+      "Bangalore",
+      "Chennai",
+      "Hyderabad"
+    ],
+    "govt_vs_private": "40% govt 60% private",
+    "demand_trend": "stable",
+    "approximate_annual_openings_india": 20000
+  },
+  "career_progression": {
+    "year_0_2": "Assist in baking and decorating, learn about different types of bread and pastries, and develop customer service skills.",
+    "year_3_5": "Take on more responsibility in the bakery, learn about cake decorating and sugar art, and develop leadership skills.",
+    "year_6_10": "Become a senior baker or bakery manager, learn about business management and marketing, and develop expertise in a specific area of baking.",
+    "senior_paths": [
+      "Bakery Manager",
+      "Cake Decorator",
+      "Pastry Chef"
+    ],
+    "entrepreneurship_exit": "Start a small bakery or cake decorating business, or work as a freelancer to offer custom cake decorating services.",
+    "global_pathway": "Work in a foreign bakery or restaurant, or attend a culinary school abroad to learn about international baking techniques and ingredients."
+  },
+  "india_social_context": {
+    "family_acceptance": "medium",
+    "regional_availability": "national",
+    "first_year_reality": "Starting out as a Bakery Professional in India can be challenging, as it requires long hours and physical labor. However, with experience and skills, it can be a rewarding career.",
+    "common_misconceptions": [
+      "Bakery work is easy and requires no skills",
+      "Bakery professionals only work in small bakeries or cafes"
+    ]
+  },
+  "force_connections": {}
+}

@@ -1,0 +1,96 @@
+{
+  "career_id": "VOC_023",
+  "title": "Fitness Trainer",
+  "stream": "Vocational",
+  "description": "A Fitness Trainer in India works with clients to create personalized exercise plans, conducts fitness assessments, and provides guidance on nutrition and wellness. They may work in gyms, studios, or offer private coaching services. Their daily tasks involve creating workout routines, monitoring progress, and motivating clients to achieve their fitness goals.",
+  "riasec_primary": "Realistic",
+  "riasec_secondary": "Enterprising",
+  "riasec_scores": {
+    "Realistic": 8,
+    "Investigative": 2,
+    "Artistic": 1,
+    "Social": 4,
+    "Enterprising": 9,
+    "Conventional": 1
+  },
+  "work_values": [
+    "Physical Activity",
+    "Competition",
+    "Recognition",
+    "Autonomy",
+    "Security",
+    "Stability"
+  ],
+  "eligible_streams": [
+    "Physical Education",
+    "Sports",
+    "Vocational",
+    "Commerce",
+    "Science"
+  ],
+  "entrance_exams": [
+    "National Institute of Sports (NIS) Entrance Exam",
+    "Indian Institute of Fitness (IIF) Entrance Exam"
+  ],
+  "degree_name": "Bachelor of Science in Fitness and Exercise Science",
+  "degree_duration_years": 4,
+  "course_cost_lakhs": {
+    "government_college": 2,
+    "private_college": 12
+  },
+  "top_govt_colleges": [
+    "National Institute of Sports (NIS)",
+    "Indian Institute of Sports Science (IISS)",
+    "University of Delhi - Faculty of Physical Education",
+    "University of Mumbai - Department of Physical Education",
+    "University of Pune - Department of Physical Education"
+  ],
+  "top_private_colleges": [
+    "Indian Institute of Fitness (IIF)",
+    "National Academy of Sports Management (NASM)",
+    "Institute of Fitness and Sports Management (IFSM)",
+    "Sports and Fitness Management Institute (SFMI)",
+    "Fitness and Wellness Institute (FWI)"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 3,
+    "mid_3_7_years": 8,
+    "senior_8_15_years": 18,
+    "top_earner": 35
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Mumbai",
+      "Delhi",
+      "Chennai",
+      "Bangalore",
+      "Hyderabad"
+    ],
+    "govt_vs_private": "30% govt 70% private",
+    "demand_trend": "growing",
+    "approximate_annual_openings_india": 40000
+  },
+  "career_progression": {
+    "year_0_2": "Initial years involve working as a personal trainer in gyms or studios, with limited clients and basic salary. As experience grows, trainers can move to higher-paying gyms or start their own businesses.",
+    "year_3_5": "Trainers can specialize in specific areas like sports training, group fitness, or nutrition counseling. They may also take on leadership roles in gyms or studios.",
+    "year_6_10": "Experienced trainers can open their own gyms or fitness centers, or work as consultants for sports teams or organizations.",
+    "senior_paths": [
+      "Gym Owner",
+      "Fitness Program Manager",
+      "Sports Coach",
+      "Wellness Consultant"
+    ],
+    "entrepreneurship_exit": "Trainers can start their own gyms or fitness centers, or create online fitness programs and courses.",
+    "global_pathway": "Opportunities exist in countries like the US, UK, and Australia, particularly in the sports and fitness industries."
+  },
+  "india_social_context": {
+    "family_acceptance": "medium",
+    "regional_availability": "national",
+    "first_year_reality": "Starting out as a fitness trainer can be challenging, with limited clients and basic salary. However, with dedication and hard work, trainers can build a loyal client base and increase their earnings.",
+    "common_misconceptions": [
+      "Fitness trainers are only for young people",
+      "Fitness training is not a stable career"
+    ]
+  },
+  "force_connections": {}
+}

@@ -1,0 +1,92 @@
+{
+  "career_id": "SCI_025",
+  "title": "Agricultural Scientist",
+  "stream": "Science",
+  "description": "An Agricultural Scientist in India spends most of their day conducting research on crop improvement, soil health, and pest management. They work closely with farmers, government agencies, and other stakeholders to develop and implement sustainable agricultural practices. Their work involves collecting and analyzing data, conducting experiments, and communicating their findings to various audiences.",
+  "riasec_primary": "Investigative",
+  "riasec_secondary": "Realistic",
+  "riasec_scores": {
+    "Realistic": 8,
+    "Investigative": 9,
+    "Artistic": 2,
+    "Social": 3,
+    "Enterprising": 4,
+    "Conventional": 5
+  },
+  "work_values": [
+    "problem-solving",
+    "scientific inquiry",
+    "practical application"
+  ],
+  "eligible_streams": [
+    "Biology",
+    "Chemistry",
+    "Physics",
+    "Mathematics"
+  ],
+  "entrance_exams": [
+    "ICAR AIEEA",
+    "NEET",
+    "JRF"
+  ],
+  "degree_name": "Bachelor of Science in Agriculture",
+  "degree_duration_years": 4,
+  "course_cost_lakhs": {
+    "government_college": 3,
+    "private_college": 15
+  },
+  "top_govt_colleges": [
+    "Indian Agricultural Research Institute",
+    "National Dairy Research Institute",
+    "Indian Veterinary Research Institute",
+    "Central Institute of Fisheries Education",
+    "National Institute of Animal Nutrition and Physiology"
+  ],
+  "top_private_colleges": [
+    "Sardar Vallabhbhai Patel University of Agriculture and Technology",
+    "Chandra Shekhar Azad University of Agriculture and Technology",
+    "Mahatma Phule Krishi Vidyapeeth",
+    "Rajendra Agricultural University",
+    "Uttar Banga Krishi Vishwavidyalaya"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 4,
+    "mid_3_7_years": 10,
+    "senior_8_15_years": 22,
+    "top_earner": 45
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "New Delhi",
+      "Mumbai",
+      "Kolkata",
+      "Chennai",
+      "Hyderabad"
+    ],
+    "govt_vs_private": "20% govt 80% private",
+    "demand_trend": "growing",
+    "approximate_annual_openings_india": 50000
+  },
+  "career_progression": {
+    "year_0_2": "Assistants in research institutions, government departments, and private companies. Conduct experiments, collect data, and assist in the development of new agricultural practices.",
+    "year_3_5": "Research assistants in government departments, private companies, and research institutions. Conduct independent research, develop new agricultural practices, and publish research papers.",
+    "year_6_10": "Senior research scientists in government departments, private companies, and research institutions. Lead research teams, develop new agricultural practices, and publish research papers.",
+    "senior_paths": [
+      "Director of Research in a government department",
+      "Head of Research in a private company",
+      "Professor in a university"
+    ],
+    "entrepreneurship_exit": "Start a company that develops and markets new agricultural products or services.",
+    "global_pathway": "Work in international organizations such as the Food and Agriculture Organization of the United Nations, or in research institutions in developed countries."
+  },
+  "india_social_context": {
+    "family_acceptance": "high",
+    "regional_availability": "national",
+    "first_year_reality": "Starting salary is around ₹4-6 lakhs per annum. Working hours can be long, especially during peak agricultural seasons.",
+    "common_misconceptions": [
+      "Agricultural scientists only work in rural areas",
+      "Agricultural scientists only deal with crops"
+    ]
+  },
+  "force_connections": {}
+}

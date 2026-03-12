@@ -1,0 +1,91 @@
+{
+  "career_id": "SCI_015",
+  "title": "Renewable Energy Engineer",
+  "stream": "Science",
+  "description": "A Renewable Energy Engineer in India designs, develops, and implements sustainable energy systems, such as solar and wind power plants, and energy-efficient technologies. They work with government agencies, private companies, and research institutions to ensure that energy production is environmentally friendly and meets the country's growing energy demands. In a typical day, they analyze data, conduct site visits, and collaborate with teams to optimize energy production and reduce carbon emissions.",
+  "riasec_primary": "Realistic",
+  "riasec_secondary": "Investigative",
+  "riasec_scores": {
+    "Realistic": 8,
+    "Investigative": 6,
+    "Artistic": 2,
+    "Social": 3,
+    "Enterprising": 4,
+    "Conventional": 1
+  },
+  "work_values": [
+    "problem-solving",
+    "innovation",
+    "environmental sustainability"
+  ],
+  "eligible_streams": [
+    "Physics, Chemistry, Mathematics (PCM)",
+    "Physics, Chemistry, Biology (PCB)"
+  ],
+  "entrance_exams": [
+    "Joint Entrance Examination (JEE) Main",
+    "Joint Entrance Examination (JEE) Advanced",
+    "BITSAT",
+    "VITEEE"
+  ],
+  "degree_name": "Bachelor of Technology in Renewable Energy Engineering",
+  "degree_duration_years": 4,
+  "course_cost_lakhs": {
+    "government_college": 3,
+    "private_college": 15
+  },
+  "top_govt_colleges": [
+    "National Institute of Technology (NIT) Warangal",
+    "Indian Institute of Technology (IIT) Roorkee",
+    "National Institute of Technology (NIT) Trichy",
+    "Indian Institute of Technology (IIT) Guwahati",
+    "National Institute of Technology (NIT) Surathkal"
+  ],
+  "top_private_colleges": [
+    "BITS Pilani",
+    "Vellore Institute of Technology (VIT)",
+    "Sri Sivasubramaniya Nadar College of Engineering (SSN)",
+    "PSG College of Technology",
+    "Amrita Vishwa Vidyapeetham"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 4,
+    "mid_3_7_years": 10,
+    "senior_8_15_years": 22,
+    "top_earner": 45
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Mumbai",
+      "Delhi",
+      "Bangalore",
+      "Hyderabad",
+      "Chennai"
+    ],
+    "govt_vs_private": "20% govt 80% private",
+    "demand_trend": "growing",
+    "approximate_annual_openings_india": 50000
+  },
+  "career_progression": {
+    "year_0_2": "Assist in design and development of renewable energy systems, conduct site visits, and participate in team meetings.",
+    "year_3_5": "Take lead in designing and implementing renewable energy projects, conduct feasibility studies, and collaborate with stakeholders.",
+    "year_6_10": "Oversee the development and implementation of large-scale renewable energy projects, lead teams, and mentor junior engineers.",
+    "senior_paths": [
+      "Project Manager",
+      "Renewable Energy Consultant",
+      "Sustainability Specialist"
+    ],
+    "entrepreneurship_exit": "Start a company that specializes in renewable energy solutions, such as solar panel installation or wind turbine maintenance.",
+    "global_pathway": "Work with international companies or organizations that focus on renewable energy, such as the International Renewable Energy Agency (IRENA) or the World Bank's Energy Sector Management Assistance Program (ESMAP)"
+  },
+  "india_social_context": {
+    "family_acceptance": "high",
+    "regional_availability": "national",
+    "first_year_reality": "Starting salary is around ₹4-6 lakhs per annum, and working hours can be long, especially during project deadlines.",
+    "common_misconceptions": [
+      "Renewable energy engineers only work on solar panels.",
+      "Renewable energy engineers have to work outdoors all the time."
+    ]
+  },
+  "force_connections": {}
+}

@@ -1,0 +1,93 @@
+{
+  "career_id": "ART_028",
+  "title": "Chef Culinary Arts",
+  "stream": "Arts",
+  "description": "A chef in India typically works in a commercial kitchen, preparing and cooking meals for restaurants, hotels, and catering services. They follow recipes, manage inventory, and maintain kitchen hygiene. Chefs may also be involved in menu planning, food presentation, and customer service.",
+  "riasec_primary": "Artistic",
+  "riasec_secondary": "Social",
+  "riasec_scores": {
+    "Realistic": 6,
+    "Investigative": 4,
+    "Artistic": 8,
+    "Social": 6,
+    "Enterprising": 2,
+    "Conventional": 4
+  },
+  "work_values": [
+    "Creativity",
+    "Self-expression",
+    "Food quality",
+    "Customer satisfaction",
+    "Teamwork"
+  ],
+  "eligible_streams": [
+    "Arts",
+    "Commerce",
+    "Science"
+  ],
+  "entrance_exams": [
+    "NCHMCT JEE",
+    "CUET",
+    "AIIMS BSc Hotel Management Entrance Exam"
+  ],
+  "degree_name": "Bachelor of Science in Hospitality and Hotel Administration",
+  "degree_duration_years": 4,
+  "course_cost_lakhs": {
+    "government_college": 2,
+    "private_college": 12
+  },
+  "top_govt_colleges": [
+    "Institute of Hotel Management, Aurangabad",
+    "Institute of Hotel Management, Bhopal",
+    "Institute of Hotel Management, Chennai",
+    "Institute of Hotel Management, Delhi",
+    "Institute of Hotel Management, Mumbai"
+  ],
+  "top_private_colleges": [
+    "Institute of Hotel Management, Noida",
+    "Institute of Hotel Management, Gurgaon",
+    "Institute of Hotel Management, Bengaluru",
+    "Institute of Hotel Management, Hyderabad",
+    "Institute of Hotel Management, Pune"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 3,
+    "mid_3_7_years": 8,
+    "senior_8_15_years": 18,
+    "top_earner": 35
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Mumbai",
+      "Delhi",
+      "Bengaluru",
+      "Chennai",
+      "Hyderabad"
+    ],
+    "govt_vs_private": "30% govt 70% private",
+    "demand_trend": "growing",
+    "approximate_annual_openings_india": 40000
+  },
+  "career_progression": {
+    "year_0_2": "Starting as a commis chef, assisting senior chefs, and learning kitchen operations.",
+    "year_3_5": "Moving to senior chef positions, leading kitchen teams, and managing menu planning.",
+    "year_6_10": "Taking on executive chef roles, overseeing kitchen operations, and developing new menus.",
+    "senior_paths": [
+      "Restaurant management",
+      "Catering services",
+      "Food entrepreneurship"
+    ],
+    "entrepreneurship_exit": "Starting a food truck or small restaurant with a unique concept.",
+    "global_pathway": "Opportunities in international hotel chains, cruise lines, or high-end restaurants."
+  },
+  "india_social_context": {
+    "family_acceptance": "medium",
+    "regional_availability": "national",
+    "first_year_reality": "Challenging to find a job in a commercial kitchen, requires hard work and dedication.",
+    "common_misconceptions": [
+      "Chefs only work in restaurants",
+      "Cooking is an easy job"
+    ]
+  },
+  "force_connections": {}
+}

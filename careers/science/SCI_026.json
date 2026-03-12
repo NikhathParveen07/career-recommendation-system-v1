@@ -1,0 +1,73 @@
+{
+  "career_id": "SCI_026",
+  "title": "Space Technology Engineer",
+  "stream": "Science",
+  "description": "A Space Technology Engineer in India designs and develops spacecraft, satellites, and other space-related systems. They work on projects like launch vehicle development, payload design, and mission planning. Their day involves collaborating with teams, conducting research, and testing prototypes to ensure they meet the required standards.",
+  "riasec_primary": "Realistic",
+  "riasec_secondary": "Investigative",
+  "riasec_scores": {
+    "Realistic": 8,
+    "Investigative": 7,
+    "Artistic": 2,
+    "Social": 1,
+    "Enterprising": 1,
+    "Conventional": 1
+  },
+  "work_values": [
+    "Problem-solving",
+    "Technical expertise",
+    "Innovation"
+  ],
+  "eligible_streams": [
+    "Physics, Chemistry, Mathematics (PCM)"
+  ],
+  "entrance_exams": [
+    "JEE Main, JEE Advanced, ISRO SET"
+  ],
+  "degree_name": "Bachelor of Engineering in Aerospace Engineering",
+  "degree_duration_years": 4,
+  "course_cost_lakhs": {
+    "government_college": 3,
+    "private_college": 15
+  },
+  "top_govt_colleges": [
+    "Indian Institute of Technology Bombay, Indian Institute of Technology Madras, Indian Institute of Technology Delhi, Indian Institute of Technology Kanpur, Indian Institute of Technology Kharagpur"
+  ],
+  "top_private_colleges": [
+    "Vellore Institute of Technology, Birla Institute of Technology and Science, Amrita Vishwa Vidyapeetham, Manipal Academy of Higher Education, SRM Institute of Science and Technology"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 4,
+    "mid_3_7_years": 10,
+    "senior_8_15_years": 22,
+    "top_earner": 45
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Bangalore, Hyderabad, Mumbai, Chennai, Pune"
+    ],
+    "govt_vs_private": "20% govt 80% private",
+    "demand_trend": "growing",
+    "approximate_annual_openings_india": 50000
+  },
+  "career_progression": {
+    "year_0_2": "Assist in design and development of spacecraft and satellites, work under supervision, and gain hands-on experience.",
+    "year_3_5": "Take on more responsibility, lead small teams, and contribute to project planning and execution.",
+    "year_6_10": "Hold senior positions, lead large teams, and oversee multiple projects.",
+    "senior_paths": [
+      "Project Manager, Technical Lead, Research Scientist"
+    ],
+    "entrepreneurship_exit": "Start a company focused on space technology, leveraging expertise and network.",
+    "global_pathway": "Opportunities exist in countries like the US, UK, and Australia, but require additional education and certifications."
+  },
+  "india_social_context": {
+    "family_acceptance": "high",
+    "regional_availability": "national",
+    "first_year_reality": "Challenging to find internships and jobs, requires perseverance and networking.",
+    "common_misconceptions": [
+      "Space Technology Engineers only work on government projects",
+      "It's a highly lucrative career with immediate high salaries"
+    ]
+  },
+  "force_connections": {}
+}

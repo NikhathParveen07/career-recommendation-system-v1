@@ -1,0 +1,94 @@
+{
+  "career_id": "ART_019",
+  "title": "AR VR Developer",
+  "stream": "Arts",
+  "description": "An AR VR Developer in India spends most of their time designing and developing immersive experiences for various industries such as gaming, education, and healthcare. They work on creating 3D models, animations, and interactive simulations using software like Unity and Unreal Engine. They also collaborate with cross-functional teams to ensure seamless integration of AR VR experiences with other technologies like AI and IoT.",
+  "riasec_primary": "Artistic",
+  "riasec_secondary": "Investigative",
+  "riasec_scores": {
+    "Realistic": 2,
+    "Investigative": 4,
+    "Artistic": 6,
+    "Social": 1,
+    "Enterprising": 2,
+    "Conventional": 1
+  },
+  "work_values": [
+    "Creativity",
+    "Innovation",
+    "Problem-solving",
+    "Collaboration"
+  ],
+  "eligible_streams": [
+    "Computer Science",
+    "Information Technology",
+    "Electronics",
+    "Animation and Graphics Design"
+  ],
+  "entrance_exams": [
+    "JEE Main",
+    "BITSAT",
+    "VITEEE",
+    "SRMJEE"
+  ],
+  "degree_name": "Bachelor of Science in Information Technology",
+  "degree_duration_years": 4,
+  "course_cost_lakhs": {
+    "government_college": 2,
+    "private_college": 12
+  },
+  "top_govt_colleges": [
+    "National Institute of Technology, Warangal",
+    "Indian Institute of Information Technology, Ranchi",
+    "National Institute of Technology, Tiruchirappalli",
+    "Indian Institute of Technology, Bhubaneswar",
+    "National Institute of Technology, Rourkela"
+  ],
+  "top_private_colleges": [
+    "BITS Pilani, Hyderabad Campus",
+    "Vellore Institute of Technology, Vellore",
+    "Sathyabama Institute of Science and Technology, Chennai",
+    "SRM Institute of Science and Technology, Chennai",
+    "Amrita Vishwa Vidyapeetham, Coimbatore"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 3,
+    "mid_3_7_years": 8,
+    "senior_8_15_years": 18,
+    "top_earner": 35
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Bangalore",
+      "Mumbai",
+      "Hyderabad",
+      "Pune",
+      "Chennai"
+    ],
+    "govt_vs_private": "15% govt 85% private",
+    "demand_trend": "growing",
+    "approximate_annual_openings_india": 30000
+  },
+  "career_progression": {
+    "year_0_2": "Starts as a Junior AR VR Developer, working on basic projects and learning from senior developers. Gains experience in Unity and Unreal Engine, and develops skills in 3D modeling and animation.",
+    "year_3_5": "Moves to a mid-level position, taking on more complex projects and leading small teams. Develops expertise in AR VR development for specific industries like gaming or education.",
+    "year_6_10": "Reaches a senior level, overseeing large-scale projects and mentoring junior developers. Expands skills to include AI and IoT integration, and becomes a subject matter expert in AR VR development.",
+    "senior_paths": [
+      "Technical Lead",
+      "Project Manager",
+      "UX Designer"
+    ],
+    "entrepreneurship_exit": "Can start their own AR VR development studio, offering services to clients in various industries.",
+    "global_pathway": "Can work with international clients, or move to countries like the US, UK, or Singapore for better opportunities."
+  },
+  "india_social_context": {
+    "family_acceptance": "medium",
+    "regional_availability": "national",
+    "first_year_reality": "Starting salary is around ₹3-4 lakhs per annum, and the first year can be challenging as the individual adjusts to the industry and company culture.",
+    "common_misconceptions": [
+      "AR VR development is only for gaming",
+      "AR VR development is a solo activity"
+    ]
+  },
+  "force_connections": {}
+}

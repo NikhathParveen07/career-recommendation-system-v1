@@ -1,0 +1,101 @@
+{
+  "career_id": "COM_025",
+  "title": "Entrepreneur Startup Founder",
+  "stream": "Commerce",
+  "description": "An Entrepreneur Startup Founder in India typically spends their days conceptualizing and launching new business ventures, managing finances, marketing, and scaling their startups to achieve growth and profitability. They often work long hours, juggling multiple responsibilities, and are constantly seeking innovative solutions to stay ahead in the competitive startup ecosystem. With the rise of entrepreneurship in India, this career path has become increasingly popular, but it requires immense dedication, resilience, and adaptability to succeed.",
+  "riasec_primary": "Enterprising",
+  "riasec_secondary": "Conventional",
+  "riasec_scores": {
+    "Realistic": 0,
+    "Investigative": 0,
+    "Artistic": 0,
+    "Social": 0,
+    "Enterprising": 8,
+    "Conventional": 6
+  },
+  "work_values": [
+    "Autonomy",
+    "Creativity",
+    "Financial Security",
+    "Innovation",
+    "Recognition",
+    "Stability"
+  ],
+  "eligible_streams": [
+    "Commerce",
+    "Business Studies",
+    "Accountancy",
+    "Economics",
+    "Management"
+  ],
+  "entrance_exams": [
+    "CAT",
+    "MAT",
+    "CMAT",
+    "XAT",
+    "NMAT"
+  ],
+  "degree_name": "Bachelor of Business Administration (BBA)",
+  "degree_duration_years": 3,
+  "course_cost_lakhs": {
+    "government_college": 2,
+    "private_college": 12
+  },
+  "top_govt_colleges": [
+    "University of Delhi",
+    "University of Mumbai",
+    "University of Calcutta",
+    "University of Madras",
+    "University of Hyderabad"
+  ],
+  "top_private_colleges": [
+    "Indian Institute of Management (IIM) Ahmedabad",
+    "Indian Institute of Management (IIM) Bangalore",
+    "Indian Institute of Management (IIM) Calcutta",
+    "Indian Institute of Management (IIM) Lucknow",
+    "SP Jain Institute of Management and Research (SPJIMR)"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 3,
+    "mid_3_7_years": 8,
+    "senior_8_15_years": 18,
+    "top_earner": 40
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Mumbai",
+      "Bangalore",
+      "Delhi",
+      "Hyderabad",
+      "Pune"
+    ],
+    "govt_vs_private": "10% govt 90% private",
+    "demand_trend": "growing",
+    "approximate_annual_openings_india": 30000
+  },
+  "career_progression": {
+    "year_0_2": "First 2 years: Internships, networking, and building a professional network. Developing skills in marketing, finance, and operations.",
+    "year_3_5": "Years 3-5: Starting to take on more responsibilities, leading small teams, and contributing to business growth. Developing expertise in a specific area, such as digital marketing or financial analysis.",
+    "year_6_10": "Years 6-10: Senior roles, leading large teams, and driving business strategy. Developing leadership skills, mentoring junior colleagues, and contributing to organizational growth.",
+    "senior_paths": [
+      "Product Management",
+      "Marketing Management",
+      "Financial Management",
+      "Operations Management",
+      "Entrepreneurship"
+    ],
+    "entrepreneurship_exit": "Starting a business after gaining experience in a corporate setting, leveraging networks and skills to create a successful startup.",
+    "global_pathway": "Opportunities to work with international companies, collaborate with global teams, and develop a global mindset through work assignments or entrepreneurial ventures."
+  },
+  "india_social_context": {
+    "family_acceptance": "medium",
+    "regional_availability": "national",
+    "first_year_reality": "Challenging to find a job, but with persistence and networking, opportunities arise. Salary expectations may be lower than expected.",
+    "common_misconceptions": [
+      "Entrepreneurship is easy and lucrative",
+      "Starting a business requires no experience or skills",
+      "Corporate jobs are more stable and secure"
+    ]
+  },
+  "force_connections": {}
+}

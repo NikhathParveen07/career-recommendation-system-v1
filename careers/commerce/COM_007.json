@@ -1,0 +1,98 @@
+{
+  "career_id": "COM_007",
+  "title": "Stock Broker",
+  "stream": "Commerce",
+  "description": "A stock broker in India typically spends their day analyzing market trends, managing client portfolios, executing trades, and staying updated with regulatory changes. They often work long hours, including evenings and weekends, to meet client demands and stay competitive in the market. With the rise of online trading platforms, stock brokers must also be tech-savvy and comfortable with digital tools.",
+  "riasec_primary": "Enterprising",
+  "riasec_secondary": "Conventional",
+  "riasec_scores": {
+    "Realistic": 0,
+    "Investigative": 0,
+    "Artistic": 0,
+    "Social": 0,
+    "Enterprising": 8,
+    "Conventional": 6
+  },
+  "work_values": [
+    "autonomy",
+    "financial security",
+    "challenge",
+    "recognition",
+    "growth opportunities"
+  ],
+  "eligible_streams": [
+    "Commerce",
+    "Economics",
+    "Business Studies",
+    "Accountancy"
+  ],
+  "entrance_exams": [
+    "CA CPT",
+    "CS Executive",
+    "CFA Level I",
+    "NISM-Series-V-A: Investment Adviser (Level 1)"
+  ],
+  "degree_name": "Chartered Accountant (CA) or Certified Financial Analyst (CFA)",
+  "degree_duration_years": 4,
+  "course_cost_lakhs": {
+    "government_college": 3,
+    "private_college": 15
+  },
+  "top_govt_colleges": [
+    "Institute of Chartered Accountants of India (ICAI)",
+    "National Institute of Securities Markets (NISM)",
+    "Indian Institute of Capital Markets (IICM)",
+    "National Stock Exchange (NSE) Academy",
+    "Bombay Stock Exchange (BSE) Institute"
+  ],
+  "top_private_colleges": [
+    "K J Somaiya Institute of Advanced Research and Education",
+    "Narsee Monjee Institute of Management Studies (NMIMS)",
+    "Symbiosis Centre for Management and Human Resource Development (SCMHRD)",
+    "Welingkar Institute of Management Development and Research (WeSchool)",
+    "International Management Institute (IMI)"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 4,
+    "mid_3_7_years": 10,
+    "senior_8_15_years": 22,
+    "top_earner": 45
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Mumbai",
+      "Delhi",
+      "Bangalore",
+      "Chennai",
+      "Kolkata"
+    ],
+    "govt_vs_private": "20% govt 80% private",
+    "demand_trend": "growing",
+    "approximate_annual_openings_india": 50000
+  },
+  "career_progression": {
+    "year_0_2": "Initial years involve completing CA or CFA courses, gaining practical experience through internships, and building a network of contacts in the industry.",
+    "year_3_5": "As experience grows, stock brokers can move into senior roles, such as portfolio management or investment banking, or start their own brokerage firms.",
+    "year_6_10": "Senior stock brokers can take on leadership roles, such as branch heads or regional managers, or transition into related fields like wealth management or financial planning.",
+    "senior_paths": [
+      "Portfolio Manager",
+      "Investment Banker",
+      "Wealth Manager",
+      "Financial Planner",
+      "Brokerage Firm Owner"
+    ],
+    "entrepreneurship_exit": "Stock brokers can start their own brokerage firms, offering a range of services to clients, including investment advice, portfolio management, and trading execution.",
+    "global_pathway": "With the rise of global markets, stock brokers can explore opportunities in international finance, such as working for multinational banks or investment firms, or starting their own global brokerage firms."
+  },
+  "india_social_context": {
+    "family_acceptance": "high",
+    "regional_availability": "national",
+    "first_year_reality": "Starting out as a stock broker can be challenging, with long hours, high stress, and intense competition. However, with dedication and hard work, it can be a rewarding career.",
+    "common_misconceptions": [
+      "Stock brokers are only interested in making money",
+      "Stock brokers are not trustworthy",
+      "Stock brokers are only for the wealthy"
+    ]
+  },
+  "force_connections": {}
+}

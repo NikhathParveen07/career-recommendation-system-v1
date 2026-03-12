@@ -1,0 +1,94 @@
+{
+  "career_id": "SCI_008",
+  "title": "Civil Engineer",
+  "stream": "Science",
+  "description": "A Civil Engineer in India designs and develops infrastructure projects such as roads, bridges, and buildings. They work with clients to understand project requirements, conduct site visits, and ensure projects are completed on time and within budget. They also collaborate with architects, contractors, and other stakeholders to ensure smooth project execution.",
+  "riasec_primary": "Realistic",
+  "riasec_secondary": "Conventional",
+  "riasec_scores": {
+    "Realistic": 8,
+    "Investigative": 2,
+    "Artistic": 1,
+    "Social": 3,
+    "Enterprising": 2,
+    "Conventional": 4
+  },
+  "work_values": [
+    "Practicality",
+    "Efficiency",
+    "Stability",
+    "Security"
+  ],
+  "eligible_streams": [
+    "Physics, Chemistry, Mathematics",
+    "Mathematics, Computer Science, Physics"
+  ],
+  "entrance_exams": [
+    "JEE Main",
+    "JEE Advanced",
+    "BITSAT",
+    "VITEEE"
+  ],
+  "degree_name": "Bachelor of Engineering in Civil Engineering",
+  "degree_duration_years": 4,
+  "course_cost_lakhs": {
+    "government_college": 3,
+    "private_college": 15
+  },
+  "top_govt_colleges": [
+    "Indian Institute of Technology (IIT) Bombay",
+    "Indian Institute of Technology (IIT) Delhi",
+    "National Institute of Technology (NIT) Trichy",
+    "Indian Institute of Engineering Science and Technology (IIEST) Shibpur",
+    "National Institute of Technology (NIT) Warangal"
+  ],
+  "top_private_colleges": [
+    "BITS Pilani",
+    "Vellore Institute of Technology (VIT)",
+    "Sri Sivasubramaniya Nadar College of Engineering (SSNCE)",
+    "Amrita Vishwa Vidyapeetham",
+    "Birla Institute of Technology (BIT) Mesra"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 4,
+    "mid_3_7_years": 10,
+    "senior_8_15_years": 22,
+    "top_earner": 45
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Mumbai",
+      "Delhi",
+      "Bangalore",
+      "Chennai",
+      "Hyderabad"
+    ],
+    "govt_vs_private": "20% govt 80% private",
+    "demand_trend": "growing",
+    "approximate_annual_openings_india": 50000
+  },
+  "career_progression": {
+    "year_0_2": "Assist in project planning, site visits, and data collection. Collaborate with senior engineers to develop project designs and estimates.",
+    "year_3_5": "Lead small projects, conduct site inspections, and ensure compliance with regulations. Develop and implement project management plans.",
+    "year_6_10": "Oversee large-scale projects, manage project teams, and ensure timely completion. Develop and implement new technologies and processes.",
+    "senior_paths": [
+      "Project Manager",
+      "Construction Manager",
+      "Urban Planner",
+      "Infrastructure Consultant",
+      "Research and Development Engineer"
+    ],
+    "entrepreneurship_exit": "Start a construction or infrastructure consulting firm, or develop and market innovative construction materials or technologies.",
+    "global_pathway": "Work on international projects, collaborate with global companies, or pursue higher education in civil engineering abroad."
+  },
+  "india_social_context": {
+    "family_acceptance": "very_high",
+    "regional_availability": "national",
+    "first_year_reality": "Initial years can be challenging, with long working hours and limited job security. However, with experience and a strong network, career prospects improve significantly.",
+    "common_misconceptions": [
+      "Civil engineers only work on construction sites.",
+      "Civil engineering is a low-paying career."
+    ]
+  },
+  "force_connections": {}
+}

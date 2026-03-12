@@ -1,0 +1,95 @@
+{
+  "career_id": "ART_013",
+  "title": "Graphic Designer",
+  "stream": "Arts",
+  "description": "A Graphic Designer in India typically spends their days creating visual content for various mediums such as websites, social media, magazines, and advertisements. They work with clients to understand their requirements, brainstorm ideas, and design engaging graphics using software like Adobe Creative Suite. Their tasks may include creating logos, brochures, infographics, and other visual materials that effectively communicate the client's message.",
+  "riasec_primary": "Artistic",
+  "riasec_secondary": "Conventional",
+  "riasec_scores": {
+    "Realistic": 0,
+    "Investigative": 0,
+    "Artistic": 8,
+    "Social": 0,
+    "Enterprising": 0,
+    "Conventional": 4
+  },
+  "work_values": [
+    "Creativity",
+    "Self-expression",
+    "Recognition",
+    "Independence"
+  ],
+  "eligible_streams": [
+    "Arts",
+    "Commerce",
+    "Science"
+  ],
+  "entrance_exams": [
+    "NIFT Entrance Exam",
+    "NID Entrance Exam",
+    "UCEED Entrance Exam"
+  ],
+  "degree_name": "Bachelor of Design (B.Des.)",
+  "degree_duration_years": 4,
+  "course_cost_lakhs": {
+    "government_college": 3,
+    "private_college": 15
+  },
+  "top_govt_colleges": [
+    "National Institute of Design (NID)",
+    "National Institute of Fashion Technology (NIFT)",
+    "Indian Institute of Art and Design (IIAD)",
+    "School of Architecture and Planning (SAP)",
+    "Indian Institute of Technology (IIT) - Design Program"
+  ],
+  "top_private_colleges": [
+    "National Institute of Fashion Technology (NIFT)",
+    "Indian Institute of Art and Design (IIAD)",
+    "School of Planning and Architecture (SPA)",
+    "Apeejay Institute of Design",
+    "Symbiosis Institute of Design"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 3.5,
+    "mid_3_7_years": 8,
+    "senior_8_15_years": 18,
+    "top_earner": 35
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Mumbai",
+      "Delhi",
+      "Bangalore",
+      "Chennai",
+      "Hyderabad"
+    ],
+    "govt_vs_private": "5% govt 95% private",
+    "demand_trend": "growing",
+    "approximate_annual_openings_india": 30000
+  },
+  "career_progression": {
+    "year_0_2": "Assist junior designers, learn software, and develop design skills. May work on small projects and assist in design teams.",
+    "year_3_5": "Work on larger projects, lead design teams, and develop expertise in specific design areas. May take on more responsibility and contribute to design strategy.",
+    "year_6_10": "Lead design teams, manage projects, and contribute to design strategy. May take on leadership roles and mentor junior designers.",
+    "senior_paths": [
+      "Design Director",
+      "Creative Director",
+      "Art Director",
+      "UX Designer",
+      "Visual Designer"
+    ],
+    "entrepreneurship_exit": "Start a design studio or agency, offering services to clients. May also create and sell design products or services online.",
+    "global_pathway": "Work with international clients, collaborate with global design teams, or move to countries like the US, UK, or Australia for better opportunities."
+  },
+  "india_social_context": {
+    "family_acceptance": "medium",
+    "regional_availability": "national",
+    "first_year_reality": "Starting salary is low, and working hours can be long. May need to work on weekends and holidays.",
+    "common_misconceptions": [
+      "Graphic designers are only good at drawing",
+      "Graphic designers work only on creative projects",
+      "Graphic designers are not needed in the digital age"
+    ]
+  },
+  "force_connections": {}
+}

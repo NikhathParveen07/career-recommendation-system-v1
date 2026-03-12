@@ -1,0 +1,103 @@
+{
+  "career_id": "SCI_001",
+  "title": "Software Engineer",
+  "stream": "Science",
+  "description": "A software engineer in India spends most of their day writing code, attending meetings, and collaborating with team members to develop and maintain software applications. They often work long hours, especially during project deadlines, and may have to handle multiple tasks simultaneously. With the rise of the IT industry, software engineers are in high demand, but the job can be stressful and requires continuous learning to stay updated with new technologies.",
+  "riasec_primary": "Investigative",
+  "riasec_secondary": "Realistic",
+  "riasec_scores": {
+    "Realistic": 8,
+    "Investigative": 9,
+    "Artistic": 2,
+    "Social": 3,
+    "Enterprising": 5,
+    "Conventional": 4
+  },
+  "work_values": [
+    "problem-solving",
+    "innovation",
+    "teamwork",
+    "challenge",
+    "autonomy",
+    "growth"
+  ],
+  "eligible_streams": [
+    "PCMB",
+    "PCME",
+    "PCMC",
+    "BiPC",
+    "BiME",
+    "BiMC"
+  ],
+  "entrance_exams": [
+    "JEE Main",
+    "JEE Advanced",
+    "BITSAT",
+    "VITEEE",
+    "SRMJEE",
+    "COMEDK UGET"
+  ],
+  "degree_name": "Bachelor of Technology (B.Tech)",
+  "degree_duration_years": 4,
+  "course_cost_lakhs": {
+    "government_college": 3,
+    "private_college": 15
+  },
+  "top_govt_colleges": [
+    "Indian Institute of Technology (IIT) Bombay",
+    "Indian Institute of Technology (IIT) Delhi",
+    "Indian Institute of Technology (IIT) Madras",
+    "Indian Institute of Technology (IIT) Kanpur",
+    "National Institute of Technology (NIT) Tiruchirappalli"
+  ],
+  "top_private_colleges": [
+    "BITS Pilani",
+    "Vellore Institute of Technology (VIT)",
+    "Sri Ramaswamy Memorial Institute of Science and Technology (SRM IST)",
+    "Amrita Vishwa Vidyapeetham",
+    "Birla Institute of Technology and Science (BITS) Hyderabad"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 4,
+    "mid_3_7_years": 10,
+    "senior_8_15_years": 22,
+    "top_earner": 45
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Bangalore",
+      "Mumbai",
+      "Hyderabad",
+      "Pune",
+      "Chennai"
+    ],
+    "govt_vs_private": "20% govt 80% private",
+    "demand_trend": "growing",
+    "approximate_annual_openings_india": 50000
+  },
+  "career_progression": {
+    "year_0_2": "First 2 years: Internships, training, and basic coding skills. May work on small projects and assist senior engineers.",
+    "year_3_5": "Years 3-5: Take on more complex projects, lead small teams, and develop expertise in specific areas like AI, cloud computing, or cybersecurity.",
+    "year_6_10": "Years 6-10: Move into leadership roles, mentor junior engineers, and contribute to company-wide initiatives.",
+    "senior_paths": [
+      "Technical Lead",
+      "Project Manager",
+      "Product Manager",
+      "DevOps Engineer",
+      "Cloud Architect"
+    ],
+    "entrepreneurship_exit": "Start a software development company, create and sell a product or service, or join a startup as a co-founder.",
+    "global_pathway": "Work for international companies like Google, Microsoft, or Amazon, or move to countries like the US, UK, or Australia for better opportunities."
+  },
+  "india_social_context": {
+    "family_acceptance": "very_high",
+    "regional_availability": "national",
+    "first_year_reality": "Starting salary is around ₹4-6 lakhs per annum, but may have to work long hours and deal with stress.",
+    "common_misconceptions": [
+      "Software engineering is an easy job",
+      "You can become a millionaire in a year",
+      "You can work from home all the time"
+    ]
+  },
+  "force_connections": {}
+}

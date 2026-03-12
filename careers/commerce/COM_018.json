@@ -1,0 +1,99 @@
+{
+  "career_id": "COM_018",
+  "title": "Import Export Specialist",
+  "stream": "Commerce",
+  "description": "An Import Export Specialist in India spends most of their time coordinating with suppliers and buyers, ensuring compliance with regulations, and managing logistics. They also handle documentation, customs clearance, and negotiations with clients. Their work involves a mix of administrative tasks, communication, and problem-solving, often under tight deadlines and with limited resources.",
+  "riasec_primary": "Enterprising",
+  "riasec_secondary": "Conventional",
+  "riasec_scores": {
+    "Realistic": 6,
+    "Investigative": 4,
+    "Artistic": 2,
+    "Social": 3,
+    "Enterprising": 8,
+    "Conventional": 7
+  },
+  "work_values": [
+    "Achievement",
+    "Recognition",
+    "Autonomy",
+    "Security",
+    "Stability",
+    "Tradition"
+  ],
+  "eligible_streams": [
+    "Commerce",
+    "Business Studies",
+    "Accountancy",
+    "Economics",
+    "Business Economics"
+  ],
+  "entrance_exams": [
+    "CA Foundation",
+    "CS Foundation",
+    "ICSI Foundation",
+    "CMA Foundation",
+    "BBA Entrance Exams",
+    "BCom Entrance Exams"
+  ],
+  "degree_name": "Bachelor of Commerce in International Business",
+  "degree_duration_years": 4,
+  "course_cost_lakhs": {
+    "government_college": 3,
+    "private_college": 15
+  },
+  "top_govt_colleges": [
+    "Lady Shri Ram College for Women",
+    "Hansraj College",
+    "Kirori Mal College",
+    "Daulat Ram College",
+    "Shri Ram College of Commerce"
+  ],
+  "top_private_colleges": [
+    "SP Jain Institute of Management and Research",
+    "Narsee Monjee Institute of Management Studies",
+    "Symbiosis Institute of International Business",
+    "Thapar Institute of Engineering and Technology",
+    "Birla Institute of Management Technology"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 4,
+    "mid_3_7_years": 10,
+    "senior_8_15_years": 22,
+    "top_earner": 45
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Mumbai",
+      "Delhi",
+      "Bangalore",
+      "Chennai",
+      "Kolkata"
+    ],
+    "govt_vs_private": "20% govt 80% private",
+    "demand_trend": "growing",
+    "approximate_annual_openings_india": 50000
+  },
+  "career_progression": {
+    "year_0_2": "Assistants in import-export companies, handling documentation and coordination tasks.",
+    "year_3_5": "Team leads in import-export companies, overseeing logistics and negotiations.",
+    "year_6_10": "Senior managers in import-export companies, handling strategic planning and decision-making.",
+    "senior_paths": [
+      "Freelance consultant",
+      "Entrepreneur",
+      "Senior manager in a multinational company"
+    ],
+    "entrepreneurship_exit": "Start a logistics or supply chain management company, or offer consulting services to import-export businesses.",
+    "global_pathway": "Opportunities for working in international trade and logistics with companies in the US, EU, or Asia."
+  },
+  "india_social_context": {
+    "family_acceptance": "high",
+    "regional_availability": "national",
+    "first_year_reality": "Starting salary is around ₹4-6 lakhs per annum, with a steep learning curve and long working hours.",
+    "common_misconceptions": [
+      "Import-export is a lucrative career with high salaries",
+      "It's easy to start a career in import-export with minimal experience"
+    ]
+  },
+  "force_connections": {}
+}

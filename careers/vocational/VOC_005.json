@@ -1,0 +1,87 @@
+{
+  "career_id": "VOC_005",
+  "title": "Interior Decorator",
+  "stream": "Vocational",
+  "description": "An interior decorator in India works with clients to design and plan interior spaces, selecting colors, materials, and furniture to create aesthetically pleasing and functional environments. They often work on residential and commercial projects, collaborating with architects, engineers, and other professionals to ensure seamless execution. In India, interior decorators may also need to consider local building codes, climate, and cultural preferences when designing spaces.",
+  "riasec_primary": "Artistic",
+  "riasec_secondary": "Conventional",
+  "riasec_scores": {
+    "Realistic": 0,
+    "Investigative": 0,
+    "Artistic": 8,
+    "Social": 0,
+    "Enterprising": 0,
+    "Conventional": 4
+  },
+  "work_values": [
+    "Creativity",
+    "Aesthetics",
+    "Attention to detail",
+    "Practicality"
+  ],
+  "eligible_streams": [
+    "Arts",
+    "Commerce",
+    "Vocational"
+  ],
+  "entrance_exams": [
+    "NIFT Entrance Exam",
+    "CEPT Entrance Exam",
+    "UCEED Entrance Exam"
+  ],
+  "degree_name": "Bachelor of Interior Design",
+  "degree_duration_years": 4,
+  "course_cost_lakhs": {
+    "government_college": 2,
+    "private_college": 12
+  },
+  "top_govt_colleges": [
+    "National Institute of Design, Ahmedabad",
+    "CEPT University, Ahmedabad",
+    "School of Architecture and Interior Design, Chandigarh University"
+  ],
+  "top_private_colleges": [
+    "National Institute of Fashion Technology, New Delhi",
+    "Symbiosis Institute of Design, Pune",
+    "MIT Institute of Design, Pune"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 3,
+    "mid_3_7_years": 8,
+    "senior_8_15_years": 18,
+    "top_earner": 35
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Mumbai",
+      "Delhi",
+      "Bangalore",
+      "Chennai"
+    ],
+    "govt_vs_private": "10% govt 90% private",
+    "demand_trend": "growing",
+    "approximate_annual_openings_india": 30000
+  },
+  "career_progression": {
+    "year_0_2": "Assist senior designers, learn design software, and develop skills in space planning and furniture selection.",
+    "year_3_5": "Work on small projects, develop a portfolio, and take on more responsibility in design teams.",
+    "year_6_10": "Lead design teams, manage projects, and develop expertise in sustainable design and building codes.",
+    "senior_paths": [
+      "Design Director",
+      "Interior Design Consultant",
+      "Sustainability Specialist"
+    ],
+    "entrepreneurship_exit": "Start a design firm or offer interior design services as a freelancer.",
+    "global_pathway": "Opportunities exist in the Middle East, Europe, and the US, but require additional education and certifications."
+  },
+  "india_social_context": {
+    "family_acceptance": "medium",
+    "regional_availability": "national",
+    "first_year_reality": "Starting salaries are low, and the industry is highly competitive.",
+    "common_misconceptions": [
+      "Interior decorators are only concerned with aesthetics.",
+      "Interior design is a low-skilled profession."
+    ]
+  },
+  "force_connections": {}
+}

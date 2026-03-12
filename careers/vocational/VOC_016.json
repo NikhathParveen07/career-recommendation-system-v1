@@ -1,0 +1,89 @@
+{
+  "career_id": "VOC_016",
+  "title": "Hardware Technician",
+  "stream": "Vocational",
+  "description": "A Hardware Technician in India installs, configures, and troubleshoots computer hardware, peripherals, and networking equipment. They work with clients to identify hardware issues, repair or replace faulty components, and ensure smooth system operation. Their daily tasks involve hands-on technical work, communication with clients, and staying updated with the latest hardware technologies.",
+  "riasec_primary": "Realistic",
+  "riasec_secondary": "Conventional",
+  "riasec_scores": {
+    "Realistic": 8,
+    "Investigative": 2,
+    "Artistic": 1,
+    "Social": 3,
+    "Enterprising": 1,
+    "Conventional": 5
+  },
+  "work_values": [
+    "Technical Expertise",
+    "Problem-Solving",
+    "Attention to Detail"
+  ],
+  "eligible_streams": [
+    "Computer Science",
+    "Electronics",
+    "Information Technology"
+  ],
+  "entrance_exams": [
+    "DTE, Maharashtra State Board of Technical Education, AICTE"
+  ],
+  "degree_name": "Diploma in Computer Hardware and Networking",
+  "degree_duration_years": 3,
+  "course_cost_lakhs": {
+    "government_college": 1,
+    "private_college": 8
+  },
+  "top_govt_colleges": [
+    "Government Polytechnic, Mumbai",
+    "Government College of Engineering, Pune",
+    "Government Polytechnic, Nagpur",
+    "Government College of Engineering, Aurangabad",
+    "Government Polytechnic, Thane"
+  ],
+  "top_private_colleges": [
+    "Vivekanand Education Society's Polytechnic, Mumbai",
+    "K.J. Somaiya Polytechnic, Mumbai",
+    "Fr. Conceicao Rodrigues College of Engineering, Mumbai",
+    "Sardar Patel College of Engineering, Mumbai",
+    "Thadomal Shahani Engineering College, Mumbai"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 3,
+    "mid_3_7_years": 8,
+    "senior_8_15_years": 18,
+    "top_earner": 35
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Mumbai",
+      "Bangalore",
+      "Pune",
+      "Hyderabad",
+      "Chennai"
+    ],
+    "govt_vs_private": "10% govt 90% private",
+    "demand_trend": "stable",
+    "approximate_annual_openings_india": 30000
+  },
+  "career_progression": {
+    "year_0_2": "Assist senior technicians, learn hardware installation and configuration, and develop problem-solving skills.",
+    "year_3_5": "Work independently on hardware repairs, upgrade systems, and provide technical support to clients.",
+    "year_6_10": "Take on leadership roles, manage teams, and oversee large-scale hardware projects.",
+    "senior_paths": [
+      "Technical Lead",
+      "Hardware Engineer",
+      "IT Manager"
+    ],
+    "entrepreneurship_exit": "Start a hardware repair and maintenance business, or create and sell hardware-related products.",
+    "global_pathway": "Opportunities exist in the Middle East, Europe, and the US, particularly in the IT and electronics sectors."
+  },
+  "india_social_context": {
+    "family_acceptance": "medium",
+    "regional_availability": "national",
+    "first_year_reality": "Initial years may involve working long hours, including evenings and weekends, to meet client demands.",
+    "common_misconceptions": [
+      "Hardware technicians only work with computers.",
+      "Hardware technicians do not require any formal education."
+    ]
+  },
+  "force_connections": {}
+}

@@ -1,0 +1,94 @@
+{
+  "career_id": "ART_023",
+  "title": "Archaeologist",
+  "stream": "Arts",
+  "description": "An archaeologist in India typically spends their days excavating sites, conducting research, and analyzing artifacts to understand India's rich cultural heritage. They often work in teams, collaborating with other experts to piece together the past. Their work can be physically demanding, requiring long hours in the field, and may involve working in challenging environmental conditions.",
+  "riasec_primary": "Investigative",
+  "riasec_secondary": "Artistic",
+  "riasec_scores": {
+    "Realistic": 6,
+    "Investigative": 8,
+    "Artistic": 7,
+    "Social": 4,
+    "Enterprising": 3,
+    "Conventional": 2
+  },
+  "work_values": [
+    "Curiosity",
+    "Creativity",
+    "Independence",
+    "Analytical thinking"
+  ],
+  "eligible_streams": [
+    "Humanities",
+    "Social Sciences",
+    "Arts",
+    "Commerce"
+  ],
+  "entrance_exams": [
+    "UGC-NET",
+    "CSIR-UGC NET",
+    "IIT JAM",
+    "NIMHANS Entrance Exam"
+  ],
+  "degree_name": "Master of Arts in Archaeology",
+  "degree_duration_years": 2,
+  "course_cost_lakhs": {
+    "government_college": 2,
+    "private_college": 10
+  },
+  "top_govt_colleges": [
+    "Deccan College Post-Graduate and Research Institute",
+    "Indian Institute of Advanced Study",
+    "Tata Institute of Fundamental Research",
+    "National Museum Institute",
+    "Indian Institute of Science"
+  ],
+  "top_private_colleges": [
+    "Jawaharlal Nehru University",
+    "University of Delhi",
+    "Banaras Hindu University",
+    "University of Mumbai",
+    "University of Calcutta"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 3,
+    "mid_3_7_years": 8,
+    "senior_8_15_years": 18,
+    "top_earner": 35
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Delhi",
+      "Mumbai",
+      "Bangalore",
+      "Chennai",
+      "Kolkata"
+    ],
+    "govt_vs_private": "30% govt 70% private",
+    "demand_trend": "stable",
+    "approximate_annual_openings_india": 30000
+  },
+  "career_progression": {
+    "year_0_2": "Typically, a fresh archaeology graduate starts as a research assistant or a field assistant in government or private institutions. They work under the supervision of experienced archaeologists and gain hands-on experience in excavation, documentation, and analysis.",
+    "year_3_5": "With experience, they can move to senior positions like project coordinator or team leader. They may also pursue higher education, such as a Ph.D. in archaeology.",
+    "year_6_10": "Senior archaeologists can take on leadership roles, such as department head or director of a research institution. They may also engage in academic teaching and research.",
+    "senior_paths": [
+      "Academic research",
+      "Museum curator",
+      "Conservation specialist"
+    ],
+    "entrepreneurship_exit": "Archaeologists can start their own research or consulting firms, offering services like excavation, documentation, and analysis to clients.",
+    "global_pathway": "Indian archaeologists can pursue international opportunities in countries like the UK, US, Australia, and Germany, where they can work in museums, universities, or research institutions."
+  },
+  "india_social_context": {
+    "family_acceptance": "medium",
+    "regional_availability": "national",
+    "first_year_reality": "Starting out as an archaeologist in India can be challenging, with limited job opportunities and low salaries. However, with experience and a strong network, one can build a successful career.",
+    "common_misconceptions": [
+      "Archaeology is only about digging and finding artifacts.",
+      "Archaeologists are only interested in ancient history."
+    ]
+  },
+  "force_connections": {}
+}

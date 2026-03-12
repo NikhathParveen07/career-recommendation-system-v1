@@ -1,0 +1,94 @@
+{
+  "career_id": "COM_017",
+  "title": "Logistics Manager",
+  "stream": "Commerce",
+  "description": "A Logistics Manager in India is responsible for overseeing the movement and storage of goods, products, and resources from one place to another. They plan, coordinate, and execute logistics operations to ensure timely delivery, minimize costs, and maximize efficiency. They work closely with suppliers, manufacturers, and customers to ensure smooth supply chain management and resolve any issues that may arise during the logistics process.",
+  "riasec_primary": "Conventional",
+  "riasec_secondary": "Enterprising",
+  "riasec_scores": {
+    "Realistic": 6,
+    "Investigative": 4,
+    "Artistic": 2,
+    "Social": 3,
+    "Enterprising": 8,
+    "Conventional": 7
+  },
+  "work_values": [
+    "Achievement",
+    "Recognition",
+    "Security",
+    "Independence"
+  ],
+  "eligible_streams": [
+    "Commerce",
+    "Business Studies",
+    "Accountancy",
+    "Economics"
+  ],
+  "entrance_exams": [
+    "CLAT",
+    "AEEE",
+    "BITSAT",
+    "VITEEE"
+  ],
+  "degree_name": "Bachelor of Business Administration (BBA) in Logistics and Supply Chain Management",
+  "degree_duration_years": 4,
+  "course_cost_lakhs": {
+    "government_college": 2,
+    "private_college": 12
+  },
+  "top_govt_colleges": [
+    "National Institute of Industrial Engineering (NITIE)",
+    "Indian Institute of Logistics and Supply Chain Management (IILSCM)",
+    "National Institute of Technology (NIT) Warangal",
+    "Indian Institute of Technology (IIT) Kharagpur",
+    "National Institute of Technology (NIT) Trichy"
+  ],
+  "top_private_colleges": [
+    "Symbiosis Institute of International Business (SIIB)",
+    "Indian Institute of Foreign Trade (IIFT)",
+    "National Institute of Industrial Engineering (NITIE)",
+    "Indian Institute of Logistics and Supply Chain Management (IILSCM)",
+    "Management Development Institute (MDI) Gurgaon"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 3.5,
+    "mid_3_7_years": 8,
+    "senior_8_15_years": 18,
+    "top_earner": 35
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Mumbai",
+      "Delhi",
+      "Bangalore",
+      "Hyderabad",
+      "Chennai"
+    ],
+    "govt_vs_private": "15% govt 85% private",
+    "demand_trend": "stable",
+    "approximate_annual_openings_india": 30000
+  },
+  "career_progression": {
+    "year_0_2": "Entry-level positions in logistics companies, handling day-to-day operations and coordinating with suppliers and customers.",
+    "year_3_5": "Assistant Manager roles, overseeing teams and implementing logistics strategies to improve efficiency and reduce costs.",
+    "year_6_10": "Senior Manager positions, leading logistics teams and developing strategic plans to drive business growth.",
+    "senior_paths": [
+      "Logistics Director",
+      "Supply Chain Manager",
+      "Operations Manager"
+    ],
+    "entrepreneurship_exit": "Starting a logistics company or a supply chain consulting firm, leveraging industry expertise and networks.",
+    "global_pathway": "Opportunities in international logistics companies, particularly in the Middle East, Europe, and the Americas, with a focus on global supply chain management."
+  },
+  "india_social_context": {
+    "family_acceptance": "medium",
+    "regional_availability": "national",
+    "first_year_reality": "Challenging to find a job, but opportunities exist in major cities and with large logistics companies.",
+    "common_misconceptions": [
+      "Logistics is only about transportation.",
+      "Logistics managers are not involved in strategic decision-making."
+    ]
+  },
+  "force_connections": {}
+}

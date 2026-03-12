@@ -1,0 +1,91 @@
+{
+  "career_id": "ART_002",
+  "title": "Civil Services IAS IPS",
+  "stream": "Arts",
+  "description": "A Civil Services IAS IPS officer in India is responsible for implementing government policies, collecting taxes, maintaining law and order, and providing public services. They work in various government departments, such as revenue, police, and administrative services. Their day-to-day tasks involve attending meetings, reviewing documents, and interacting with the public to address their grievances.",
+  "riasec_primary": "Social",
+  "riasec_secondary": "Conventional",
+  "riasec_scores": {
+    "Realistic": 2,
+    "Investigative": 3,
+    "Artistic": 1,
+    "Social": 8,
+    "Enterprising": 2,
+    "Conventional": 6
+  },
+  "work_values": [
+    "public service",
+    "social impact",
+    "stability",
+    "security"
+  ],
+  "eligible_streams": [
+    "Arts",
+    "Humanities",
+    "Social Sciences"
+  ],
+  "entrance_exams": [
+    "UPSC Civil Services Examination",
+    "IAS IPS Exam"
+  ],
+  "degree_name": "Master of Arts (M.A.)",
+  "degree_duration_years": 4,
+  "course_cost_lakhs": {
+    "government_college": 1,
+    "private_college": 8
+  },
+  "top_govt_colleges": [
+    "Jawaharlal Nehru University",
+    "University of Delhi",
+    "Banaras Hindu University",
+    "University of Hyderabad",
+    "University of Calcutta"
+  ],
+  "top_private_colleges": [
+    "Jamia Millia Islamia",
+    "Christ University",
+    "Symbiosis International University",
+    "Amity University",
+    "Manipal University"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 4,
+    "mid_3_7_years": 8,
+    "senior_8_15_years": 18,
+    "top_earner": 35
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "New Delhi",
+      "Mumbai",
+      "Kolkata",
+      "Chennai",
+      "Bangalore"
+    ],
+    "govt_vs_private": "40% govt 60% private",
+    "demand_trend": "stable",
+    "approximate_annual_openings_india": 30000
+  },
+  "career_progression": {
+    "year_0_2": "Initial training at the Lal Bahadur Shastri National Academy of Administration (LBSNAA) in Mussoorie, followed by field postings and rotations.",
+    "year_3_5": "Assignments in various government departments, such as revenue, police, and administrative services, with increasing responsibility and autonomy.",
+    "year_6_10": "Senior positions in government departments, with a focus on policy-making and leadership roles.",
+    "senior_paths": [
+      "District Collector",
+      "Police Commissioner",
+      "Secretary to the Government"
+    ],
+    "entrepreneurship_exit": "Limited opportunities for entrepreneurship, as the career path is heavily regulated and focused on public service.",
+    "global_pathway": "Limited opportunities for international postings, but some possibilities exist through bilateral agreements and international organizations."
+  },
+  "india_social_context": {
+    "family_acceptance": "very_high",
+    "regional_availability": "national",
+    "first_year_reality": "Initial postings can be challenging, with long working hours and limited resources.",
+    "common_misconceptions": [
+      "It's an easy career to get into",
+      "You can make a lot of money in this career"
+    ]
+  },
+  "force_connections": {}
+}

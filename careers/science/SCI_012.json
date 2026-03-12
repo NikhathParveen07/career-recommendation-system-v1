@@ -1,0 +1,92 @@
+{
+  "career_id": "SCI_012",
+  "title": "Chemical Engineer",
+  "stream": "Science",
+  "description": "A Chemical Engineer in India works on designing, developing, and operating chemical processes and equipment. They conduct experiments, analyze data, and troubleshoot problems in various industries such as petrochemicals, pharmaceuticals, and food processing. They often work in teams and communicate with stakeholders to ensure projects are completed on time and within budget.",
+  "riasec_primary": "Realistic",
+  "riasec_secondary": "Investigative",
+  "riasec_scores": {
+    "Realistic": 8,
+    "Investigative": 6,
+    "Artistic": 2,
+    "Social": 1,
+    "Enterprising": 1,
+    "Conventional": 2
+  },
+  "work_values": [
+    "problem-solving",
+    "analytical thinking",
+    "teamwork",
+    "communication"
+  ],
+  "eligible_streams": [
+    "Physics, Chemistry, Mathematics (PCM)",
+    "Physics, Chemistry, Biology (PCB)"
+  ],
+  "entrance_exams": [
+    "JEE Main",
+    "JEE Advanced",
+    "BITSAT",
+    "VITEEE"
+  ],
+  "degree_name": "Bachelor of Chemical Engineering",
+  "degree_duration_years": 4,
+  "course_cost_lakhs": {
+    "government_college": 3,
+    "private_college": 15
+  },
+  "top_govt_colleges": [
+    "Indian Institute of Technology (IIT) Bombay",
+    "Indian Institute of Technology (IIT) Delhi",
+    "National Institute of Technology (NIT) Trichy",
+    "Indian Institute of Technology (IIT) Madras",
+    "Indian Institute of Technology (IIT) Kanpur"
+  ],
+  "top_private_colleges": [
+    "BITS Pilani",
+    "Vellore Institute of Technology (VIT)",
+    "Sri Sivasubramaniya Nadar College of Engineering (SSN)",
+    "Amrita Vishwa Vidyapeetham",
+    "Birla Institute of Technology and Science (BITS) Hyderabad"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 4,
+    "mid_3_7_years": 10,
+    "senior_8_15_years": 22,
+    "top_earner": 45
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Mumbai",
+      "Delhi",
+      "Chennai",
+      "Bangalore",
+      "Hyderabad"
+    ],
+    "govt_vs_private": "20% govt 80% private",
+    "demand_trend": "growing",
+    "approximate_annual_openings_india": 50000
+  },
+  "career_progression": {
+    "year_0_2": "Entry-level positions in process design, development, and operation. May work under supervision and focus on learning and development.",
+    "year_3_5": "Mid-level positions in process optimization, troubleshooting, and project management. May lead small teams and take on more responsibility.",
+    "year_6_10": "Senior-level positions in process innovation, research, and development. May lead large teams and make strategic decisions.",
+    "senior_paths": [
+      "Process Innovation Manager",
+      "Research and Development Manager",
+      "Operations Manager"
+    ],
+    "entrepreneurship_exit": "Chemical Engineers can start their own consulting firms, design and development companies, or manufacturing businesses.",
+    "global_pathway": "Chemical Engineers can work abroad in industries such as oil and gas, pharmaceuticals, and food processing. They can also work in research and development roles in countries like the US, UK, and Australia."
+  },
+  "india_social_context": {
+    "family_acceptance": "high",
+    "regional_availability": "national",
+    "first_year_reality": "Chemical Engineers may face challenges in finding jobs due to the competitive nature of the industry. They may need to work as interns or assistants for a few years before securing a full-time position.",
+    "common_misconceptions": [
+      "Chemical Engineers only work in the oil and gas industry.",
+      "Chemical Engineers do not have opportunities for entrepreneurship."
+    ]
+  },
+  "force_connections": {}
+}

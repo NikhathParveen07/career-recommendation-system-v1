@@ -1,0 +1,90 @@
+{
+  "career_id": "VOC_012",
+  "title": "Commercial Vehicle Driver",
+  "stream": "Vocational",
+  "description": "A commercial vehicle driver in India is responsible for transporting goods and people across the country. They drive long hours, often in challenging weather conditions, and are required to maintain the vehicle's condition and adhere to traffic rules. They also handle paperwork and interact with customers to ensure smooth delivery of goods or passengers.",
+  "riasec_primary": "Realistic",
+  "riasec_secondary": "Conventional",
+  "riasec_scores": {
+    "Realistic": 8,
+    "Investigative": 2,
+    "Artistic": 1,
+    "Social": 3,
+    "Enterprising": 2,
+    "Conventional": 4
+  },
+  "work_values": [
+    "Independence",
+    "Job Security",
+    "Physical Activity"
+  ],
+  "eligible_streams": [
+    "Automobile Engineering",
+    "Mechanical Engineering",
+    "Vocational Courses in Driving"
+  ],
+  "entrance_exams": [
+    "All India Engineering Entrance Examination (AIEEE)",
+    "Joint Entrance Examination (JEE) Main"
+  ],
+  "degree_name": "Diploma in Commercial Vehicle Driving",
+  "degree_duration_years": 2,
+  "course_cost_lakhs": {
+    "government_college": 1,
+    "private_college": 5
+  },
+  "top_govt_colleges": [
+    "National Institute of Transport, Kolkata",
+    "Indian Institute of Technology, Delhi",
+    "National Institute of Technology, Jamshedpur",
+    "Indian Institute of Technology, Kanpur",
+    "National Institute of Technology, Rourkela"
+  ],
+  "top_private_colleges": [
+    "Maharaja Sayajirao University of Baroda, Vadodara",
+    "Sri Ramachandra University, Chennai",
+    "Birla Institute of Technology, Ranchi",
+    "Thapar Institute of Engineering and Technology, Patiala",
+    "Vellore Institute of Technology, Vellore"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 3,
+    "mid_3_7_years": 8,
+    "senior_8_15_years": 18,
+    "top_earner": 35
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Delhi",
+      "Mumbai",
+      "Kolkata",
+      "Chennai",
+      "Bangalore"
+    ],
+    "govt_vs_private": "30% govt 70% private",
+    "demand_trend": "stable",
+    "approximate_annual_openings_india": 30000
+  },
+  "career_progression": {
+    "year_0_2": "Start as a trainee driver, gain experience and obtain a commercial driving license.",
+    "year_3_5": "Get promoted to a senior driver position, take on more responsibilities and handle complex routes.",
+    "year_6_10": "Become a fleet manager or a transport coordinator, oversee multiple drivers and vehicles.",
+    "senior_paths": [
+      "Transport Manager",
+      "Logistics Coordinator",
+      "Fleet Manager"
+    ],
+    "entrepreneurship_exit": "Start a transportation company or a logistics firm, hire and manage drivers.",
+    "global_pathway": "Opportunities for Indians in this career are limited abroad, but can be found in countries with high demand for transportation services."
+  },
+  "india_social_context": {
+    "family_acceptance": "high",
+    "regional_availability": "national",
+    "first_year_reality": "Starting as a driver can be challenging, with long hours and low pay.",
+    "common_misconceptions": [
+      "Drivers are not required to have a degree.",
+      "Driving is a low-skilled profession."
+    ]
+  },
+  "force_connections": {}
+}

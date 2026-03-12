@@ -1,0 +1,94 @@
+{
+  "career_id": "SCI_028",
+  "title": "Drone Technology Engineer",
+  "stream": "Science",
+  "description": "A Drone Technology Engineer in India designs, develops, and tests drone systems for various applications such as surveillance, mapping, and delivery. They work with software, hardware, and mechanical components to ensure the drones are safe, efficient, and meet customer requirements. They also collaborate with teams to integrate drone technology with other systems and technologies.",
+  "riasec_primary": "Realistic",
+  "riasec_secondary": "Investigative",
+  "riasec_scores": {
+    "Realistic": 8,
+    "Investigative": 6,
+    "Artistic": 2,
+    "Social": 1,
+    "Enterprising": 3,
+    "Conventional": 0
+  },
+  "work_values": [
+    "Problem-solving",
+    "Innovation",
+    "Technical expertise",
+    "Teamwork"
+  ],
+  "eligible_streams": [
+    "PCMB",
+    "PCME",
+    "PCMC",
+    "BiPC"
+  ],
+  "entrance_exams": [
+    "JEE Main",
+    "BITSAT",
+    "VITEEE",
+    "SRMJEE"
+  ],
+  "degree_name": "Bachelor of Engineering in Aeronautical Engineering",
+  "degree_duration_years": 4,
+  "course_cost_lakhs": {
+    "government_college": 2,
+    "private_college": 12
+  },
+  "top_govt_colleges": [
+    "National Institute of Technology, Warangal",
+    "Indian Institute of Technology, Guwahati",
+    "National Institute of Technology, Tiruchirappalli",
+    "Indian Institute of Technology, Roorkee",
+    "National Institute of Technology, Calicut"
+  ],
+  "top_private_colleges": [
+    "BITS Pilani",
+    "Vellore Institute of Technology",
+    "SRM Institute of Science and Technology",
+    "Amrita Vishwa Vidyapeetham",
+    "Birla Institute of Technology, Mesra"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 3.5,
+    "mid_3_7_years": 8,
+    "senior_8_15_years": 18,
+    "top_earner": 35
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Bengaluru",
+      "Mumbai",
+      "Hyderabad",
+      "Chennai",
+      "Pune"
+    ],
+    "govt_vs_private": "10% govt 90% private",
+    "demand_trend": "growing",
+    "approximate_annual_openings_india": 30000
+  },
+  "career_progression": {
+    "year_0_2": "Internships with drone manufacturers and startups, basic programming and software skills development",
+    "year_3_5": "Design and development of drone systems, integration with other technologies, and project management",
+    "year_6_10": "Senior design and development roles, leadership positions, and entrepreneurship",
+    "senior_paths": [
+      "Drone Systems Engineer",
+      "Drone Software Developer",
+      "Drone Project Manager"
+    ],
+    "entrepreneurship_exit": "Starting a drone manufacturing or services company, or creating a drone-based startup",
+    "global_pathway": "Opportunities in the US, Europe, and the Middle East for Indians with expertise in drone technology"
+  },
+  "india_social_context": {
+    "family_acceptance": "medium",
+    "regional_availability": "national",
+    "first_year_reality": "Challenging to find internships and jobs, requires strong networking and skills development",
+    "common_misconceptions": [
+      "Drone technology is only for military use",
+      "Drone engineering is a niche field"
+    ]
+  },
+  "force_connections": {}
+}

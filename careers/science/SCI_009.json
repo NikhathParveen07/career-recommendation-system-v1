@@ -1,0 +1,93 @@
+{
+  "career_id": "SCI_009",
+  "title": "Mechanical Engineer",
+  "stream": "Science",
+  "description": "A Mechanical Engineer in India works on designing, developing, and testing mechanical systems, machines, and devices. They spend most of their time in offices, laboratories, and manufacturing plants, analyzing data, creating prototypes, and collaborating with teams to solve complex problems. Their work involves a mix of creativity, technical expertise, and problem-solving skills, often under tight deadlines and budget constraints.",
+  "riasec_primary": "Realistic",
+  "riasec_secondary": "Investigative",
+  "riasec_scores": {
+    "Realistic": 8,
+    "Investigative": 6,
+    "Artistic": 2,
+    "Social": 1,
+    "Enterprising": 3,
+    "Conventional": 4
+  },
+  "work_values": [
+    "Creativity",
+    "Technical Expertise",
+    "Problem-Solving",
+    "Collaboration"
+  ],
+  "eligible_streams": [
+    "PCM (Physics, Chemistry, Mathematics)"
+  ],
+  "entrance_exams": [
+    "JEE Main",
+    "JEE Advanced",
+    "BITSAT",
+    "VITEEE"
+  ],
+  "degree_name": "Bachelor of Engineering in Mechanical Engineering",
+  "degree_duration_years": 4,
+  "course_cost_lakhs": {
+    "government_college": 3,
+    "private_college": 15
+  },
+  "top_govt_colleges": [
+    "Indian Institute of Technology (IIT) Bombay",
+    "Indian Institute of Technology (IIT) Delhi",
+    "National Institute of Technology (NIT) Trichy",
+    "Indian Institute of Technology (IIT) Madras",
+    "Indian Institute of Technology (IIT) Kanpur"
+  ],
+  "top_private_colleges": [
+    "BITS Pilani",
+    "Vellore Institute of Technology (VIT)",
+    "Sri Sivasubramaniya Nadar College of Engineering (SSN)",
+    "Amrita Vishwa Vidyapeetham",
+    "Birla Institute of Technology (BIT) Mesra"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 4,
+    "mid_3_7_years": 10,
+    "senior_8_15_years": 22,
+    "top_earner": 45
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Mumbai",
+      "Delhi",
+      "Bangalore",
+      "Hyderabad",
+      "Pune"
+    ],
+    "govt_vs_private": "20% govt 80% private",
+    "demand_trend": "growing",
+    "approximate_annual_openings_india": 50000
+  },
+  "career_progression": {
+    "year_0_2": "Internships, entry-level positions in manufacturing, design, or research and development.",
+    "year_3_5": "Mid-level positions in design, development, or project management, with opportunities for specialization.",
+    "year_6_10": "Senior-level positions in leadership, management, or technical expertise, with opportunities for entrepreneurship or global roles.",
+    "senior_paths": [
+      "Product Development Manager",
+      "Design Manager",
+      "Research and Development Manager",
+      "Manufacturing Manager",
+      "Consulting Engineer"
+    ],
+    "entrepreneurship_exit": "Starting a business in the mechanical engineering space, such as designing and manufacturing custom machinery or developing innovative products.",
+    "global_pathway": "Opportunities for working in international companies, collaborating with global teams, or pursuing higher education abroad."
+  },
+  "india_social_context": {
+    "family_acceptance": "very_high",
+    "regional_availability": "national",
+    "first_year_reality": "Challenging to find internships and entry-level positions, with intense competition and high expectations.",
+    "common_misconceptions": [
+      "Mechanical engineering is only about manufacturing.",
+      "Mechanical engineers only work in factories."
+    ]
+  },
+  "force_connections": {}
+}

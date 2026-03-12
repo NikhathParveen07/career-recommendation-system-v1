@@ -1,0 +1,96 @@
+{
+  "career_id": "ART_021",
+  "title": "Social Worker",
+  "stream": "Arts",
+  "description": "A social worker in India spends most of their day interacting with marginalized communities, conducting assessments, developing intervention plans, and advocating for policy changes. They often work in government offices, NGOs, or community centers, and may face challenges such as limited resources, bureaucratic red tape, and societal stigma. Despite these challenges, social workers play a crucial role in improving the lives of vulnerable populations and promoting social justice.",
+  "riasec_primary": "Social",
+  "riasec_secondary": "Artistic",
+  "riasec_scores": {
+    "Realistic": 0,
+    "Investigative": 0,
+    "Artistic": 2,
+    "Social": 8,
+    "Enterprising": 0,
+    "Conventional": 0
+  },
+  "work_values": [
+    "helping others",
+    "making a difference",
+    "personal growth"
+  ],
+  "eligible_streams": [
+    "Humanities",
+    "Social Science",
+    "Psychology",
+    "Sociology"
+  ],
+  "entrance_exams": [
+    "CUET",
+    "DUET",
+    "JNU Entrance Exam",
+    "IGNOU Entrance Exam"
+  ],
+  "degree_name": "Bachelor of Social Work (BSW)",
+  "degree_duration_years": 4,
+  "course_cost_lakhs": {
+    "government_college": 2,
+    "private_college": 12
+  },
+  "top_govt_colleges": [
+    "Tata Institute of Social Sciences",
+    "Jamia Millia Islamia",
+    "University of Delhi",
+    "University of Mumbai",
+    "University of Calcutta"
+  ],
+  "top_private_colleges": [
+    "Symbiosis School of Social Work",
+    "Xavier Institute of Social Service",
+    "Christ University",
+    "Manipal Academy of Higher Education",
+    "Amity University"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 3,
+    "mid_3_7_years": 8,
+    "senior_8_15_years": 18,
+    "top_earner": 35
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Delhi",
+      "Mumbai",
+      "Kolkata",
+      "Bangalore",
+      "Chennai"
+    ],
+    "govt_vs_private": "30% govt 70% private",
+    "demand_trend": "growing",
+    "approximate_annual_openings_india": 40000
+  },
+  "career_progression": {
+    "year_0_2": "Initial years involve internships, volunteer work, and entry-level positions in NGOs, government offices, or community centers. Social workers may also pursue postgraduate studies to specialize in areas like child welfare, mental health, or disability rights.",
+    "year_3_5": "As experience grows, social workers may take on leadership roles, develop and implement programs, and collaborate with other professionals. They may also pursue certifications or advanced degrees to enhance their skills and career prospects.",
+    "year_6_10": "Senior social workers may hold key positions in government, NGOs, or private organizations, influencing policy and program development. They may also engage in research, advocacy, or teaching.",
+    "senior_paths": [
+      "Program Manager",
+      "Policy Analyst",
+      "Researcher",
+      "Advocate",
+      "Teacher"
+    ],
+    "entrepreneurship_exit": "Social workers may start their own NGOs, community centers, or consulting firms to address specific social issues or provide specialized services.",
+    "global_pathway": "Indian social workers may pursue international opportunities in organizations like the United Nations, non-governmental organizations (NGOs), or international development agencies."
+  },
+  "india_social_context": {
+    "family_acceptance": "medium",
+    "regional_availability": "national",
+    "first_year_reality": "Starting out as a social worker in India can be challenging due to limited job opportunities, low salaries, and high expectations from families and society.",
+    "common_misconceptions": [
+      "Social work is a low-paying career",
+      "Social work is only for those who want to work with children",
+      "Social work is a easy career"
+    ]
+  },
+  "force_connections": {}
+}

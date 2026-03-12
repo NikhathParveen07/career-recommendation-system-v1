@@ -1,0 +1,98 @@
+{
+  "career_id": "COM_004",
+  "title": "Investment Banker",
+  "stream": "Commerce",
+  "description": "An investment banker in India typically spends their days analyzing financial data, creating financial models, and advising clients on mergers and acquisitions, initial public offerings, and other financial transactions. They often work long hours, including evenings and weekends, to meet deadlines and manage client expectations. Investment bankers in India may also travel frequently to meet with clients and attend industry events.",
+  "riasec_primary": "Enterprising",
+  "riasec_secondary": "Conventional",
+  "riasec_scores": {
+    "Realistic": 6,
+    "Investigative": 4,
+    "Artistic": 2,
+    "Social": 3,
+    "Enterprising": 8,
+    "Conventional": 7
+  },
+  "work_values": [
+    "Achievement",
+    "Recognition",
+    "Autonomy",
+    "Stability",
+    "Security"
+  ],
+  "eligible_streams": [
+    "Commerce",
+    "Economics",
+    "Business Studies",
+    "Accountancy"
+  ],
+  "entrance_exams": [
+    "CAT",
+    "XAT",
+    "NMAT",
+    "CMAT",
+    "IIFT"
+  ],
+  "degree_name": "Post Graduate Diploma in Management (PGDM)",
+  "degree_duration_years": 2,
+  "course_cost_lakhs": {
+    "government_college": 1,
+    "private_college": 15
+  },
+  "top_govt_colleges": [
+    "Indian Institute of Management (IIM) Ahmedabad",
+    "IIM Bangalore",
+    "IIM Calcutta",
+    "IIM Lucknow",
+    "IIM Kozhikode"
+  ],
+  "top_private_colleges": [
+    "Indian School of Business (ISB) Hyderabad",
+    "Management Development Institute (MDI) Gurgaon",
+    "SP Jain Institute of Management and Research (SPJIMR) Mumbai",
+    "Great Lakes Institute of Management (GLIM) Chennai",
+    "International Management Institute (IMI) New Delhi"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 6,
+    "mid_3_7_years": 15,
+    "senior_8_15_years": 35,
+    "top_earner": 60
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Mumbai",
+      "Delhi",
+      "Bangalore",
+      "Hyderabad",
+      "Chennai"
+    ],
+    "govt_vs_private": "5% govt 95% private",
+    "demand_trend": "stable",
+    "approximate_annual_openings_india": 30000
+  },
+  "career_progression": {
+    "year_0_2": "Entry-level investment bankers in India typically work on data analysis, financial modeling, and client communication. They may also assist senior bankers on deals and projects.",
+    "year_3_5": "Mid-level investment bankers in India take on more responsibility, including leading client pitches, managing deal teams, and analyzing complex financial data.",
+    "year_6_10": "Senior investment bankers in India often specialize in specific industries or deal types, such as M&A or equity capital markets. They may also take on leadership roles or start their own firms.",
+    "senior_paths": [
+      "Private Equity",
+      "Hedge Funds",
+      "Venture Capital",
+      "Corporate Finance",
+      "Investment Management"
+    ],
+    "entrepreneurship_exit": "Investment bankers in India may start their own firms or consultancies, leveraging their network and expertise to offer advisory services to clients.",
+    "global_pathway": "Indian investment bankers may pursue opportunities in global financial centers, such as London, New York, or Singapore, or work for international banks with operations in India."
+  },
+  "india_social_context": {
+    "family_acceptance": "high",
+    "regional_availability": "national",
+    "first_year_reality": "Starting as an investment banker in India can be challenging, with long working hours and high expectations. However, it can also be a rewarding career with opportunities for growth and learning.",
+    "common_misconceptions": [
+      "Investment banking is only for those with a strong finance background.",
+      "Investment bankers only work on deals and transactions."
+    ]
+  },
+  "force_connections": {}
+}

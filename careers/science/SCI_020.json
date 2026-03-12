@@ -1,0 +1,93 @@
+{
+  "career_id": "SCI_020",
+  "title": "Physiotherapist",
+  "stream": "Science",
+  "description": "A physiotherapist in India works with patients to develop and implement exercise programs that help them recover from injuries, manage chronic conditions, and improve their overall physical function. They use various techniques, including manual therapy, exercise, and education, to help patients achieve their goals. Physiotherapists often work in hospitals, clinics, and rehabilitation centers, and may also work with athletes and individuals with disabilities.",
+  "riasec_primary": "Realistic",
+  "riasec_secondary": "Social",
+  "riasec_scores": {
+    "Realistic": 8,
+    "Investigative": 2,
+    "Artistic": 1,
+    "Social": 6,
+    "Enterprising": 1,
+    "Conventional": 2
+  },
+  "work_values": [
+    "Helping Others",
+    "Job Security",
+    "Sense of Accomplishment"
+  ],
+  "eligible_streams": [
+    "Biology",
+    "Chemistry",
+    "Physics",
+    "Mathematics"
+  ],
+  "entrance_exams": [
+    "NEET",
+    "AIIMS MBBS",
+    "JIPMER MBBS",
+    "UPSC CMS"
+  ],
+  "degree_name": "Bachelor of Physiotherapy (BPT)",
+  "degree_duration_years": 4,
+  "course_cost_lakhs": {
+    "government_college": 2,
+    "private_college": 12
+  },
+  "top_govt_colleges": [
+    "All India Institute of Physical Medicine and Rehabilitation, Mumbai",
+    "National Institute of Rehabilitation Training and Research, Cuttack",
+    "Regional Institute of Ophthalmology, Chennai",
+    "National Institute of Mental Health and Neuro Sciences, Bengaluru",
+    "Post Graduate Institute of Medical Education and Research, Chandigarh"
+  ],
+  "top_private_colleges": [
+    "Manipal College of Physiotherapy, Manipal",
+    "Sri Ramachandra Medical College and Research Institute, Chennai",
+    "Bharati Vidyapeeth Deemed University Medical College, Pune",
+    "Kasturba Medical College, Manipal",
+    "Symbiosis College of Physiotherapy, Pune"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 3.5,
+    "mid_3_7_years": 8,
+    "senior_8_15_years": 18,
+    "top_earner": 35
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Mumbai",
+      "Delhi",
+      "Chennai",
+      "Bengaluru",
+      "Hyderabad"
+    ],
+    "govt_vs_private": "40% govt 60% private",
+    "demand_trend": "stable",
+    "approximate_annual_openings_india": 30000
+  },
+  "career_progression": {
+    "year_0_2": "Assist senior physiotherapists, gain practical experience, and develop clinical skills.",
+    "year_3_5": "Take on more responsibility, lead treatment teams, and develop specialized skills.",
+    "year_6_10": "Specialize in a particular area, such as sports physiotherapy or pediatric physiotherapy, and take on leadership roles.",
+    "senior_paths": [
+      "Clinical Specialist",
+      "Academic Researcher",
+      "Entrepreneur"
+    ],
+    "entrepreneurship_exit": "Start a private physiotherapy clinic or develop a product related to physiotherapy.",
+    "global_pathway": "Work in hospitals or clinics abroad, or pursue further education in countries like the US or UK."
+  },
+  "india_social_context": {
+    "family_acceptance": "high",
+    "regional_availability": "national",
+    "first_year_reality": "Physiotherapy is a respected profession in India, but it can be challenging to find a job immediately after graduation.",
+    "common_misconceptions": [
+      "Physiotherapy is only for athletes.",
+      "Physiotherapists only work with patients who have severe injuries."
+    ]
+  },
+  "force_connections": {}
+}

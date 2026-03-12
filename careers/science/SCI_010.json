@@ -1,0 +1,73 @@
+{
+  "career_id": "SCI_010",
+  "title": "Electrical Engineer",
+  "stream": "Science",
+  "description": "An Electrical Engineer in India designs, develops, and tests electrical systems, equipment, and devices. They work on electrical circuits, electronics, and electromagnetism, often collaborating with other engineers and technicians to ensure safe and efficient electrical systems. Their daily tasks may involve analyzing data, creating prototypes, and troubleshooting electrical issues.",
+  "riasec_primary": "Realistic",
+  "riasec_secondary": "Investigative",
+  "riasec_scores": {
+    "Realistic": 8,
+    "Investigative": 6,
+    "Artistic": 2,
+    "Social": 1,
+    "Enterprising": 1,
+    "Conventional": 2
+  },
+  "work_values": [
+    "Creativity",
+    "Problem-solving",
+    "Independence"
+  ],
+  "eligible_streams": [
+    "Physics, Chemistry, Mathematics (PCM)"
+  ],
+  "entrance_exams": [
+    "JEE Main, JEE Advanced, BITSAT"
+  ],
+  "degree_name": "Bachelor of Engineering in Electrical Engineering",
+  "degree_duration_years": 4,
+  "course_cost_lakhs": {
+    "government_college": 3,
+    "private_college": 15
+  },
+  "top_govt_colleges": [
+    "Indian Institute of Technology (IIT) Bombay, IIT Delhi, IIT Madras, IIT Kanpur, IIT Kharagpur"
+  ],
+  "top_private_colleges": [
+    "BITS Pilani, Vellore Institute of Technology (VIT), Manipal Institute of Technology, PSG College of Technology, SASTRA University"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 4,
+    "mid_3_7_years": 10,
+    "senior_8_15_years": 22,
+    "top_earner": 45
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Mumbai, Delhi, Bengaluru, Chennai, Hyderabad"
+    ],
+    "govt_vs_private": "20% govt 80% private",
+    "demand_trend": "growing",
+    "approximate_annual_openings_india": 50000
+  },
+  "career_progression": {
+    "year_0_2": "Assist in design and development of electrical systems, participate in laboratory experiments, and work under supervision.",
+    "year_3_5": "Take on more responsibility in design and development, lead small projects, and collaborate with senior engineers.",
+    "year_6_10": "Lead large projects, mentor junior engineers, and contribute to research and development.",
+    "senior_paths": [
+      "Project Manager, Research and Development Engineer, Technical Consultant"
+    ],
+    "entrepreneurship_exit": "Start a business offering electrical engineering services, develop and market electrical products, or create a platform for electrical engineering education.",
+    "global_pathway": "Work in international companies, collaborate with global teams, or pursue higher education abroad in electrical engineering."
+  },
+  "india_social_context": {
+    "family_acceptance": "very_high",
+    "regional_availability": "national",
+    "first_year_reality": "Initial years can be challenging, with long working hours and limited job security.",
+    "common_misconceptions": [
+      "Electrical engineers only work with electricity",
+      "Electrical engineering is a low-paying career"
+    ]
+  },
+  "force_connections": {}
+}

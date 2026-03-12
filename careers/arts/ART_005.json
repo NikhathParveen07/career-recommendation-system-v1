@@ -1,0 +1,95 @@
+{
+  "career_id": "ART_005",
+  "title": "Policy Analyst",
+  "stream": "Arts",
+  "description": "A Policy Analyst in India typically spends their days analyzing data, researching policies, and providing recommendations to government agencies, NGOs, and private organizations. They often work on projects related to social welfare, economic development, and environmental sustainability. Their work involves collaborating with stakeholders, conducting field visits, and presenting findings to clients or policymakers.",
+  "riasec_primary": "Investigative",
+  "riasec_secondary": "Artistic",
+  "riasec_scores": {
+    "Realistic": 2,
+    "Investigative": 8,
+    "Artistic": 6,
+    "Social": 4,
+    "Enterprising": 3,
+    "Conventional": 1
+  },
+  "work_values": [
+    "Intellectual Stimulation",
+    "Autonomy",
+    "Social Impact"
+  ],
+  "eligible_streams": [
+    "Economics",
+    "History",
+    "Political Science",
+    "Sociology",
+    "Geography"
+  ],
+  "entrance_exams": [
+    "UPSC Civil Services Exam",
+    "IAS Exam",
+    "IPS Exam",
+    "IFS Exam",
+    "NDA Exam"
+  ],
+  "degree_name": "Master of Arts in Public Policy",
+  "degree_duration_years": 2,
+  "course_cost_lakhs": {
+    "government_college": 1,
+    "private_college": 10
+  },
+  "top_govt_colleges": [
+    "Jawaharlal Nehru University",
+    "University of Delhi",
+    "University of Hyderabad",
+    "Tata Institute of Social Sciences",
+    "Indian Institute of Public Administration"
+  ],
+  "top_private_colleges": [
+    "Indian School of Public Policy",
+    "Ashoka University",
+    "O.P. Jindal Global University",
+    "Symbiosis International University",
+    "Christ University"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 3,
+    "mid_3_7_years": 8,
+    "senior_8_15_years": 18,
+    "top_earner": 35
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "New Delhi",
+      "Mumbai",
+      "Bangalore",
+      "Hyderabad",
+      "Chennai"
+    ],
+    "govt_vs_private": "30% govt 70% private",
+    "demand_trend": "stable",
+    "approximate_annual_openings_india": 30000
+  },
+  "career_progression": {
+    "year_0_2": "Typically starts as a Research Assistant or Policy Analyst in a government agency or NGO, working on projects related to policy analysis and research.",
+    "year_3_5": "Moves to a more senior role as a Policy Advisor or Senior Researcher, taking on more complex projects and leading teams.",
+    "year_6_10": "Becomes a Policy Director or Head of Research, overseeing large-scale projects and developing strategic plans.",
+    "senior_paths": [
+      "Policy Advisor to the Government",
+      "Head of Research at a Think Tank",
+      "Director of Policy at a Private Company"
+    ],
+    "entrepreneurship_exit": "Can start a consulting firm or a think tank, offering policy analysis and research services to clients.",
+    "global_pathway": "Can work with international organizations such as the World Bank, UNDP, or the European Union, or work with foreign governments on policy projects."
+  },
+  "india_social_context": {
+    "family_acceptance": "medium",
+    "regional_availability": "national",
+    "first_year_reality": "Starting salary is around ₹3-4 lakhs per annum, and the work can be demanding with long hours and tight deadlines.",
+    "common_misconceptions": [
+      "Policy Analysts are only government employees",
+      "Policy Analysts are only involved in politics"
+    ]
+  },
+  "force_connections": {}
+}

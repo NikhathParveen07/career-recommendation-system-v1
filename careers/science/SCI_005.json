@@ -1,0 +1,97 @@
+{
+  "career_id": "SCI_005",
+  "title": "Cloud Architect",
+  "stream": "Science",
+  "description": "A Cloud Architect in India designs and builds cloud computing systems for organisations, ensuring scalability, security, and reliability. They work with cross-functional teams to implement cloud strategies, migrate applications, and manage cloud infrastructure. Their daily tasks involve monitoring cloud performance, troubleshooting issues, and collaborating with stakeholders to meet business objectives.",
+  "riasec_primary": "Investigative",
+  "riasec_secondary": "Realistic",
+  "riasec_scores": {
+    "Realistic": 8,
+    "Investigative": 9,
+    "Artistic": 2,
+    "Social": 3,
+    "Enterprising": 4,
+    "Conventional": 5
+  },
+  "work_values": [
+    "problem-solving",
+    "analytical thinking",
+    "technical expertise",
+    "collaboration",
+    "innovation"
+  ],
+  "eligible_streams": [
+    "Computer Science",
+    "Information Technology",
+    "Electronics",
+    "Physics",
+    "Mathematics"
+  ],
+  "entrance_exams": [
+    "JEE Main",
+    "JEE Advanced",
+    "BITSAT",
+    "VITEEE",
+    "SRMJEE"
+  ],
+  "degree_name": "Bachelor of Technology in Computer Science and Engineering",
+  "degree_duration_years": 4,
+  "course_cost_lakhs": {
+    "government_college": 3,
+    "private_college": 15
+  },
+  "top_govt_colleges": [
+    "Indian Institute of Technology Delhi",
+    "Indian Institute of Technology Bombay",
+    "National Institute of Technology Tiruchirappalli",
+    "Indian Institute of Technology Kanpur",
+    "Indian Institute of Technology Kharagpur"
+  ],
+  "top_private_colleges": [
+    "BITS Pilani",
+    "Vellore Institute of Technology",
+    "SRM Institute of Science and Technology",
+    "Amrita Vishwa Vidyapeetham",
+    "Birla Institute of Technology Mesra"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 4,
+    "mid_3_7_years": 10,
+    "senior_8_15_years": 22,
+    "top_earner": 45
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Bangalore",
+      "Mumbai",
+      "Hyderabad",
+      "Pune",
+      "Chennai"
+    ],
+    "govt_vs_private": "20% govt 80% private",
+    "demand_trend": "growing",
+    "approximate_annual_openings_india": 50000
+  },
+  "career_progression": {
+    "year_0_2": "Entry-level positions in cloud infrastructure management, cloud security, or cloud migration. Opportunities for professional certifications like AWS Certified Cloud Practitioner or Azure Certified: Azure Developer Associate.",
+    "year_3_5": "Senior cloud architect roles, leading cloud migration projects, and implementing cloud strategies. Opportunities for advanced certifications like AWS Certified Solutions Architect - Professional or Azure Certified: Azure Solutions Architect Expert.",
+    "year_6_10": "Leadership roles in cloud architecture, cloud engineering, or cloud security. Opportunities for entrepreneurship, consulting, or starting a cloud services company.",
+    "senior_paths": [
+      "Cloud Security Architect",
+      "Cloud Engineering Manager",
+      "Cloud Solutions Architect"
+    ],
+    "entrepreneurship_exit": "Starting a cloud services company, offering cloud consulting, cloud migration, or cloud security services to clients.",
+    "global_pathway": "Opportunities for working with international clients, collaborating with global teams, or relocating to countries with high demand for cloud architects like the US, UK, or Australia."
+  },
+  "india_social_context": {
+    "family_acceptance": "high",
+    "regional_availability": "national",
+    "first_year_reality": "Challenging to find a job immediately after graduation, but opportunities exist in top cities like Bangalore, Mumbai, and Hyderabad.",
+    "common_misconceptions": [
+      "Cloud architecture is only about AWS or Azure",
+      "Cloud architecture is not a stable career"
+    ]
+  },
+  "force_connections": {}
+}

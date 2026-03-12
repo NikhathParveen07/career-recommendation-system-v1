@@ -1,0 +1,97 @@
+{
+  "career_id": "SCI_029",
+  "title": "Food Scientist",
+  "stream": "Science",
+  "description": "A Food Scientist in India works in laboratories, research institutions, and food processing industries, conducting experiments, analyzing data, and developing new food products. They ensure food safety, quality, and nutritional value, adhering to government regulations and industry standards. Their daily tasks involve testing, sampling, and quality control of food products, collaborating with cross-functional teams, and staying updated with the latest food technology and regulations.",
+  "riasec_primary": "Investigative",
+  "riasec_secondary": "Realistic",
+  "riasec_scores": {
+    "Realistic": 8,
+    "Investigative": 9,
+    "Artistic": 2,
+    "Social": 3,
+    "Enterprising": 4,
+    "Conventional": 5
+  },
+  "work_values": [
+    "Problem-solving",
+    "Independence",
+    "Accuracy",
+    "Attention to detail",
+    "Analytical thinking"
+  ],
+  "eligible_streams": [
+    "Biology",
+    "Chemistry",
+    "Physics",
+    "Mathematics",
+    "Biotechnology"
+  ],
+  "entrance_exams": [
+    "NEET",
+    "JEE Main",
+    "BITSAT",
+    "Manipal Entrance Test",
+    "VIT Engineering Entrance Exam"
+  ],
+  "degree_name": "Bachelor of Science in Food Science and Technology",
+  "degree_duration_years": 4,
+  "course_cost_lakhs": {
+    "government_college": 3,
+    "private_college": 15
+  },
+  "top_govt_colleges": [
+    "University of Delhi",
+    "University of Mumbai",
+    "Anna University",
+    "Jawaharlal Nehru University",
+    "Indian Institute of Technology (IIT) Roorkee"
+  ],
+  "top_private_colleges": [
+    "BITS Pilani",
+    "Manipal University",
+    "Vellore Institute of Technology (VIT)",
+    "Amity University",
+    "Symbiosis International University"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 4,
+    "mid_3_7_years": 10,
+    "senior_8_15_years": 22,
+    "top_earner": 45
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Mumbai",
+      "Delhi",
+      "Bangalore",
+      "Hyderabad",
+      "Chennai"
+    ],
+    "govt_vs_private": "20% govt 80% private",
+    "demand_trend": "growing",
+    "approximate_annual_openings_india": 50000
+  },
+  "career_progression": {
+    "year_0_2": "Assistants in laboratories, research institutions, and food processing industries, conducting routine tests and quality control.",
+    "year_3_5": "Senior assistants, team leaders, and quality control managers in food processing industries, research institutions, and laboratories.",
+    "year_6_10": "Senior managers, quality control heads, and research scientists in food processing industries, research institutions, and laboratories.",
+    "senior_paths": [
+      "Food Safety Manager",
+      "Quality Control Head",
+      "Research Scientist"
+    ],
+    "entrepreneurship_exit": "Start a food processing or manufacturing business, or a food safety and quality control consulting firm.",
+    "global_pathway": "Pursue a Master's or Ph.D. in Food Science and Technology from a foreign university, or work in a multinational food company with global operations."
+  },
+  "india_social_context": {
+    "family_acceptance": "high",
+    "regional_availability": "national",
+    "first_year_reality": "Starting salary is around ₹4-6 lakhs per annum, and working hours can be long, especially in food processing industries.",
+    "common_misconceptions": [
+      "Food Scientists only work in laboratories.",
+      "Food Scientists only work in the government sector."
+    ]
+  },
+  "force_connections": {}
+}

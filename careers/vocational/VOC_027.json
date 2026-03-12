@@ -1,0 +1,97 @@
+{
+  "career_id": "VOC_027",
+  "title": "Barista Cafe Professional",
+  "stream": "Vocational",
+  "description": "A Barista Cafe Professional in India is responsible for preparing and serving beverages, managing cafe operations, and providing excellent customer service. They work in cafes, restaurants, and hotels, often working long hours, including evenings and weekends. They must be able to multitask, work under pressure, and maintain a clean and organized workspace.",
+  "riasec_primary": "Realistic",
+  "riasec_secondary": "Enterprising",
+  "riasec_scores": {
+    "Realistic": 8,
+    "Investigative": 2,
+    "Artistic": 3,
+    "Social": 4,
+    "Enterprising": 9,
+    "Conventional": 2
+  },
+  "work_values": [
+    "Creativity",
+    "Independence",
+    "Variety",
+    "Recognition",
+    "Security"
+  ],
+  "eligible_streams": [
+    "Hotel Management",
+    "Hospitality",
+    "Food and Beverage Service",
+    "Culinary Arts"
+  ],
+  "entrance_exams": [
+    "NCHMCT JEE",
+    "AIHMCT WAT",
+    "IIHM JEE"
+  ],
+  "degree_name": "Diploma in Barista Cafe Management",
+  "degree_duration_years": 2,
+  "course_cost_lakhs": {
+    "government_college": 2,
+    "private_college": 8
+  },
+  "top_govt_colleges": [
+    "National Council of Hotel Management and Catering Technology",
+    "Indian Institute of Hotel Management",
+    "Institute of Hotel Management",
+    "National Institute of Hotel Management",
+    "Institute of Food Technology"
+  ],
+  "top_private_colleges": [
+    "Institute of Hotel Management and Catering Technology",
+    "National Institute of Hotel Management and Catering Technology",
+    "Institute of Culinary Arts",
+    "National Institute of Food Technology",
+    "Institute of Hospitality Management"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 2.5,
+    "mid_3_7_years": 6,
+    "senior_8_15_years": 15,
+    "top_earner": 30
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Mumbai",
+      "Delhi",
+      "Bangalore",
+      "Hyderabad",
+      "Chennai"
+    ],
+    "govt_vs_private": "10% govt 90% private",
+    "demand_trend": "stable",
+    "approximate_annual_openings_india": 20000
+  },
+  "career_progression": {
+    "year_0_2": "Starting as a barista, learning cafe operations, and customer service skills. Working in a team, handling cash transactions, and maintaining a clean workspace.",
+    "year_3_5": "Moving to a supervisory role, managing cafe staff, and overseeing daily operations. Developing leadership skills, improving customer service, and increasing sales.",
+    "year_6_10": "Taking on a senior role, overseeing multiple cafes, and developing business strategies. Building relationships with suppliers, managing budgets, and implementing marketing campaigns.",
+    "senior_paths": [
+      "Cafe Manager",
+      "Restaurant Manager",
+      "Hospitality Consultant",
+      "Food and Beverage Manager",
+      "Entrepreneur"
+    ],
+    "entrepreneurship_exit": "Starting a small cafe or restaurant, leveraging skills and experience to create a successful business.",
+    "global_pathway": "Opportunities for working abroad in international hotels, restaurants, and cafes, or starting a business in a foreign country."
+  },
+  "india_social_context": {
+    "family_acceptance": "medium",
+    "regional_availability": "national",
+    "first_year_reality": "Starting salary is low, working hours are long, and the job can be physically demanding.",
+    "common_misconceptions": [
+      "Baristas are only coffee makers",
+      "Cafe work is easy and relaxed",
+      "Baristas are not skilled professionals"
+    ]
+  },
+  "force_connections": {}
+}

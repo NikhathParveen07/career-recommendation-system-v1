@@ -1,0 +1,99 @@
+{
+  "career_id": "COM_023",
+  "title": "Digital Marketing Manager",
+  "stream": "Commerce",
+  "description": "A Digital Marketing Manager in India spends most of their day creating and executing online marketing campaigns, analyzing website traffic and social media metrics, managing budgets, and collaborating with cross-functional teams to meet business objectives. They stay up-to-date with the latest digital marketing trends and technologies to ensure their campaigns are effective and aligned with the company's goals. In a typical day, they might be working on a social media strategy, creating content for a new product launch, or analyzing the performance of a recent campaign.",
+  "riasec_primary": "Enterprising",
+  "riasec_secondary": "Conventional",
+  "riasec_scores": {
+    "Realistic": 0,
+    "Investigative": 0,
+    "Artistic": 0,
+    "Social": 0,
+    "Enterprising": 8,
+    "Conventional": 6
+  },
+  "work_values": [
+    "Creativity",
+    "Independence",
+    "Recognition",
+    "Achievement",
+    "Security",
+    "Stability"
+  ],
+  "eligible_streams": [
+    "Commerce",
+    "Business Studies",
+    "Economics",
+    "Accountancy",
+    "Mathematics",
+    "Statistics"
+  ],
+  "entrance_exams": [
+    "CAT",
+    "XAT",
+    "CMAT",
+    "MAT",
+    "ATMA"
+  ],
+  "degree_name": "Master of Business Administration (MBA)",
+  "degree_duration_years": 2,
+  "course_cost_lakhs": {
+    "government_college": 1,
+    "private_college": 8
+  },
+  "top_govt_colleges": [
+    "IIM Ahmedabad",
+    "IIM Bangalore",
+    "IIM Calcutta",
+    "IIM Lucknow",
+    "IIM Kozhikode"
+  ],
+  "top_private_colleges": [
+    "SPJIMR Mumbai",
+    "IMT Ghaziabad",
+    "MDI Gurgaon",
+    "Narsee Monjee Mumbai",
+    "Great Lakes Chennai"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 3.5,
+    "mid_3_7_years": 8,
+    "senior_8_15_years": 18,
+    "top_earner": 35
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Mumbai",
+      "Delhi",
+      "Bangalore",
+      "Hyderabad",
+      "Pune"
+    ],
+    "govt_vs_private": "10% govt 90% private",
+    "demand_trend": "growing",
+    "approximate_annual_openings_india": 30000
+  },
+  "career_progression": {
+    "year_0_2": "Entry-level roles in digital marketing agencies, assisting in campaign execution and data analysis. Developing skills in tools like Google Analytics, AdWords, and social media platforms.",
+    "year_3_5": "Mid-level roles in marketing teams, leading campaigns, managing budgets, and collaborating with cross-functional teams. Developing expertise in digital marketing strategies and technologies.",
+    "year_6_10": "Senior roles in marketing leadership, overseeing digital marketing strategies, managing teams, and driving business growth. Developing leadership skills and expertise in data-driven decision making.",
+    "senior_paths": [
+      "Digital Marketing Director",
+      "Marketing Manager",
+      "Brand Manager"
+    ],
+    "entrepreneurship_exit": "Starting a digital marketing agency or a product-based business leveraging digital marketing expertise.",
+    "global_pathway": "Opportunities in international marketing roles, digital marketing consulting, or starting a global digital marketing agency."
+  },
+  "india_social_context": {
+    "family_acceptance": "high",
+    "regional_availability": "national",
+    "first_year_reality": "Starting salary is around ₹3-4 lakhs per annum, with a steep learning curve and long working hours.",
+    "common_misconceptions": [
+      "Digital marketing is easy and requires no technical skills.",
+      "You can become a digital marketing manager without a degree."
+    ]
+  },
+  "force_connections": {}
+}

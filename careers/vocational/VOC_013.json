@@ -1,0 +1,90 @@
+{
+  "career_id": "VOC_013",
+  "title": "Aviation Technician",
+  "stream": "Vocational",
+  "description": "An Aviation Technician in India performs routine maintenance, repairs, and overhauls of aircraft and aircraft systems. They work in hangars, on airfields, or in workshops, using hand tools, power tools, and specialized equipment to diagnose and fix issues. They also conduct safety inspections, follow manufacturer's instructions, and maintain accurate records of work performed.",
+  "riasec_primary": "Realistic",
+  "riasec_secondary": "Conventional",
+  "riasec_scores": {
+    "Realistic": 8,
+    "Investigative": 2,
+    "Artistic": 1,
+    "Social": 3,
+    "Enterprising": 2,
+    "Conventional": 4
+  },
+  "work_values": [
+    "Job Security",
+    "Sense of Accomplishment",
+    "Physical Activity"
+  ],
+  "eligible_streams": [
+    "Science",
+    "Vocational",
+    "Engineering"
+  ],
+  "entrance_exams": [
+    "Aircraft Maintenance Engineering (AME) Exam",
+    "Indian Air Force (IAF) Technical Entry Scheme (TES) Exam"
+  ],
+  "degree_name": "Diploma in Aircraft Maintenance Engineering",
+  "degree_duration_years": 3,
+  "course_cost_lakhs": {
+    "government_college": 2,
+    "private_college": 8
+  },
+  "top_govt_colleges": [
+    "Indian Institute of Aeronautics (IIA)",
+    "Aircraft Maintenance Engineering College (AMEC)",
+    "National Institute of Aeronautical and Space Technology (NIAS)",
+    "Aeronautical Engineering College (AEC)",
+    "Indian Air Force Technical College (IAFTC)"
+  ],
+  "top_private_colleges": [
+    "Aircraft Maintenance Engineering College (AMEC)",
+    "Indian Institute of Aeronautical and Space Technology (IIAST)",
+    "Aeronautical Engineering College (AEC)",
+    "National Institute of Aircraft and Space Technology (NIAS)",
+    "Indian Aviation Academy (IAA)"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 3,
+    "mid_3_7_years": 8,
+    "senior_8_15_years": 18,
+    "top_earner": 35
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Mumbai",
+      "Delhi",
+      "Bangalore",
+      "Chennai",
+      "Hyderabad"
+    ],
+    "govt_vs_private": "30% govt 70% private",
+    "demand_trend": "stable",
+    "approximate_annual_openings_india": 30000
+  },
+  "career_progression": {
+    "year_0_2": "Apprenticeship or Diploma course, basic training in aircraft maintenance, and hands-on experience.",
+    "year_3_5": "Certification in specialized areas like avionics, electrical, or mechanical systems, and working on complex aircraft repairs.",
+    "year_6_10": "Senior technician roles, team leading, and mentoring junior technicians, with opportunities for specialization in specific aircraft types.",
+    "senior_paths": [
+      "Flight Operations Manager",
+      "Aircraft Maintenance Manager",
+      "Aviation Safety Inspector"
+    ],
+    "entrepreneurship_exit": "Starting an aircraft maintenance or repair business, or offering specialized services like avionics or electrical repairs.",
+    "global_pathway": "Opportunities for certification and work in international airports, or working for global airlines with maintenance bases in India."
+  },
+  "india_social_context": {
+    "family_acceptance": "medium",
+    "regional_availability": "national",
+    "first_year_reality": "Initial years can be challenging, with long working hours, physical demands, and limited job security.",
+    "common_misconceptions": [
+      "Aviation Technicians are pilots",
+      "Aviation Technicians only work on commercial aircraft"
+    ]
+  },
+  "force_connections": {}
+}

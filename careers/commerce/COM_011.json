@@ -1,0 +1,97 @@
+{
+  "career_id": "COM_011",
+  "title": "Business Analyst",
+  "stream": "Commerce",
+  "description": "A Business Analyst in India typically spends their days analyzing business data, identifying trends, and providing insights to stakeholders. They work closely with cross-functional teams to develop and implement business solutions, often using data visualization tools and statistical models. Their primary goal is to drive business growth and improvement through data-driven decision making.",
+  "riasec_primary": "Enterprising",
+  "riasec_secondary": "Conventional",
+  "riasec_scores": {
+    "Realistic": 4,
+    "Investigative": 3,
+    "Artistic": 2,
+    "Social": 5,
+    "Enterprising": 9,
+    "Conventional": 7
+  },
+  "work_values": [
+    "Achievement",
+    "Recognition",
+    "Autonomy",
+    "Security",
+    "Stability"
+  ],
+  "eligible_streams": [
+    "Commerce",
+    "Economics",
+    "Business Studies",
+    "Accountancy",
+    "Mathematics"
+  ],
+  "entrance_exams": [
+    "CAT",
+    "MAT",
+    "XAT",
+    "CMAT",
+    "NMAT"
+  ],
+  "degree_name": "Master of Business Administration (MBA)",
+  "degree_duration_years": 2,
+  "course_cost_lakhs": {
+    "government_college": 2,
+    "private_college": 10
+  },
+  "top_govt_colleges": [
+    "Indian Institute of Management (IIM) Ahmedabad",
+    "IIM Bangalore",
+    "IIM Calcutta",
+    "IIM Lucknow",
+    "IIM Kozhikode"
+  ],
+  "top_private_colleges": [
+    "SPJIMR Mumbai",
+    "MDI Gurgaon",
+    "IMT Ghaziabad",
+    "XIMB Bhubaneswar",
+    "NITIE Mumbai"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 3.5,
+    "mid_3_7_years": 8,
+    "senior_8_15_years": 18,
+    "top_earner": 35
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Mumbai",
+      "Delhi",
+      "Bangalore",
+      "Hyderabad",
+      "Pune"
+    ],
+    "govt_vs_private": "10% govt 90% private",
+    "demand_trend": "stable",
+    "approximate_annual_openings_india": 30000
+  },
+  "career_progression": {
+    "year_0_2": "Typically starts as a Junior Business Analyst, working under the guidance of a senior analyst. Focuses on developing data analysis and problem-solving skills.",
+    "year_3_5": "Moves to a Senior Business Analyst role, taking on more complex projects and leading small teams. Develops expertise in data visualization and statistical modeling.",
+    "year_6_10": "Promoted to a Business Analyst Manager, overseeing multiple projects and teams. Focuses on strategic planning and leadership development.",
+    "senior_paths": [
+      "Product Management",
+      "Data Science",
+      "IT Project Management"
+    ],
+    "entrepreneurship_exit": "Can start a business as a consultant or by developing a data-driven product or service.",
+    "global_pathway": "Opportunities exist in the US, UK, and Australia for Business Analysts with advanced degrees and relevant experience."
+  },
+  "india_social_context": {
+    "family_acceptance": "high",
+    "regional_availability": "national",
+    "first_year_reality": "Starting salary is around ₹3-4 lakhs per annum, with a steep learning curve and long working hours.",
+    "common_misconceptions": [
+      "Business Analysts are only data analysts",
+      "Business Analysts have no creative work"
+    ]
+  },
+  "force_connections": {}
+}

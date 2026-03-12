@@ -1,0 +1,90 @@
+{
+  "career_id": "ART_026",
+  "title": "Teacher Professor",
+  "stream": "Arts",
+  "description": "A Teacher Professor in Arts in India teaches various subjects like History, Geography, and Languages to students in colleges and universities. They also conduct research, prepare course materials, and assess student performance. Their daily tasks involve lecturing, grading assignments, and attending departmental meetings.",
+  "riasec_primary": "Artistic",
+  "riasec_secondary": "Social",
+  "riasec_scores": {
+    "Realistic": 0,
+    "Investigative": 0,
+    "Artistic": 8,
+    "Social": 6,
+    "Enterprising": 2,
+    "Conventional": 4
+  },
+  "work_values": [
+    "Creativity",
+    "Helping Others",
+    "Independence"
+  ],
+  "eligible_streams": [
+    "Humanities",
+    "Social Sciences",
+    "Languages"
+  ],
+  "entrance_exams": [
+    "NET (National Eligibility Test)",
+    "SET (State Eligibility Test)"
+  ],
+  "degree_name": "Master of Arts (M.A.)",
+  "degree_duration_years": 2,
+  "course_cost_lakhs": {
+    "government_college": 1,
+    "private_college": 8
+  },
+  "top_govt_colleges": [
+    "Jawaharlal Nehru University",
+    "University of Delhi",
+    "Banaras Hindu University",
+    "University of Hyderabad",
+    "University of Mumbai"
+  ],
+  "top_private_colleges": [
+    "Christ University",
+    "Symbiosis International University",
+    "Amity University",
+    "Birla Institute of Technology and Science",
+    "Manipal University"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 3,
+    "mid_3_7_years": 8,
+    "senior_8_15_years": 18,
+    "top_earner": 35
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Delhi",
+      "Mumbai",
+      "Kolkata",
+      "Chennai",
+      "Bangalore"
+    ],
+    "govt_vs_private": "30% govt 70% private",
+    "demand_trend": "stable",
+    "approximate_annual_openings_india": 30000
+  },
+  "career_progression": {
+    "year_0_2": "Assistant Professor in a college, teaching and conducting research",
+    "year_3_5": "Senior Lecturer in a university, with additional administrative responsibilities",
+    "year_6_10": "Associate Professor in a top university, with a strong research focus",
+    "senior_paths": [
+      "Department Head",
+      "Dean of Faculty",
+      "University Administrator"
+    ],
+    "entrepreneurship_exit": "Starting a private educational institution or online course platform",
+    "global_pathway": "Teaching English as a Foreign Language (TEFL) or pursuing a Ph.D. abroad"
+  },
+  "india_social_context": {
+    "family_acceptance": "very_high",
+    "regional_availability": "national",
+    "first_year_reality": "Starting salary is low, but opportunities for growth are available",
+    "common_misconceptions": [
+      "Teaching is an easy job",
+      "You can earn a lot of money as a Teacher Professor"
+    ]
+  },
+  "force_connections": {}
+}

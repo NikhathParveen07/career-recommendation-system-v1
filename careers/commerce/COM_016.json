@@ -1,0 +1,98 @@
+{
+  "career_id": "COM_016",
+  "title": "Retail Manager",
+  "stream": "Commerce",
+  "description": "A Retail Manager in India is responsible for overseeing the daily operations of a retail store, including managing staff, inventory, customer service, and sales targets. They work closely with suppliers, vendors, and other stakeholders to ensure smooth supply chain management and maintain a competitive edge in the market. Retail Managers in India often work long hours, including evenings and weekends, to ensure that the store is running efficiently and effectively.",
+  "riasec_primary": "Enterprising",
+  "riasec_secondary": "Conventional",
+  "riasec_scores": {
+    "Realistic": 6,
+    "Investigative": 4,
+    "Artistic": 3,
+    "Social": 5,
+    "Enterprising": 8,
+    "Conventional": 7
+  },
+  "work_values": [
+    "Achievement",
+    "Recognition",
+    "Financial Security",
+    "Job Security",
+    "Career Advancement"
+  ],
+  "eligible_streams": [
+    "Commerce",
+    "Business Studies",
+    "Accountancy",
+    "Economics",
+    "Management"
+  ],
+  "entrance_exams": [
+    "CA Foundation",
+    "CMA Foundation",
+    "ICMAI Foundation",
+    "BBA Entrance Exams",
+    "B.Com Entrance Exams"
+  ],
+  "degree_name": "Bachelor of Commerce (B.Com)",
+  "degree_duration_years": 3,
+  "course_cost_lakhs": {
+    "government_college": 2,
+    "private_college": 12
+  },
+  "top_govt_colleges": [
+    "Lady Shri Ram College for Women",
+    "Hansraj College",
+    "Kirori Mal College",
+    "Daulat Ram College",
+    "Shri Ram College of Commerce"
+  ],
+  "top_private_colleges": [
+    "SP Jain Institute of Management and Research",
+    "NMIMS",
+    "Symbiosis Institute of Business Management",
+    "Xavier Institute of Management and Entrepreneurship",
+    "Great Lakes Institute of Management"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 3.5,
+    "mid_3_7_years": 8,
+    "senior_8_15_years": 18,
+    "top_earner": 35
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Mumbai",
+      "Delhi",
+      "Bangalore",
+      "Hyderabad",
+      "Chennai"
+    ],
+    "govt_vs_private": "15% govt 85% private",
+    "demand_trend": "stable",
+    "approximate_annual_openings_india": 30000
+  },
+  "career_progression": {
+    "year_0_2": "Initial years involve working as an assistant manager or deputy manager in a retail store, handling tasks such as inventory management, staff supervision, and customer service.",
+    "year_3_5": "As experience grows, retail managers take on more responsibilities, such as store operations, supply chain management, and team leadership.",
+    "year_6_10": "Senior retail managers oversee multiple stores, develop business strategies, and manage budgets.",
+    "senior_paths": [
+      "Store Operations Manager",
+      "Supply Chain Manager",
+      "Retail Business Development Manager"
+    ],
+    "entrepreneurship_exit": "Retail managers can start their own retail businesses, either as a franchisee or an independent entrepreneur.",
+    "global_pathway": "Retail managers can explore opportunities in international retail companies, such as Walmart, Tesco, or Carrefour."
+  },
+  "india_social_context": {
+    "family_acceptance": "high",
+    "regional_availability": "national",
+    "first_year_reality": "Starting as a retail manager in India can be challenging, with long working hours and high expectations.",
+    "common_misconceptions": [
+      "Retail management is an easy job",
+      "Retail managers only work in malls",
+      "Retail management is a low-paying career"
+    ]
+  },
+  "force_connections": {}
+}

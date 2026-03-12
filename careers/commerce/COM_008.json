@@ -1,0 +1,97 @@
+{
+  "career_id": "COM_008",
+  "title": "Insurance Professional",
+  "stream": "Commerce",
+  "description": "An Insurance Professional in India assesses and manages risk for individuals and businesses by underwriting policies, investigating claims, and advising clients on insurance options. They work with various stakeholders, including policyholders, agents, and medical professionals, to ensure smooth claim settlements and policy renewals. Their day-to-day tasks involve analyzing data, communicating with clients, and staying updated on industry developments to provide expert advice and support.",
+  "riasec_primary": "Conventional",
+  "riasec_secondary": "Enterprising",
+  "riasec_scores": {
+    "Realistic": 0,
+    "Investigative": 0,
+    "Artistic": 0,
+    "Social": 0,
+    "Enterprising": 0,
+    "Conventional": 10
+  },
+  "work_values": [
+    "Security",
+    "Stability",
+    "Predictability",
+    "Organization",
+    "Attention to detail"
+  ],
+  "eligible_streams": [
+    "Commerce",
+    "Economics",
+    "Business Studies",
+    "Accountancy",
+    "Mathematics"
+  ],
+  "entrance_exams": [
+    "CAIIB (Certified Associate of Insurance and Investment Banking)",
+    "CII (Certified Insurance Institute) Exam",
+    "IRDA (Insurance Regulatory and Development Authority) Exam"
+  ],
+  "degree_name": "Bachelor of Insurance and Risk Management",
+  "degree_duration_years": 4,
+  "course_cost_lakhs": {
+    "government_college": 2,
+    "private_college": 12
+  },
+  "top_govt_colleges": [
+    "University of Delhi - Faculty of Commerce and Business",
+    "University of Mumbai - Department of Commerce",
+    "University of Calcutta - Department of Commerce",
+    "University of Madras - Department of Commerce",
+    "University of Hyderabad - Department of Commerce"
+  ],
+  "top_private_colleges": [
+    "Symbiosis International University - Symbiosis School of Insurance",
+    "Manipal University - Manipal School of Insurance",
+    "Amity University - Amity School of Insurance",
+    "Birla Institute of Technology and Science - BITS Pilani - School of Insurance",
+    "Christ University - Christ School of Insurance"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 3,
+    "mid_3_7_years": 8,
+    "senior_8_15_years": 18,
+    "top_earner": 35
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Mumbai",
+      "Delhi",
+      "Bangalore",
+      "Chennai",
+      "Hyderabad"
+    ],
+    "govt_vs_private": "30% govt 70% private",
+    "demand_trend": "stable",
+    "approximate_annual_openings_india": 30000
+  },
+  "career_progression": {
+    "year_0_2": "Initial years involve working as a junior insurance professional, assisting senior colleagues, and learning about insurance products and policies. They may also undergo training programs to enhance their skills and knowledge.",
+    "year_3_5": "As they gain experience, they can move into roles such as insurance underwriter, claims adjuster, or insurance broker. They may also have opportunities to work with insurance companies, banks, or financial institutions.",
+    "year_6_10": "Senior insurance professionals can take on leadership roles, such as insurance manager or director. They may also have opportunities to start their own insurance consulting firms or become insurance regulators.",
+    "senior_paths": [
+      "Insurance Manager",
+      "Insurance Director",
+      "Insurance Regulator",
+      "Insurance Consultant",
+      "Insurance Entrepreneur"
+    ],
+    "entrepreneurship_exit": "Insurance professionals can start their own insurance consulting firms or become insurance brokers, offering customized insurance solutions to clients.",
+    "global_pathway": "Insurance professionals can work with international insurance companies or join global insurance firms, such as AIG, AXA, or Zurich Insurance."
+  },
+  "india_social_context": {
+    "family_acceptance": "high",
+    "regional_availability": "national",
+    "first_year_reality": "Starting salary is around ₹3-4 lakhs per annum, and working hours can be long, especially during peak seasons.",
+    "common_misconceptions": [
+      "Insurance professionals are only salespeople.",
+      "Insurance is only about selling policies."
+    ]
+  },
+  "force_connections": {}
+}

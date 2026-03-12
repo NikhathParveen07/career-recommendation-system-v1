@@ -1,0 +1,94 @@
+{
+  "career_id": "ART_018",
+  "title": "Interior Designer",
+  "stream": "Arts",
+  "description": "An interior designer in India typically spends their days creating 2D and 3D designs for residential and commercial spaces, selecting materials and colours, and collaborating with clients to understand their needs and preferences. They also need to stay updated with the latest design trends and technologies. In India, interior designers often work on a project basis, and their work can be affected by factors like budget constraints, client expectations, and regulatory requirements.",
+  "riasec_primary": "Artistic",
+  "riasec_secondary": "Conventional",
+  "riasec_scores": {
+    "Realistic": 0,
+    "Investigative": 0,
+    "Artistic": 8,
+    "Social": 4,
+    "Enterprising": 2,
+    "Conventional": 6
+  },
+  "work_values": [
+    "Creativity",
+    "Self-expression",
+    "Attention to detail",
+    "Practicality",
+    "Flexibility"
+  ],
+  "eligible_streams": [
+    "Arts",
+    "Commerce",
+    "Science"
+  ],
+  "entrance_exams": [
+    "NID DAT",
+    "CEPT ACPC",
+    "UCEED",
+    "IIAD Design Aptitude Test"
+  ],
+  "degree_name": "Bachelor of Design in Interior Design",
+  "degree_duration_years": 4,
+  "course_cost_lakhs": {
+    "government_college": 3,
+    "private_college": 15
+  },
+  "top_govt_colleges": [
+    "National Institute of Design, Ahmedabad",
+    "Indian Institute of Crafts and Design, Jaipur",
+    "National Institute of Fashion Technology, Delhi",
+    "CEPT University, Ahmedabad",
+    "School of Architecture and Planning, Anna University, Chennai"
+  ],
+  "top_private_colleges": [
+    "Srishti Institute of Art, Design and Technology, Bangalore",
+    "Raffles Design International, Mumbai",
+    "Apeejay Institute of Design, New Delhi",
+    "MIT Institute of Design, Pune",
+    "Symbiosis Institute of Design, Pune"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 4,
+    "mid_3_7_years": 10,
+    "senior_8_15_years": 22,
+    "top_earner": 45
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Mumbai",
+      "Delhi",
+      "Bangalore",
+      "Chennai",
+      "Pune"
+    ],
+    "govt_vs_private": "20% govt 80% private",
+    "demand_trend": "growing",
+    "approximate_annual_openings_india": 50000
+  },
+  "career_progression": {
+    "year_0_2": "Assist senior designers, learn design software, and work on small projects.",
+    "year_3_5": "Take on more responsibility, lead small projects, and develop design skills.",
+    "year_6_10": "Specialize in a niche area, lead large projects, and mentor junior designers.",
+    "senior_paths": [
+      "Design Director",
+      "Creative Director",
+      "Interior Design Consultant"
+    ],
+    "entrepreneurship_exit": "Start a design firm or offer interior design services as a freelancer.",
+    "global_pathway": "Opportunities for interior designers in the Middle East, Southeast Asia, and the US."
+  },
+  "india_social_context": {
+    "family_acceptance": "medium",
+    "regional_availability": "national",
+    "first_year_reality": "Initial projects may be small and unpaid, but can lead to valuable experience and connections.",
+    "common_misconceptions": [
+      "Interior design is only about aesthetics.",
+      "Interior designers only work on residential projects."
+    ]
+  },
+  "force_connections": {}
+}

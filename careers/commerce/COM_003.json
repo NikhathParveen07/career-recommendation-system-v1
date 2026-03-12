@@ -1,0 +1,94 @@
+{
+  "career_id": "COM_003",
+  "title": "Company Secretary",
+  "stream": "Commerce",
+  "description": "A Company Secretary in India is responsible for managing a company's statutory and regulatory compliance, corporate governance, and secretarial functions. They handle tasks such as filing documents, conducting board meetings, and maintaining company records. Their day-to-day work involves reviewing and implementing company policies, advising on legal matters, and ensuring compliance with regulatory requirements.",
+  "riasec_primary": "Conventional",
+  "riasec_secondary": "Enterprising",
+  "riasec_scores": {
+    "Realistic": 0,
+    "Investigative": 0,
+    "Artistic": 0,
+    "Social": 0,
+    "Enterprising": 8,
+    "Conventional": 9
+  },
+  "work_values": [
+    "Orderliness",
+    "Attention to detail",
+    "Loyalty",
+    "Responsibility",
+    "Security",
+    "Tradition"
+  ],
+  "eligible_streams": [
+    "Commerce",
+    "Accountancy",
+    "Business Studies",
+    "Economics"
+  ],
+  "entrance_exams": [
+    "Company Secretary Executive Entrance Test (CSEET)",
+    "Institute of Company Secretaries of India (ICSI) Entrance Exam"
+  ],
+  "degree_name": "Bachelor of Commerce (B.Com.) in Company Secretaryship",
+  "degree_duration_years": 3,
+  "course_cost_lakhs": {
+    "government_college": 2,
+    "private_college": 12
+  },
+  "top_govt_colleges": [
+    "University of Delhi",
+    "University of Mumbai",
+    "University of Calcutta",
+    "University of Madras",
+    "University of Hyderabad"
+  ],
+  "top_private_colleges": [
+    "Institute of Company Secretaries of India (ICSI)",
+    "National Institute of Securities Markets (NISM)",
+    "Indian Institute of Corporate Affairs (IICA)",
+    "Indian Institute of Management (IIM)",
+    "National Law University (NLU)"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 3,
+    "mid_3_7_years": 8,
+    "senior_8_15_years": 18,
+    "top_earner": 35
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Mumbai",
+      "Delhi",
+      "Chennai",
+      "Bangalore",
+      "Kolkata"
+    ],
+    "govt_vs_private": "40% govt 60% private",
+    "demand_trend": "stable",
+    "approximate_annual_openings_india": 30000
+  },
+  "career_progression": {
+    "year_0_2": "Assist in secretarial functions, conduct research, and assist in corporate governance.",
+    "year_3_5": "Take on more responsibilities, handle company secretarial functions, and advise on legal matters.",
+    "year_6_10": "Lead teams, handle complex corporate governance issues, and advise on strategic matters.",
+    "senior_paths": [
+      "Corporate Governance Specialist",
+      "Company Secretary (CS)",
+      "Corporate Lawyer"
+    ],
+    "entrepreneurship_exit": "Start a consulting firm or a company providing corporate governance services.",
+    "global_pathway": "Opportunities exist in the UK, US, and Singapore for Indians with experience in Company Secretaryship."
+  },
+  "india_social_context": {
+    "family_acceptance": "high",
+    "regional_availability": "national",
+    "first_year_reality": "Challenging to find internships and jobs, requires strong networking.",
+    "common_misconceptions": [
+      "It's a desk job",
+      "It's only about compliance"
+    ]
+  },
+  "force_connections": {}
+}

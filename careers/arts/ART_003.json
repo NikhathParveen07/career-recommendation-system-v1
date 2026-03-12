@@ -1,0 +1,91 @@
+{
+  "career_id": "ART_003",
+  "title": "State Government Services PSC",
+  "stream": "Arts",
+  "description": "A State Government Services PSC officer in India is responsible for implementing government policies, collecting taxes, and providing public services. They work in various departments such as revenue, education, and health. Their day-to-day tasks involve attending meetings, reviewing documents, and interacting with citizens to resolve their grievances.",
+  "riasec_primary": "Social",
+  "riasec_secondary": "Conventional",
+  "riasec_scores": {
+    "Realistic": 0,
+    "Investigative": 0,
+    "Artistic": 0,
+    "Social": 10,
+    "Enterprising": 0,
+    "Conventional": 10
+  },
+  "work_values": [
+    "Helping Others",
+    "Sense of Belonging",
+    "Security and Stability"
+  ],
+  "eligible_streams": [
+    "Arts",
+    "Commerce",
+    "Humanities"
+  ],
+  "entrance_exams": [
+    "UPSC CSE Prelims",
+    "UPSC CSE Mains",
+    "State PSC Exam"
+  ],
+  "degree_name": "Master of Arts (MA)",
+  "degree_duration_years": 2,
+  "course_cost_lakhs": {
+    "government_college": 2,
+    "private_college": 10
+  },
+  "top_govt_colleges": [
+    "University of Delhi",
+    "Jawaharlal Nehru University",
+    "Banaras Hindu University",
+    "University of Mumbai",
+    "University of Calcutta"
+  ],
+  "top_private_colleges": [
+    "Christ University",
+    "Symbiosis International University",
+    "Amity University",
+    "Birla Institute of Technology and Science",
+    "Manipal University"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 3,
+    "mid_3_7_years": 8,
+    "senior_8_15_years": 18,
+    "top_earner": 35
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "New Delhi",
+      "Mumbai",
+      "Kolkata",
+      "Chennai",
+      "Bangalore"
+    ],
+    "govt_vs_private": "30% govt 70% private",
+    "demand_trend": "stable",
+    "approximate_annual_openings_india": 20000
+  },
+  "career_progression": {
+    "year_0_2": "Probationary period with on-the-job training and mentorship",
+    "year_3_5": "Assist senior officers in policy implementation and public service delivery",
+    "year_6_10": "Lead teams and projects, and take on additional responsibilities",
+    "senior_paths": [
+      "Deputy Secretary",
+      "Under Secretary",
+      "Director"
+    ],
+    "entrepreneurship_exit": "Limited opportunities for entrepreneurship, but can start a business in a related field",
+    "global_pathway": "Limited opportunities for international postings, but can work with international organizations"
+  },
+  "india_social_context": {
+    "family_acceptance": "high",
+    "regional_availability": "national",
+    "first_year_reality": "Challenging and competitive, with limited job opportunities",
+    "common_misconceptions": [
+      "It's an easy job with a lot of free time",
+      "You can get a job easily with a degree from a good college"
+    ]
+  },
+  "force_connections": {}
+}

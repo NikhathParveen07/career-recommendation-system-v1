@@ -1,0 +1,97 @@
+{
+  "career_id": "COM_029",
+  "title": "Education Administrator",
+  "stream": "Commerce",
+  "description": "An Education Administrator in India is responsible for managing day-to-day operations of educational institutions, including supervising staff, handling student affairs, and maintaining records. They work closely with teachers, parents, and students to ensure smooth functioning of the institution. Their tasks may include resolving conflicts, managing budgets, and implementing policies.",
+  "riasec_primary": "Enterprising",
+  "riasec_secondary": "Conventional",
+  "riasec_scores": {
+    "Realistic": 2,
+    "Investigative": 1,
+    "Artistic": 1,
+    "Social": 3,
+    "Enterprising": 8,
+    "Conventional": 5
+  },
+  "work_values": [
+    "Achievement",
+    "Recognition",
+    "Independence",
+    "Security",
+    "Stability"
+  ],
+  "eligible_streams": [
+    "Commerce",
+    "Business Studies",
+    "Accountancy",
+    "Economics",
+    "Mathematics"
+  ],
+  "entrance_exams": [
+    "UGC NET",
+    "SET",
+    "CSIR NET",
+    "JRF",
+    "NET"
+  ],
+  "degree_name": "Master of Education (M.Ed.)",
+  "degree_duration_years": 2,
+  "course_cost_lakhs": {
+    "government_college": 1,
+    "private_college": 8
+  },
+  "top_govt_colleges": [
+    "University of Delhi",
+    "Jamia Millia Islamia",
+    "Banaras Hindu University",
+    "University of Mumbai",
+    "University of Calcutta"
+  ],
+  "top_private_colleges": [
+    "Christ University",
+    "Symbiosis International University",
+    "Amity University",
+    "Birla Institute of Technology and Science",
+    "Manipal University"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 3,
+    "mid_3_7_years": 8,
+    "senior_8_15_years": 18,
+    "top_earner": 35
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Delhi",
+      "Mumbai",
+      "Bangalore",
+      "Chennai",
+      "Hyderabad"
+    ],
+    "govt_vs_private": "30% govt 70% private",
+    "demand_trend": "stable",
+    "approximate_annual_openings_india": 30000
+  },
+  "career_progression": {
+    "year_0_2": "Assistant Teacher or Administrator in a school or college, handling administrative tasks and supporting teachers.",
+    "year_3_5": "Deputy Administrator or Head of Department in a school or college, overseeing departmental activities and managing staff.",
+    "year_6_10": "Principal or Director of a school or college, responsible for overall management and decision-making.",
+    "senior_paths": [
+      "Education Consultant",
+      "Policy Analyst",
+      "Academic Researcher"
+    ],
+    "entrepreneurship_exit": "Starting a private educational institution or educational services company.",
+    "global_pathway": "Opportunities for teaching or administrative roles in international schools or educational institutions, particularly in the Middle East or Southeast Asia."
+  },
+  "india_social_context": {
+    "family_acceptance": "high",
+    "regional_availability": "national",
+    "first_year_reality": "Starting salary is low, and job security is moderate. Requires strong networking and professional development to advance.",
+    "common_misconceptions": [
+      "Education Administrators are only teachers",
+      "It's an easy job with no responsibilities"
+    ]
+  },
+  "force_connections": {}
+}

@@ -1,0 +1,97 @@
+{
+  "career_id": "COM_001",
+  "title": "Chartered Accountant",
+  "stream": "Commerce",
+  "description": "A Chartered Accountant in India performs daily tasks such as auditing financial statements, preparing tax returns, and providing financial consulting services to clients. They also conduct financial analysis, prepare financial reports, and ensure compliance with regulatory requirements. Additionally, they may work with clients to identify areas of financial improvement and develop strategies to achieve their financial goals.",
+  "riasec_primary": "Conventional",
+  "riasec_secondary": "Realistic",
+  "riasec_scores": {
+    "Realistic": 6,
+    "Investigative": 4,
+    "Artistic": 2,
+    "Social": 3,
+    "Enterprising": 1,
+    "Conventional": 8
+  },
+  "work_values": [
+    "Attention to detail",
+    "Analytical skills",
+    "Problem-solving skills",
+    "Financial knowledge",
+    "Professional ethics"
+  ],
+  "eligible_streams": [
+    "Commerce",
+    "Accountancy",
+    "Business Studies",
+    "Economics"
+  ],
+  "entrance_exams": [
+    "CA Foundation",
+    "CA Intermediate",
+    "CA Final"
+  ],
+  "degree_name": "Chartered Accountant (CA)",
+  "degree_duration_years": 4,
+  "course_cost_lakhs": {
+    "government_college": 3,
+    "private_college": 15
+  },
+  "top_govt_colleges": [
+    "Institute of Chartered Accountants of India (ICAI)",
+    "National Institute of Financial Management (NIFM)",
+    "Indian Institute of Corporate Affairs (IICA)",
+    "National Institute of Securities Markets (NISM)",
+    "Institute of Cost Accountants of India (ICAI)"
+  ],
+  "top_private_colleges": [
+    "ICAI's Regional Councils",
+    "Narsee Monjee Institute of Management Studies (NMIMS)",
+    "Symbiosis International University",
+    "Indian Institute of Technology (IIT) Delhi",
+    "Birla Institute of Technology and Science (BITS) Pilani"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 4,
+    "mid_3_7_years": 10,
+    "senior_8_15_years": 22,
+    "top_earner": 45
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Mumbai",
+      "Delhi",
+      "Bangalore",
+      "Chennai",
+      "Hyderabad"
+    ],
+    "govt_vs_private": "20% govt 80% private",
+    "demand_trend": "growing",
+    "approximate_annual_openings_india": 50000
+  },
+  "career_progression": {
+    "year_0_2": "Initial years involve clearing CA Foundation and CA Intermediate exams, followed by articleship training under a practicing CA.",
+    "year_3_5": "After clearing CA Final, one can start practicing as a CA, taking up audits, tax consulting, and other financial services.",
+    "year_6_10": "With experience, one can move to senior roles, such as partner in a firm, or start their own practice.",
+    "senior_paths": [
+      "Audit Partner",
+      "Tax Consultant",
+      "Financial Advisor",
+      "Business Consultant",
+      "Entrepreneur"
+    ],
+    "entrepreneurship_exit": "A CA can start their own practice, offering services such as auditing, tax consulting, and financial advisory.",
+    "global_pathway": "Chartered Accountants can work abroad in countries like the UK, Australia, and the US, but may need to obtain additional certifications or licenses."
+  },
+  "india_social_context": {
+    "family_acceptance": "very_high",
+    "regional_availability": "national",
+    "first_year_reality": "Starting out as a CA can be challenging, with long working hours and intense competition.",
+    "common_misconceptions": [
+      "CA is only about auditing",
+      "CA is a desk job",
+      "CA is only for commerce students"
+    ]
+  },
+  "force_connections": {}
+}

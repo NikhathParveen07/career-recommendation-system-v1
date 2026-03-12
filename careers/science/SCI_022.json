@@ -1,0 +1,92 @@
+{
+  "career_id": "SCI_022",
+  "title": "Biotechnologist",
+  "stream": "Science",
+  "description": "A Biotechnologist in India typically spends their days conducting experiments, analyzing data, and developing new products or technologies using biological systems. They may work in laboratories, research institutions, or industries such as pharmaceuticals, agriculture, or biotechnology. Their tasks may include designing experiments, collecting and analyzing data, and presenting their findings to colleagues and clients.",
+  "riasec_primary": "Investigative",
+  "riasec_secondary": "Realistic",
+  "riasec_scores": {
+    "Realistic": 60,
+    "Investigative": 80,
+    "Artistic": 20,
+    "Social": 40,
+    "Enterprising": 20,
+    "Conventional": 20
+  },
+  "work_values": [
+    "problem-solving",
+    "scientific discovery",
+    "collaboration",
+    "innovation"
+  ],
+  "eligible_streams": [
+    "Biology",
+    "Chemistry",
+    "Physics"
+  ],
+  "entrance_exams": [
+    "JEE Main",
+    "NEET",
+    "BITSAT"
+  ],
+  "degree_name": "Bachelor of Science in Biotechnology",
+  "degree_duration_years": 4,
+  "course_cost_lakhs": {
+    "government_college": 2,
+    "private_college": 12
+  },
+  "top_govt_colleges": [
+    "Indian Institute of Science",
+    "Banaras Hindu University",
+    "University of Delhi",
+    "Anna University",
+    "University of Hyderabad"
+  ],
+  "top_private_colleges": [
+    "BITS Pilani",
+    "Manipal University",
+    "Vellore Institute of Technology",
+    "Symbiosis International University",
+    "Amity University"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 3,
+    "mid_3_7_years": 8,
+    "senior_8_15_years": 18,
+    "top_earner": 35
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Bangalore",
+      "Mumbai",
+      "Delhi",
+      "Hyderabad",
+      "Chennai"
+    ],
+    "govt_vs_private": "15% govt 85% private",
+    "demand_trend": "growing",
+    "approximate_annual_openings_india": 40000
+  },
+  "career_progression": {
+    "year_0_2": "Typically, a Biotechnologist starts their career in a research laboratory or industry, conducting experiments and analyzing data. They may work on projects related to product development, quality control, or research and development.",
+    "year_3_5": "As they gain experience, Biotechnologists may take on leadership roles, manage projects, or work on more complex research projects. They may also pursue higher education, such as a Master's or Ph.D., to specialize in a particular area.",
+    "year_6_10": "Senior Biotechnologists may move into management positions, oversee research teams, or work on strategic planning. They may also start their own companies or consult for industries.",
+    "senior_paths": [
+      "Research and Development Manager",
+      "Product Development Manager",
+      "Regulatory Affairs Manager"
+    ],
+    "entrepreneurship_exit": "Biotechnologists may start their own companies, such as biotech startups, or consult for industries. They may also work as freelancers or independent contractors.",
+    "global_pathway": "Biotechnologists may work abroad in industries such as pharmaceuticals, agriculture, or biotechnology. They may also work in research institutions or universities."
+  },
+  "india_social_context": {
+    "family_acceptance": "high",
+    "regional_availability": "national",
+    "first_year_reality": "Starting out as a Biotechnologist in India can be challenging, with limited job opportunities and high competition. However, with experience and a strong network, Biotechnologists can build successful careers.",
+    "common_misconceptions": [
+      "Biotechnologists only work in laboratories",
+      "Biotechnologists only work in the biotech industry"
+    ]
+  },
+  "force_connections": {}
+}

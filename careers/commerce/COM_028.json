@@ -1,0 +1,96 @@
+{
+  "career_id": "COM_028",
+  "title": "Healthcare Administrator",
+  "stream": "Commerce",
+  "description": "A healthcare administrator in India is responsible for managing day-to-day operations of hospitals, clinics, and healthcare facilities. They oversee administrative tasks, ensure compliance with regulations, and coordinate with medical staff to provide quality patient care. Their work involves data analysis, budgeting, and strategic planning to improve healthcare services and patient satisfaction.",
+  "riasec_primary": "Conventional",
+  "riasec_secondary": "Enterprising",
+  "riasec_scores": {
+    "Realistic": 4,
+    "Investigative": 3,
+    "Artistic": 2,
+    "Social": 5,
+    "Enterprising": 6,
+    "Conventional": 7
+  },
+  "work_values": [
+    "Job Security",
+    "Financial Stability",
+    "Sense of Accomplishment",
+    "Opportunities for Advancement"
+  ],
+  "eligible_streams": [
+    "Commerce",
+    "Science",
+    "Arts"
+  ],
+  "entrance_exams": [
+    "NEET",
+    "AIIMS",
+    "JIPMER",
+    "AIPMT",
+    "MH CET",
+    "KCET",
+    "COMED-K"
+  ],
+  "degree_name": "Bachelor of Hospital Administration (BHA)",
+  "degree_duration_years": 4,
+  "course_cost_lakhs": {
+    "government_college": 3,
+    "private_college": 15
+  },
+  "top_govt_colleges": [
+    "All India Institute of Medical Sciences (AIIMS)",
+    "Postgraduate Institute of Medical Education and Research (PGIMER)",
+    "National Institute of Health and Family Welfare (NIHFW)",
+    "Indian Institute of Public Health (IIPH)",
+    "Regional Institute of Medical Sciences (RIMS)"
+  ],
+  "top_private_colleges": [
+    "Manipal College of Health Professions",
+    "Symbiosis Institute of Health Sciences",
+    "Amity Institute of Healthcare Management",
+    "CHRIST (Deemed to be University) Institute of Health Sciences",
+    "Birla Institute of Management and Technology"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 4,
+    "mid_3_7_years": 10,
+    "senior_8_15_years": 22,
+    "top_earner": 45
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Mumbai",
+      "Delhi",
+      "Bangalore",
+      "Chennai",
+      "Hyderabad"
+    ],
+    "govt_vs_private": "20% govt 80% private",
+    "demand_trend": "growing",
+    "approximate_annual_openings_india": 50000
+  },
+  "career_progression": {
+    "year_0_2": "Entry-level positions in hospitals, clinics, or healthcare facilities, handling administrative tasks and supporting medical staff.",
+    "year_3_5": "Assistant administrator roles, overseeing departmental operations, and coordinating with medical staff to improve patient care.",
+    "year_6_10": "Senior administrator positions, managing budgets, and implementing strategic plans to improve healthcare services.",
+    "senior_paths": [
+      "Director of Hospital Administration",
+      "Chief Operating Officer (COO) in Healthcare",
+      "Healthcare Consultant"
+    ],
+    "entrepreneurship_exit": "Starting a healthcare consulting firm or a medical billing and coding service.",
+    "global_pathway": "Opportunities for Indians in healthcare administration include working in hospitals and healthcare facilities in the Middle East, Africa, and Southeast Asia."
+  },
+  "india_social_context": {
+    "family_acceptance": "high",
+    "regional_availability": "national",
+    "first_year_reality": "Starting salary is around ₹4-6 lakhs per annum, and it may take 2-3 years to reach ₹10-15 lakhs per annum.",
+    "common_misconceptions": [
+      "Healthcare administration is only for medical professionals.",
+      "It's a low-paying career."
+    ]
+  },
+  "force_connections": {}
+}

@@ -1,0 +1,100 @@
+{
+  "career_id": "COM_024",
+  "title": "Product Manager",
+  "stream": "Commerce",
+  "description": "A Product Manager in India is responsible for defining and delivering products that meet customer needs. They work closely with cross-functional teams to gather market insights, identify product opportunities, and develop product roadmaps. Their day-to-day tasks involve analyzing customer feedback, market trends, and competitor analysis to inform product decisions, collaborating with designers, engineers, and other stakeholders to ensure product quality and timelines, and communicating product vision and strategy to internal and external stakeholders.",
+  "riasec_primary": "Enterprising",
+  "riasec_secondary": "Conventional",
+  "riasec_scores": {
+    "Realistic": 0,
+    "Investigative": 0,
+    "Artistic": 0,
+    "Social": 0,
+    "Enterprising": 8,
+    "Conventional": 6
+  },
+  "work_values": [
+    "Achievement",
+    "Recognition",
+    "Autonomy",
+    "Challenge",
+    "Growth",
+    "Security"
+  ],
+  "eligible_streams": [
+    "Commerce",
+    "Economics",
+    "Business Studies",
+    "Accountancy",
+    "Mathematics",
+    "Statistics"
+  ],
+  "entrance_exams": [
+    "CAT",
+    "XAT",
+    "NMAT",
+    "CMAT",
+    "MAT",
+    "IIFT"
+  ],
+  "degree_name": "Master of Business Administration (MBA)",
+  "degree_duration_years": 2,
+  "course_cost_lakhs": {
+    "government_college": 5,
+    "private_college": 20
+  },
+  "top_govt_colleges": [
+    "Indian Institute of Management (IIM) Ahmedabad",
+    "IIM Bangalore",
+    "IIM Calcutta",
+    "IIM Lucknow",
+    "IIM Kozhikode"
+  ],
+  "top_private_colleges": [
+    "SPJIMR Mumbai",
+    "MDI Gurgaon",
+    "IMT Ghaziabad",
+    "XIMB Bhubaneswar",
+    "TAPMI Manipal"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 6,
+    "mid_3_7_years": 15,
+    "senior_8_15_years": 30,
+    "top_earner": 60
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Mumbai",
+      "Delhi",
+      "Bangalore",
+      "Hyderabad",
+      "Pune"
+    ],
+    "govt_vs_private": "10% govt 90% private",
+    "demand_trend": "growing",
+    "approximate_annual_openings_india": 30000
+  },
+  "career_progression": {
+    "year_0_2": "First 2 years involve working as a Product Manager in a startup or a small company, handling product development, launch, and maintenance. You will be responsible for gathering customer feedback, analyzing market trends, and identifying product opportunities.",
+    "year_3_5": "Years 3 to 5 involve taking on more responsibilities, such as leading cross-functional teams, developing product roadmaps, and communicating product vision to stakeholders. You may also be involved in product launches, marketing campaigns, and business development.",
+    "year_6_10": "Years 6 to 10 involve senior leadership roles, such as Director of Product or VP of Product. You will be responsible for developing and executing product strategies, leading product teams, and driving business growth.",
+    "senior_paths": [
+      "Product Director",
+      "VP of Product",
+      "Head of Product"
+    ],
+    "entrepreneurship_exit": "You can start your own product-based business, leveraging your product management skills to develop and launch new products.",
+    "global_pathway": "You can work as a Product Manager in international companies, such as Google, Amazon, or Microsoft, or start your own product-based business in a foreign country."
+  },
+  "india_social_context": {
+    "family_acceptance": "high",
+    "regional_availability": "national",
+    "first_year_reality": "Starting as a Product Manager in India can be challenging, with long working hours, high expectations, and limited job security.",
+    "common_misconceptions": [
+      "Product Managers are only responsible for product development",
+      "Product Managers do not need to have technical skills"
+    ]
+  },
+  "force_connections": {}
+}

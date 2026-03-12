@@ -1,0 +1,96 @@
+{
+  "career_id": "VOC_024",
+  "title": "Spa Therapist",
+  "stream": "Vocational",
+  "description": "A Spa Therapist in India works in a spa or wellness center, providing various treatments such as massages, facials, and body wraps to clients. They must maintain a clean and hygienic environment, handle client consultations, and work in a team to ensure smooth operations. They may also be required to perform administrative tasks, manage inventory, and maintain records.",
+  "riasec_primary": "Realistic",
+  "riasec_secondary": "Conventional",
+  "riasec_scores": {
+    "Realistic": 8,
+    "Investigative": 2,
+    "Artistic": 1,
+    "Social": 4,
+    "Enterprising": 1,
+    "Conventional": 5
+  },
+  "work_values": [
+    "Creativity",
+    "Variety",
+    "Work-life balance",
+    "Job security",
+    "Personal growth"
+  ],
+  "eligible_streams": [
+    "Commerce",
+    "Science",
+    "Arts",
+    "Vocational"
+  ],
+  "entrance_exams": [
+    "NCHMCT JEE",
+    "IIHM JEE",
+    "AIHMCT WAT",
+    "AIEED",
+    "NIFT Entrance Exam"
+  ],
+  "degree_name": "Diploma in Spa and Wellness",
+  "degree_duration_years": 2,
+  "course_cost_lakhs": {
+    "government_college": 1,
+    "private_college": 8
+  },
+  "top_govt_colleges": [
+    "National Institute of Tourism and Hospitality Management, Hyderabad",
+    "Indian Institute of Hotel Management, Ranchi",
+    "National Council for Hotel Management and Catering Technology, Noida",
+    "Institute of Hotel Management, Aurangabad",
+    "Institute of Hotel Management, Shimla"
+  ],
+  "top_private_colleges": [
+    "ITM Vocational University, Navi Mumbai",
+    "Apeejay Institute of Hospitality, New Delhi",
+    "Institute of Hotel Management, Mumbai",
+    "Sri Sivasubramaniya Nadar College of Hotel Management, Chennai",
+    "Institute of Hotel Management, Kolkata"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 2,
+    "mid_3_7_years": 6,
+    "senior_8_15_years": 18,
+    "top_earner": 35
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Mumbai",
+      "Delhi",
+      "Bangalore",
+      "Chennai",
+      "Hyderabad"
+    ],
+    "govt_vs_private": "15% govt 85% private",
+    "demand_trend": "growing",
+    "approximate_annual_openings_india": 30000
+  },
+  "career_progression": {
+    "year_0_2": "Entry-level positions in spas, hotels, or wellness centers, with basic training and on-the-job experience.",
+    "year_3_5": "Assistant manager or team lead roles in spas or hotels, with additional training and certifications.",
+    "year_6_10": "Senior management positions in spas, hotels, or wellness centers, with extensive experience and leadership skills.",
+    "senior_paths": [
+      "Spa Manager",
+      "Hotel Manager",
+      "Wellness Center Director"
+    ],
+    "entrepreneurship_exit": "Starting a small spa or wellness center, or offering mobile spa services.",
+    "global_pathway": "Opportunities in international hotels, resorts, or spas, with language skills and cultural adaptability."
+  },
+  "india_social_context": {
+    "family_acceptance": "medium",
+    "regional_availability": "national",
+    "first_year_reality": "Initial struggles to find a job, with limited job security and low pay.",
+    "common_misconceptions": [
+      "Spa therapists are only for women",
+      "Spa therapy is a low-skilled profession"
+    ]
+  },
+  "force_connections": {}
+}

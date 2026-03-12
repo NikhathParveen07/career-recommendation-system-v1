@@ -1,0 +1,90 @@
+{
+  "career_id": "ART_004",
+  "title": "Political Scientist",
+  "stream": "Arts",
+  "description": "A Political Scientist in India spends most of their time researching and analyzing data related to politics, conducting surveys, and interviewing people to understand public opinions. They also work closely with policymakers and government officials to provide them with valuable insights and recommendations. Additionally, they may teach at universities or colleges, sharing their knowledge with students and shaping the next generation of thinkers and leaders.",
+  "riasec_primary": "Investigative",
+  "riasec_secondary": "Artistic",
+  "riasec_scores": {
+    "Realistic": 0,
+    "Investigative": 8,
+    "Artistic": 6,
+    "Social": 4,
+    "Enterprising": 2,
+    "Conventional": 0
+  },
+  "work_values": [
+    "Knowledge",
+    "Independence",
+    "Creativity"
+  ],
+  "eligible_streams": [
+    "Arts",
+    "Social Science"
+  ],
+  "entrance_exams": [
+    "UPSC Civil Services Exam",
+    "JNU Entrance Exam",
+    "DU Entrance Exam"
+  ],
+  "degree_name": "Master of Arts in Political Science",
+  "degree_duration_years": 2,
+  "course_cost_lakhs": {
+    "government_college": 2,
+    "private_college": 10
+  },
+  "top_govt_colleges": [
+    "Jawaharlal Nehru University",
+    "University of Delhi",
+    "Banaras Hindu University",
+    "University of Hyderabad",
+    "Tata Institute of Social Sciences"
+  ],
+  "top_private_colleges": [
+    "Christ University",
+    "Symbiosis International University",
+    "Manipal Academy of Higher Education",
+    "Amity University",
+    "Birla Institute of Technology and Science"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 3,
+    "mid_3_7_years": 8,
+    "senior_8_15_years": 18,
+    "top_earner": 35
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "New Delhi",
+      "Mumbai",
+      "Bangalore",
+      "Chennai",
+      "Hyderabad"
+    ],
+    "govt_vs_private": "30% govt 70% private",
+    "demand_trend": "stable",
+    "approximate_annual_openings_india": 30000
+  },
+  "career_progression": {
+    "year_0_2": "Starts as a research assistant or data analyst, working on small projects and assisting senior researchers.",
+    "year_3_5": "Takes on more responsibility, leading small projects and publishing research papers in academic journals.",
+    "year_6_10": "Becomes a senior researcher or policy analyst, working closely with government officials and policymakers.",
+    "senior_paths": [
+      "Academia",
+      "Policy Research",
+      "Government Service"
+    ],
+    "entrepreneurship_exit": "May start a consulting firm or research organization, offering services to government agencies and private companies.",
+    "global_pathway": "Opportunities for international collaboration and research, particularly in the US and Europe, but requires additional education and training."
+  },
+  "india_social_context": {
+    "family_acceptance": "high",
+    "regional_availability": "national",
+    "first_year_reality": "Challenging to find a job immediately after graduation, but opportunities exist in research and policy roles.",
+    "common_misconceptions": [
+      "Political Scientists are only interested in politics",
+      "It's an easy career to get into"
+    ]
+  },
+  "force_connections": {}
+}

@@ -1,0 +1,92 @@
+{
+  "career_id": "VOC_001",
+  "title": "Electrician",
+  "stream": "Vocational",
+  "description": "An electrician in India installs, maintains, and repairs electrical systems in residential, commercial, and industrial settings. They work with various electrical equipment, including wiring, circuits, and electrical panels, ensuring safe and efficient electrical supply. Electricians often work in teams, following safety protocols and adhering to local electrical codes and regulations.",
+  "riasec_primary": "Realistic",
+  "riasec_secondary": "Conventional",
+  "riasec_scores": {
+    "Realistic": 8,
+    "Investigative": 2,
+    "Artistic": 1,
+    "Social": 3,
+    "Enterprising": 2,
+    "Conventional": 4
+  },
+  "work_values": [
+    "Practicality",
+    "Efficiency",
+    "Safety",
+    "Reliability"
+  ],
+  "eligible_streams": [
+    "Vocational",
+    "Engineering",
+    "Science"
+  ],
+  "entrance_exams": [
+    "ITI Entrance Exam",
+    "NCVT Exam",
+    "State-level ITI Entrance Exam"
+  ],
+  "degree_name": "Diploma in Electrical Engineering",
+  "degree_duration_years": 3,
+  "course_cost_lakhs": {
+    "government_college": 1,
+    "private_college": 8
+  },
+  "top_govt_colleges": [
+    "National Institute of Electronics and Information Technology (NIELIT)",
+    "Central Electronics Engineering Research Institute (CEERI)",
+    "National Power Training Institute (NPTI)",
+    "Indian Institute of Technology (IIT) - Electrical Engineering",
+    "National Institute of Technology (NIT) - Electrical Engineering"
+  ],
+  "top_private_colleges": [
+    "Lakshmi Narain College of Technology (LNCT)",
+    "Sagar Institute of Research and Technology (SIRT)",
+    "Rajiv Gandhi Proudyogiki Vishwavidyalaya (RGPV)",
+    "Shri Ram College of Engineering and Management (SRCEM)",
+    "Jagran Institute of Management and Technology (JIMT)"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 3,
+    "mid_3_7_years": 8,
+    "senior_8_15_years": 18,
+    "top_earner": 35
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Mumbai",
+      "Delhi",
+      "Bangalore",
+      "Chennai",
+      "Hyderabad"
+    ],
+    "govt_vs_private": "40% govt 60% private",
+    "demand_trend": "stable",
+    "approximate_annual_openings_india": 30000
+  },
+  "career_progression": {
+    "year_0_2": "Assist experienced electricians, learn electrical codes and regulations, and develop basic electrical skills.",
+    "year_3_5": "Work independently on small projects, develop troubleshooting skills, and take on more responsibility.",
+    "year_6_10": "Lead teams, design and implement electrical systems, and oversee project execution.",
+    "senior_paths": [
+      "Electrical Engineer",
+      "Electrical Inspector",
+      "Electrical Consultant"
+    ],
+    "entrepreneurship_exit": "Start an electrical contracting business, offer electrical services to residential and commercial clients.",
+    "global_pathway": "Work in international companies, participate in electrical projects abroad, or pursue higher education in electrical engineering."
+  },
+  "india_social_context": {
+    "family_acceptance": "high",
+    "regional_availability": "national",
+    "first_year_reality": "Starting salary is low, but opportunities for growth and advancement are available.",
+    "common_misconceptions": [
+      "Electricians do not need formal education.",
+      "Electricians work only in construction sites."
+    ]
+  },
+  "force_connections": {}
+}

@@ -1,0 +1,91 @@
+{
+  "career_id": "SCI_007",
+  "title": "Aerospace Engineer",
+  "stream": "Science",
+  "description": "An Aerospace Engineer in India designs, develops, and tests aircraft, spacecraft, and missiles. They work on aerodynamics, propulsion systems, and structural analysis. Their day involves simulations, model testing, and collaboration with teams to meet project deadlines and safety standards.",
+  "riasec_primary": "Realistic",
+  "riasec_secondary": "Investigative",
+  "riasec_scores": {
+    "Realistic": 8,
+    "Investigative": 7,
+    "Artistic": 2,
+    "Social": 1,
+    "Enterprising": 1,
+    "Conventional": 1
+  },
+  "work_values": [
+    "problem-solving",
+    "technical expertise",
+    "innovation"
+  ],
+  "eligible_streams": [
+    "Physics, Chemistry, Mathematics (PCM)",
+    "Physics, Chemistry, Biology (PCB)"
+  ],
+  "entrance_exams": [
+    "JEE Main",
+    "JEE Advanced",
+    "BITSAT",
+    "AEEE"
+  ],
+  "degree_name": "Bachelor of Engineering in Aerospace Engineering",
+  "degree_duration_years": 4,
+  "course_cost_lakhs": {
+    "government_college": 3,
+    "private_college": 15
+  },
+  "top_govt_colleges": [
+    "Indian Institute of Technology (IIT) Bombay",
+    "Indian Institute of Technology (IIT) Madras",
+    "National Institute of Technology (NIT) Trichy",
+    "Indian Institute of Technology (IIT) Kanpur",
+    "Indian Institute of Technology (IIT) Delhi"
+  ],
+  "top_private_colleges": [
+    "Birla Institute of Technology and Science (BITS) Pilani",
+    "Amrita Vishwa Vidyapeetham",
+    "Vellore Institute of Technology (VIT)",
+    "Sri Sivasubramaniya Nadar College of Engineering (SSNCE)",
+    "PSG College of Technology"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 4,
+    "mid_3_7_years": 10,
+    "senior_8_15_years": 22,
+    "top_earner": 45
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Bangalore",
+      "Mumbai",
+      "Chennai",
+      "Hyderabad",
+      "Pune"
+    ],
+    "govt_vs_private": "20% govt 80% private",
+    "demand_trend": "growing",
+    "approximate_annual_openings_india": 50000
+  },
+  "career_progression": {
+    "year_0_2": "Internships, project work, and basic design tasks under supervision.",
+    "year_3_5": "Design and development of aircraft components, systems, and prototypes.",
+    "year_6_10": "Leadership roles in project teams, system integration, and testing.",
+    "senior_paths": [
+      "Project Manager",
+      "Design Lead",
+      "Test Engineer"
+    ],
+    "entrepreneurship_exit": "Starting a company focused on aerospace innovation, such as drone technology or satellite manufacturing.",
+    "global_pathway": "Opportunities in the US, Europe, and the Middle East for Indians with relevant experience and skills."
+  },
+  "india_social_context": {
+    "family_acceptance": "high",
+    "regional_availability": "national",
+    "first_year_reality": "Challenging to find internships and projects, but opportunities exist in major cities.",
+    "common_misconceptions": [
+      "Aerospace engineering is only about designing aircraft.",
+      "Aerospace engineers only work in the defense sector."
+    ]
+  },
+  "force_connections": {}
+}

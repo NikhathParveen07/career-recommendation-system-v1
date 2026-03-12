@@ -1,0 +1,97 @@
+{
+  "career_id": "ART_010",
+  "title": "Film Media Professional",
+  "stream": "Arts",
+  "description": "A Film Media Professional in India works on film sets, edits videos, creates content for social media, and writes scripts. They often work long hours, face rejection, and deal with tight deadlines. They must be creative, adaptable, and have excellent communication skills to succeed in this field.",
+  "riasec_primary": "Artistic",
+  "riasec_secondary": "Social",
+  "riasec_scores": {
+    "Realistic": 2,
+    "Investigative": 3,
+    "Artistic": 8,
+    "Social": 4,
+    "Enterprising": 1,
+    "Conventional": 2
+  },
+  "work_values": [
+    "Creativity",
+    "Self-expression",
+    "Recognition",
+    "Helping others",
+    "Independence"
+  ],
+  "eligible_streams": [
+    "Arts",
+    "Humanities",
+    "Social Sciences"
+  ],
+  "entrance_exams": [
+    "FTII Entrance Exam",
+    "NID Entrance Exam",
+    "AIESEC Entrance Exam",
+    "MAAC Entrance Exam",
+    "XAT Entrance Exam"
+  ],
+  "degree_name": "Bachelor of Arts in Mass Communications",
+  "degree_duration_years": 4,
+  "course_cost_lakhs": {
+    "government_college": 2,
+    "private_college": 12
+  },
+  "top_govt_colleges": [
+    "FTII Pune",
+    "Jamia Millia Islamia New Delhi",
+    "University of Hyderabad",
+    "University of Delhi",
+    "Madras University Chennai"
+  ],
+  "top_private_colleges": [
+    "MAAC Mumbai",
+    "AIESEC Delhi",
+    "XAT Mumbai",
+    "NID Ahmedabad",
+    "Whistling Woods International Mumbai"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 3,
+    "mid_3_7_years": 8,
+    "senior_8_15_years": 18,
+    "top_earner": 35
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Mumbai",
+      "Delhi",
+      "Bangalore",
+      "Chennai",
+      "Kolkata"
+    ],
+    "govt_vs_private": "10% govt 90% private",
+    "demand_trend": "growing",
+    "approximate_annual_openings_india": 40000
+  },
+  "career_progression": {
+    "year_0_2": "Assistants, interns, and entry-level positions in film production, editing, and content creation.",
+    "year_3_5": "Mid-level positions in film production, editing, and content creation, with some experience and skills.",
+    "year_6_10": "Senior positions in film production, editing, and content creation, with significant experience and skills.",
+    "senior_paths": [
+      "Film Director",
+      "Content Creator",
+      "Film Editor",
+      "Producer",
+      "Screenwriter"
+    ],
+    "entrepreneurship_exit": "Starting a production company, creating a YouTube channel, or launching a content creation business.",
+    "global_pathway": "Opportunities in film production, editing, and content creation in the US, UK, and other countries, but requires significant experience and skills."
+  },
+  "india_social_context": {
+    "family_acceptance": "medium",
+    "regional_availability": "national",
+    "first_year_reality": "Starting out in India can be challenging, with many aspiring film professionals facing rejection and long hours.",
+    "common_misconceptions": [
+      "Film professionals are always rich and famous",
+      "Film production is a glamorous and exciting career"
+    ]
+  },
+  "force_connections": {}
+}

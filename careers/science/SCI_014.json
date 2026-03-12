@@ -1,0 +1,90 @@
+{
+  "career_id": "SCI_014",
+  "title": "Environmental Engineer",
+  "stream": "Science",
+  "description": "Environmental Engineers in India work on designing and implementing solutions to reduce pollution and waste. They conduct site assessments, develop environmental impact statements, and oversee the implementation of environmental regulations. They often work with government agencies, private companies, and non-profit organizations to develop and enforce environmental policies and regulations.",
+  "riasec_primary": "Realistic",
+  "riasec_secondary": "Investigative",
+  "riasec_scores": {
+    "Realistic": 8,
+    "Investigative": 6,
+    "Artistic": 2,
+    "Social": 3,
+    "Enterprising": 4,
+    "Conventional": 5
+  },
+  "work_values": [
+    "Job Security",
+    "Sense of Accomplishment",
+    "Work-Life Balance"
+  ],
+  "eligible_streams": [
+    "Physics, Chemistry, Biology",
+    "Physics, Chemistry, Mathematics"
+  ],
+  "entrance_exams": [
+    "JEE Main",
+    "GATE",
+    "UCEED"
+  ],
+  "degree_name": "Bachelor of Technology in Environmental Engineering",
+  "degree_duration_years": 4,
+  "course_cost_lakhs": {
+    "government_college": 3,
+    "private_college": 15
+  },
+  "top_govt_colleges": [
+    "Indian Institute of Technology (IIT) Bombay",
+    "Indian Institute of Technology (IIT) Delhi",
+    "National Institute of Technology (NIT) Trichy",
+    "Indian Institute of Technology (IIT) Madras",
+    "Indian Institute of Technology (IIT) Kanpur"
+  ],
+  "top_private_colleges": [
+    "Vellore Institute of Technology (VIT)",
+    "Birla Institute of Technology and Science (BITS) Pilani",
+    "Amity University",
+    "Symbiosis International University",
+    "Thapar Institute of Engineering and Technology"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 4,
+    "mid_3_7_years": 10,
+    "senior_8_15_years": 22,
+    "top_earner": 45
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Mumbai",
+      "Delhi",
+      "Bangalore",
+      "Chennai",
+      "Hyderabad"
+    ],
+    "govt_vs_private": "20% govt 80% private",
+    "demand_trend": "growing",
+    "approximate_annual_openings_india": 50000
+  },
+  "career_progression": {
+    "year_0_2": "Assist in conducting site assessments and developing environmental impact statements. Work under the supervision of senior engineers.",
+    "year_3_5": "Lead site assessments and develop environmental impact statements. Oversee the implementation of environmental regulations.",
+    "year_6_10": "Develop and implement environmental policies and regulations. Lead teams of engineers and technicians.",
+    "senior_paths": [
+      "Environmental Consultant",
+      "Environmental Policy Maker",
+      "Sustainability Specialist"
+    ],
+    "entrepreneurship_exit": "Start a business providing environmental consulting services or developing sustainable products.",
+    "global_pathway": "Work with international organizations or companies in countries with strong environmental regulations, such as the US or EU."
+  },
+  "india_social_context": {
+    "family_acceptance": "high",
+    "regional_availability": "national",
+    "first_year_reality": "Starting salary is around ₹4-5 lakhs per annum. Working hours are long, and the job can be stressful.",
+    "common_misconceptions": [
+      "Environmental Engineers only work outdoors.",
+      "Environmental Engineers only work for government agencies."
+    ]
+  },
+  "force_connections": {}
+}

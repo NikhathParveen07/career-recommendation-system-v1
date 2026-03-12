@@ -1,0 +1,90 @@
+{
+  "career_id": "ART_006",
+  "title": "Journalist",
+  "stream": "Arts",
+  "description": "A journalist in India researches and writes news stories for publication or broadcast, conducts interviews with sources, and meets deadlines to deliver high-quality content. They work in a fast-paced environment, often under pressure to break stories and meet tight deadlines. Journalists may specialize in areas like politics, sports, entertainment, or investigative reporting, and may work for newspapers, magazines, online news sites, or television stations.",
+  "riasec_primary": "Artistic",
+  "riasec_secondary": "Social",
+  "riasec_scores": {
+    "Realistic": 2,
+    "Investigative": 6,
+    "Artistic": 8,
+    "Social": 7,
+    "Enterprising": 5,
+    "Conventional": 3
+  },
+  "work_values": [
+    "Creativity",
+    "Independence",
+    "Variety"
+  ],
+  "eligible_streams": [
+    "Arts",
+    "Commerce",
+    "Science"
+  ],
+  "entrance_exams": [
+    "IIMC Entrance Exam",
+    "ACJ Entrance Exam",
+    "XIC OET"
+  ],
+  "degree_name": "Bachelor of Journalism and Mass Communication (BJMC)",
+  "degree_duration_years": 3,
+  "course_cost_lakhs": {
+    "government_college": 1.5,
+    "private_college": 8
+  },
+  "top_govt_colleges": [
+    "Indian Institute of Mass Communication (IIMC)",
+    "Jamia Millia Islamia",
+    "University of Delhi",
+    "Mumbai University",
+    "Pune University"
+  ],
+  "top_private_colleges": [
+    "Asian College of Journalism (ACJ)",
+    "Xavier Institute of Communications (XIC)",
+    "Symbiosis Institute of Media and Communication (SIMC)",
+    "Manipal Institute of Communication (MIC)",
+    "Indian Institute of Journalism and New Media (IIJNM)"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 3.5,
+    "mid_3_7_years": 8,
+    "senior_8_15_years": 18,
+    "top_earner": 35
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Delhi",
+      "Mumbai",
+      "Bangalore",
+      "Kolkata"
+    ],
+    "govt_vs_private": "10% govt 90% private",
+    "demand_trend": "stable",
+    "approximate_annual_openings_india": 30000
+  },
+  "career_progression": {
+    "year_0_2": "Junior reporter or sub-editor, learning the ropes and building a portfolio",
+    "year_3_5": "Senior reporter or feature writer, taking on more responsibility and developing a specialization",
+    "year_6_10": "Editor or senior editor, leading a team and shaping the editorial direction of a publication",
+    "senior_paths": [
+      "Editor-in-Chief",
+      "News Anchor",
+      "Media Consultant"
+    ],
+    "entrepreneurship_exit": "Starting a niche online publication or podcast, or offering freelance writing and editing services",
+    "global_pathway": "Working as a foreign correspondent for an Indian publication, or joining an international news organization"
+  },
+  "india_social_context": {
+    "family_acceptance": "high",
+    "regional_availability": "national",
+    "first_year_reality": "Long hours, low pay, and high stress, with a need to constantly produce high-quality content",
+    "common_misconceptions": [
+      "Journalism is a glamorous profession",
+      "Journalists are always in the field, reporting live"
+    ]
+  },
+  "force_connections": {}
+}

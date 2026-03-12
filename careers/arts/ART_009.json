@@ -1,0 +1,97 @@
+{
+  "career_id": "ART_009",
+  "title": "Advertising Professional",
+  "stream": "Arts",
+  "description": "An Advertising Professional in India spends most of their day conceptualizing and creating advertisements for various clients, managing campaigns, and collaborating with teams to meet deadlines and client expectations. They work closely with designers, writers, and other creatives to develop engaging content for different media platforms. Additionally, they analyze market trends, consumer behavior, and competitor strategies to stay ahead in the industry.",
+  "riasec_primary": "Artistic",
+  "riasec_secondary": "Social",
+  "riasec_scores": {
+    "Realistic": 0,
+    "Investigative": 0,
+    "Artistic": 8,
+    "Social": 6,
+    "Enterprising": 4,
+    "Conventional": 2
+  },
+  "work_values": [
+    "Creativity",
+    "Self-expression",
+    "Recognition",
+    "Collaboration",
+    "Flexibility"
+  ],
+  "eligible_streams": [
+    "Arts",
+    "Commerce",
+    "Humanities"
+  ],
+  "entrance_exams": [
+    "NIFT Entrance Exam",
+    "NID Entrance Exam",
+    "UCEED Entrance Exam",
+    "AIEED Entrance Exam",
+    "GD Arts Entrance Exam"
+  ],
+  "degree_name": "Bachelor of Design in Advertising",
+  "degree_duration_years": 4,
+  "course_cost_lakhs": {
+    "government_college": 2,
+    "private_college": 12
+  },
+  "top_govt_colleges": [
+    "National Institute of Design (NID)",
+    "National Institute of Fashion Technology (NIFT)",
+    "Indian Institute of Art and Design (IIAD)",
+    "School of Advertising and Public Relations (SAPR)",
+    "Indian Institute of Technology (IIT) - Design Program"
+  ],
+  "top_private_colleges": [
+    "Srishti Institute of Art, Design and Technology",
+    "Apeejay Institute of Design",
+    "Ansal Institute of Technology",
+    "Institute of Design and Innovation (IDI)",
+    "Raffles Design International"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 3,
+    "mid_3_7_years": 8,
+    "senior_8_15_years": 18,
+    "top_earner": 35
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Mumbai",
+      "Delhi",
+      "Bangalore",
+      "Chennai",
+      "Kolkata"
+    ],
+    "govt_vs_private": "10% govt 90% private",
+    "demand_trend": "growing",
+    "approximate_annual_openings_india": 40000
+  },
+  "career_progression": {
+    "year_0_2": "Assistants in advertising agencies, handling small projects and learning from seniors.",
+    "year_3_5": "Junior creatives, working on mid-sized campaigns and developing their skills in copywriting, art direction, and strategy.",
+    "year_6_10": "Senior creatives, leading teams and handling large-scale campaigns, with a focus on innovation and results.",
+    "senior_paths": [
+      "Creative Director",
+      "Account Director",
+      "Media Planner",
+      "Brand Manager",
+      "Digital Marketing Specialist"
+    ],
+    "entrepreneurship_exit": "Starting a boutique advertising agency or a digital marketing firm, leveraging their expertise and network.",
+    "global_pathway": "Opportunities in international advertising agencies, particularly in the Middle East, Southeast Asia, and the US, with a focus on global brands and campaigns."
+  },
+  "india_social_context": {
+    "family_acceptance": "medium",
+    "regional_availability": "national",
+    "first_year_reality": "Starting salary is low, and the industry is highly competitive, with long working hours and tight deadlines.",
+    "common_misconceptions": [
+      "Advertising is all about creativity, but it's also about strategy and data analysis.",
+      "Advertising is a glamorous field, but it requires hard work and dedication."
+    ]
+  },
+  "force_connections": {}
+}

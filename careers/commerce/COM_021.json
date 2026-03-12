@@ -1,0 +1,100 @@
+{
+  "career_id": "COM_021",
+  "title": "Fintech Professional",
+  "stream": "Commerce",
+  "description": "A Fintech Professional in India works on developing and implementing financial technology solutions, such as mobile payments, digital wallets, and online lending platforms. They collaborate with cross-functional teams to design, test, and launch new products, and ensure compliance with regulatory requirements. They also analyze customer data to identify trends and opportunities for growth, and develop strategies to improve customer engagement and retention.",
+  "riasec_primary": "Enterprising",
+  "riasec_secondary": "Conventional",
+  "riasec_scores": {
+    "Realistic": 6,
+    "Investigative": 4,
+    "Artistic": 2,
+    "Social": 3,
+    "Enterprising": 8,
+    "Conventional": 7
+  },
+  "work_values": [
+    "Achievement",
+    "Recognition",
+    "Autonomy",
+    "Challenge",
+    "Security",
+    "Stability"
+  ],
+  "eligible_streams": [
+    "Commerce",
+    "Economics",
+    "Business Studies",
+    "Accountancy",
+    "Mathematics",
+    "Statistics"
+  ],
+  "entrance_exams": [
+    "CAT",
+    "XAT",
+    "CMAT",
+    "MAT",
+    "NMAT",
+    "IIFT"
+  ],
+  "degree_name": "Master of Business Administration (MBA) in Finance",
+  "degree_duration_years": 2,
+  "course_cost_lakhs": {
+    "government_college": 1,
+    "private_college": 8
+  },
+  "top_govt_colleges": [
+    "Indian Institute of Management (IIM) Ahmedabad",
+    "IIM Bangalore",
+    "IIM Calcutta",
+    "IIM Lucknow",
+    "IIM Kozhikode"
+  ],
+  "top_private_colleges": [
+    "SPJIMR Mumbai",
+    "MDI Gurgaon",
+    "IMT Ghaziabad",
+    "Narsee Monjee Institute of Management Studies (NMIMS) Mumbai",
+    "Great Lakes Institute of Management Chennai"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 3.5,
+    "mid_3_7_years": 8,
+    "senior_8_15_years": 18,
+    "top_earner": 35
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Mumbai",
+      "Delhi",
+      "Bangalore",
+      "Hyderabad",
+      "Pune"
+    ],
+    "govt_vs_private": "10% govt 90% private",
+    "demand_trend": "growing",
+    "approximate_annual_openings_india": 30000
+  },
+  "career_progression": {
+    "year_0_2": "Entry-level roles in fintech companies, such as data analyst or business analyst, with a salary range of ₹3-6 lakhs per annum.",
+    "year_3_5": "Mid-level roles in fintech companies, such as product manager or technical lead, with a salary range of ₹10-20 lakhs per annum.",
+    "year_6_10": "Senior-level roles in fintech companies, such as director or head of department, with a salary range of ₹25-50 lakhs per annum.",
+    "senior_paths": [
+      "Product Management",
+      "Technical Leadership",
+      "Business Development"
+    ],
+    "entrepreneurship_exit": "Fintech professionals can start their own fintech companies, leveraging their expertise and network to develop innovative solutions.",
+    "global_pathway": "Fintech professionals can work with international fintech companies or startups, or even move to countries like the US, UK, or Singapore for better opportunities."
+  },
+  "india_social_context": {
+    "family_acceptance": "high",
+    "regional_availability": "national",
+    "first_year_reality": "Fintech professionals often face intense competition and long working hours, especially in entry-level roles.",
+    "common_misconceptions": [
+      "Fintech is a new field, so there are no established career paths.",
+      "Fintech professionals only work on technical aspects, not business or management."
+    ]
+  },
+  "force_connections": {}
+}

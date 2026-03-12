@@ -1,0 +1,92 @@
+{
+  "career_id": "ART_017",
+  "title": "Game Designer",
+  "stream": "Arts",
+  "description": "A Game Designer in India typically spends their days conceptualizing and developing game mechanics, designing user interfaces, and collaborating with cross-functional teams to create engaging gaming experiences. They work closely with artists, programmers, and producers to ensure that the game meets the desired quality and timeline. In India, Game Designers often work on a project basis, with varying levels of autonomy and responsibility.",
+  "riasec_primary": "Artistic",
+  "riasec_secondary": "Enterprising",
+  "riasec_scores": {
+    "Realistic": 2,
+    "Investigative": 3,
+    "Artistic": 8,
+    "Social": 1,
+    "Enterprising": 5,
+    "Conventional": 1
+  },
+  "work_values": [
+    "Creativity",
+    "Innovation",
+    "Collaboration"
+  ],
+  "eligible_streams": [
+    "Arts",
+    "Design",
+    "Computer Science"
+  ],
+  "entrance_exams": [
+    "NID",
+    "NIFT",
+    "UCEED",
+    "JEE Main"
+  ],
+  "degree_name": "Bachelor of Design in Game Design",
+  "degree_duration_years": 4,
+  "course_cost_lakhs": {
+    "government_college": 3,
+    "private_college": 15
+  },
+  "top_govt_colleges": [
+    "National Institute of Design (NID)",
+    "Indian Institute of Technology (IIT) Bombay",
+    "National Institute of Fashion Technology (NIFT)",
+    "Indian Institute of Technology (IIT) Delhi",
+    "National Institute of Design (NID) Ahmedabad"
+  ],
+  "top_private_colleges": [
+    "Symbiosis Institute of Design",
+    "MIT Institute of Design",
+    "Raffles Design International",
+    "Pearl Academy",
+    "Apeejay Institute of Design"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 3.5,
+    "mid_3_7_years": 8,
+    "senior_8_15_years": 18,
+    "top_earner": 35
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Mumbai",
+      "Bangalore",
+      "Hyderabad",
+      "Pune",
+      "Chennai"
+    ],
+    "govt_vs_private": "10% govt 90% private",
+    "demand_trend": "growing",
+    "approximate_annual_openings_india": 30000
+  },
+  "career_progression": {
+    "year_0_2": "Assist in game development, learn from experienced designers, and participate in project meetings.",
+    "year_3_5": "Take on more responsibility, lead smaller projects, and develop game design skills.",
+    "year_6_10": "Lead large-scale projects, mentor junior designers, and contribute to game design strategy.",
+    "senior_paths": [
+      "Game Design Lead",
+      "Creative Director",
+      "Game Development Manager"
+    ],
+    "entrepreneurship_exit": "Start a game development studio or create and sell game design assets.",
+    "global_pathway": "Opportunities exist in the US, UK, and Singapore for Indians with experience in game design."
+  },
+  "india_social_context": {
+    "family_acceptance": "medium",
+    "regional_availability": "national",
+    "first_year_reality": "Starting salary is low, and work hours can be long.",
+    "common_misconceptions": [
+      "Game designers only work on games",
+      "Game designers are not creative"
+    ]
+  },
+  "force_connections": {}
+}

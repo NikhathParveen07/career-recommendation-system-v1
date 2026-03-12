@@ -1,0 +1,98 @@
+{
+  "career_id": "VOC_025",
+  "title": "Cook Kitchen Professional",
+  "stream": "Vocational",
+  "description": "A Cook Kitchen Professional in India works in commercial kitchens, preparing and cooking meals for large groups of people. They follow recipes, manage inventory, and maintain kitchen hygiene. They may work in hotels, restaurants, or catering services, often working long hours, including nights and weekends.",
+  "riasec_primary": "Realistic",
+  "riasec_secondary": "Conventional",
+  "riasec_scores": {
+    "Realistic": 8,
+    "Investigative": 2,
+    "Artistic": 1,
+    "Social": 3,
+    "Enterprising": 1,
+    "Conventional": 5
+  },
+  "work_values": [
+    "Practicality",
+    "Efficiency",
+    "Order",
+    "Tradition",
+    "Security"
+  ],
+  "eligible_streams": [
+    "Hotel Management",
+    "Catering Technology",
+    "Food Technology",
+    "Vocational Course in Cookery",
+    "Food and Beverage Service Management"
+  ],
+  "entrance_exams": [
+    "NCHMCT JEE",
+    "DTE Maharashtra Hotel Management Entrance Exam",
+    "UPSEE Hotel Management Entrance Exam",
+    "Haryana Hotel Management Entrance Exam",
+    "KEAM Hotel Management Entrance Exam"
+  ],
+  "degree_name": "Diploma in Cookery",
+  "degree_duration_years": 2,
+  "course_cost_lakhs": {
+    "government_college": 2,
+    "private_college": 8
+  },
+  "top_govt_colleges": [
+    "Institute of Hotel Management, Aurangabad",
+    "Institute of Hotel Management, Bhopal",
+    "Institute of Hotel Management, Chennai",
+    "Institute of Hotel Management, Delhi",
+    "Institute of Hotel Management, Mumbai"
+  ],
+  "top_private_colleges": [
+    "Institute of Hotel Management, Bangalore",
+    "Institute of Hotel Management, Chandigarh",
+    "Institute of Hotel Management, Hyderabad",
+    "Institute of Hotel Management, Kolkata",
+    "Institute of Hotel Management, Pune"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 3,
+    "mid_3_7_years": 6,
+    "senior_8_15_years": 12,
+    "top_earner": 25
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Mumbai",
+      "Delhi",
+      "Bangalore",
+      "Chennai",
+      "Hyderabad"
+    ],
+    "govt_vs_private": "30% govt 70% private",
+    "demand_trend": "stable",
+    "approximate_annual_openings_india": 30000
+  },
+  "career_progression": {
+    "year_0_2": "Starting as a junior cook, assisting senior chefs, and learning kitchen operations.",
+    "year_3_5": "Moving to a senior cook position, taking charge of kitchen sections, and managing inventory.",
+    "year_6_10": "Becoming a chef de partie, overseeing kitchen operations, and mentoring junior staff.",
+    "senior_paths": [
+      "Executive Chef",
+      "Kitchen Manager",
+      "Food Safety Officer"
+    ],
+    "entrepreneurship_exit": "Starting a small catering business or food truck, leveraging culinary skills and network.",
+    "global_pathway": "Working in international hotels, restaurants, or cruise ships, with opportunities in the Middle East, Europe, and the Americas."
+  },
+  "india_social_context": {
+    "family_acceptance": "high",
+    "regional_availability": "national",
+    "first_year_reality": "Long working hours, physical demands, and initial struggles to adapt to kitchen environment.",
+    "common_misconceptions": [
+      "Cooking is an easy job",
+      "Anyone can become a chef",
+      "Kitchen work is only for men"
+    ]
+  },
+  "force_connections": {}
+}

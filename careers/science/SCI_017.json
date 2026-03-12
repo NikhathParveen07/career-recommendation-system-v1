@@ -1,0 +1,91 @@
+{
+  "career_id": "SCI_017",
+  "title": "Dentist BDS",
+  "stream": "Science",
+  "description": "A dentist in India performs routine dental check-ups, fills cavities, extracts teeth, and provides dental hygiene advice to patients. They work in clinics, hospitals, and private practices, often working long hours and dealing with anxious patients. Dentists in India may also be involved in teaching and research at dental colleges or universities.",
+  "riasec_primary": "Realistic",
+  "riasec_secondary": "Conventional",
+  "riasec_scores": {
+    "Realistic": 8,
+    "Investigative": 2,
+    "Artistic": 1,
+    "Social": 3,
+    "Enterprising": 1,
+    "Conventional": 5
+  },
+  "work_values": [
+    "Helping Others",
+    "Sense of Accomplishment",
+    "Job Security"
+  ],
+  "eligible_streams": [
+    "PCB",
+    "PCMB",
+    "PCME"
+  ],
+  "entrance_exams": [
+    "NEET",
+    "AIIMS MBBS",
+    "JIPMER MBBS"
+  ],
+  "degree_name": "Bachelor of Dental Surgery (BDS)",
+  "degree_duration_years": 4,
+  "course_cost_lakhs": {
+    "government_college": 3,
+    "private_college": 15
+  },
+  "top_govt_colleges": [
+    "Maulana Azad Institute of Dental Sciences",
+    "Dr. R Ahmed Dental College",
+    "Government Dental College and Hospital",
+    "Government Dental College and Hospital, Nagpur",
+    "Government Dental College, Mumbai"
+  ],
+  "top_private_colleges": [
+    "Manipal College of Dental Sciences",
+    "Sri Ramachandra Dental College and Hospital",
+    "Saveetha Dental College",
+    "SRM Dental College",
+    "Bharati Vidyapeeth Dental College"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 4,
+    "mid_3_7_years": 10,
+    "senior_8_15_years": 22,
+    "top_earner": 45
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Mumbai",
+      "Delhi",
+      "Bangalore",
+      "Chennai",
+      "Hyderabad"
+    ],
+    "govt_vs_private": "20% govt 80% private",
+    "demand_trend": "growing",
+    "approximate_annual_openings_india": 50000
+  },
+  "career_progression": {
+    "year_0_2": "After completing BDS, dentists in India typically work as junior residents in hospitals or clinics for 2 years, gaining hands-on experience and learning from senior dentists.",
+    "year_3_5": "After completing their residency, dentists can work as private practitioners or join government hospitals as assistant professors or lecturers.",
+    "year_6_10": "With experience, dentists can move to senior positions, such as department heads or professors in dental colleges, or start their own clinics.",
+    "senior_paths": [
+      "Dental Research",
+      "Dental Education",
+      "Dental Administration"
+    ],
+    "entrepreneurship_exit": "Dentists can start their own clinics or dental chains, or invest in dental-related businesses.",
+    "global_pathway": "Dentists can pursue postgraduate degrees in dental specialties like orthodontics, pediatric dentistry, or oral surgery, or work in international organizations like the World Health Organization."
+  },
+  "india_social_context": {
+    "family_acceptance": "very_high",
+    "regional_availability": "national",
+    "first_year_reality": "Starting out as a dentist in India can be challenging, with long working hours, high patient expectations, and limited resources in some government hospitals.",
+    "common_misconceptions": [
+      "Dentists are rich and successful",
+      "Dentistry is an easy career"
+    ]
+  },
+  "force_connections": {}
+}

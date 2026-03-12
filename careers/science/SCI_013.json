@@ -1,0 +1,91 @@
+{
+  "career_id": "SCI_013",
+  "title": "Biomedical Engineer",
+  "stream": "Science",
+  "description": "Biomedical Engineers in India design and develop medical equipment, implants, and devices. They work on testing, validating, and improving existing products. Their daily tasks involve collaborating with medical professionals, analyzing data, and ensuring compliance with regulatory standards.",
+  "riasec_primary": "Realistic",
+  "riasec_secondary": "Investigative",
+  "riasec_scores": {
+    "Realistic": 8,
+    "Investigative": 7,
+    "Artistic": 2,
+    "Social": 1,
+    "Enterprising": 1,
+    "Conventional": 1
+  },
+  "work_values": [
+    "problem-solving",
+    "innovation",
+    "teamwork"
+  ],
+  "eligible_streams": [
+    "Biology",
+    "Chemistry",
+    "Physics"
+  ],
+  "entrance_exams": [
+    "JEE Main",
+    "NEET",
+    "BITSAT"
+  ],
+  "degree_name": "Bachelor of Engineering in Biomedical Engineering",
+  "degree_duration_years": 4,
+  "course_cost_lakhs": {
+    "government_college": 2,
+    "private_college": 12
+  },
+  "top_govt_colleges": [
+    "National Institute of Technology (NIT) Warangal",
+    "Indian Institute of Technology (IIT) Roorkee",
+    "National Institute of Technology (NIT) Trichy",
+    "Indian Institute of Technology (IIT) Guwahati",
+    "National Institute of Technology (NIT) Calicut"
+  ],
+  "top_private_colleges": [
+    "BITS Pilani",
+    "Vellore Institute of Technology (VIT)",
+    "Sri Sivasubramaniya Nadar College of Engineering (SSN)",
+    "Amrita Vishwa Vidyapeetham",
+    "Birla Institute of Technology (BIT) Mesra"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 3.5,
+    "mid_3_7_years": 8,
+    "senior_8_15_years": 18,
+    "top_earner": 35
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Bangalore",
+      "Mumbai",
+      "Hyderabad",
+      "Pune",
+      "Chennai"
+    ],
+    "govt_vs_private": "15% govt 85% private",
+    "demand_trend": "growing",
+    "approximate_annual_openings_india": 40000
+  },
+  "career_progression": {
+    "year_0_2": "Assist in designing and testing medical devices, work under supervision, and gain hands-on experience.",
+    "year_3_5": "Take on more responsibility, lead projects, and develop expertise in specific areas like biomechanics or biomaterials.",
+    "year_6_10": "Move into leadership roles, manage teams, and contribute to the development of new medical technologies.",
+    "senior_paths": [
+      "Research and Development",
+      "Product Management",
+      "Clinical Engineering"
+    ],
+    "entrepreneurship_exit": "Start a medical device manufacturing company or a healthcare technology firm.",
+    "global_pathway": "Pursue a master's degree in biomedical engineering from a foreign university or work for a multinational company with operations in India."
+  },
+  "india_social_context": {
+    "family_acceptance": "high",
+    "regional_availability": "national",
+    "first_year_reality": "Initial years can be challenging, with long working hours and limited job security.",
+    "common_misconceptions": [
+      "Biomedical Engineers only work in hospitals.",
+      "Biomedical Engineering is a highly lucrative career."
+    ]
+  },
+  "force_connections": {}
+}

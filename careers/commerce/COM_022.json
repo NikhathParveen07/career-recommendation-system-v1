@@ -1,0 +1,98 @@
+{
+  "career_id": "COM_022",
+  "title": "Ecommerce Manager",
+  "stream": "Commerce",
+  "description": "An Ecommerce Manager in India is responsible for overseeing the online store's operations, managing inventory, handling customer service, and analyzing sales data to optimize the business. They work closely with the marketing team to create and execute digital marketing campaigns. In a typical day, they spend most of their time analyzing sales reports, responding to customer queries, and collaborating with the team to improve the overall customer experience.",
+  "riasec_primary": "Enterprising",
+  "riasec_secondary": "Conventional",
+  "riasec_scores": {
+    "Realistic": 6,
+    "Investigative": 4,
+    "Artistic": 2,
+    "Social": 5,
+    "Enterprising": 8,
+    "Conventional": 7
+  },
+  "work_values": [
+    "Achievement",
+    "Recognition",
+    "Independence",
+    "Creativity",
+    "Stability",
+    "Security"
+  ],
+  "eligible_streams": [
+    "Commerce",
+    "Business Studies",
+    "Accountancy",
+    "Economics",
+    "Mathematics"
+  ],
+  "entrance_exams": [
+    "CAT",
+    "MAT",
+    "XAT",
+    "CMAT",
+    "ATMA"
+  ],
+  "degree_name": "Master of Business Administration (MBA)",
+  "degree_duration_years": 2,
+  "course_cost_lakhs": {
+    "government_college": 0.5,
+    "private_college": 5
+  },
+  "top_govt_colleges": [
+    "Indian Institute of Management (IIM) Ahmedabad",
+    "IIM Bangalore",
+    "IIM Calcutta",
+    "IIM Lucknow",
+    "IIM Kozhikode"
+  ],
+  "top_private_colleges": [
+    "SPJIMR Mumbai",
+    "IMT Ghaziabad",
+    "XIMB Bhubaneswar",
+    "TAPMI Manipal",
+    "Great Lakes Chennai"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 3.5,
+    "mid_3_7_years": 8,
+    "senior_8_15_years": 18,
+    "top_earner": 35
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Mumbai",
+      "Delhi",
+      "Bangalore",
+      "Hyderabad",
+      "Pune"
+    ],
+    "govt_vs_private": "10% govt 90% private",
+    "demand_trend": "growing",
+    "approximate_annual_openings_india": 30000
+  },
+  "career_progression": {
+    "year_0_2": "Entry-level ecommerce managers work on data analysis, customer service, and inventory management. They may also assist in creating digital marketing campaigns.",
+    "year_3_5": "As they gain experience, they take on more responsibilities, such as managing teams, creating marketing strategies, and analyzing sales data to optimize business performance.",
+    "year_6_10": "Senior ecommerce managers oversee the entire online store's operations, including supply chain management, customer experience, and digital marketing.",
+    "senior_paths": [
+      "Ecommerce Director",
+      "Digital Marketing Manager",
+      "Operations Manager"
+    ],
+    "entrepreneurship_exit": "Ecommerce managers can start their own online stores or e-commerce-related businesses, leveraging their expertise in digital marketing and operations.",
+    "global_pathway": "With experience and skills, ecommerce managers can work for international companies or start their own global e-commerce ventures."
+  },
+  "india_social_context": {
+    "family_acceptance": "high",
+    "regional_availability": "national",
+    "first_year_reality": "Starting as an ecommerce manager can be challenging, with long working hours and high expectations. However, with experience and skills, it can be a rewarding career.",
+    "common_misconceptions": [
+      "Ecommerce managers only work on digital marketing",
+      "Ecommerce managers have a 9-to-5 job"
+    ]
+  },
+  "force_connections": {}
+}

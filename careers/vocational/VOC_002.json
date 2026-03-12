@@ -1,0 +1,86 @@
+{
+  "career_id": "VOC_002",
+  "title": "Plumber",
+  "stream": "Vocational",
+  "description": "A plumber in India installs, maintains, and repairs pipes, fixtures, and appliances that are connected to water and gas systems in residential, commercial, and industrial settings. They work on various tasks such as unclogging drains, fixing leaky faucets, and installing new plumbing systems. Plumber's work is physically demanding and requires them to work in cramped spaces, climb ladders, and lift heavy equipment.",
+  "riasec_primary": "Realistic",
+  "riasec_secondary": "Conventional",
+  "riasec_scores": {
+    "Realistic": 8,
+    "Investigative": 2,
+    "Artistic": 1,
+    "Social": 2,
+    "Enterprising": 1,
+    "Conventional": 6
+  },
+  "work_values": [
+    "Practicality",
+    "Security",
+    "Stability"
+  ],
+  "eligible_streams": [
+    "Vocational",
+    "Engineering",
+    "Technical"
+  ],
+  "entrance_exams": [
+    "NATs",
+    "DTE",
+    "JEECUP"
+  ],
+  "degree_name": "Diploma in Plumbing",
+  "degree_duration_years": 3,
+  "course_cost_lakhs": {
+    "government_college": 2,
+    "private_college": 8
+  },
+  "top_govt_colleges": [
+    "National Council of Vocational Training",
+    "Directorate of Technical Education",
+    "State Council of Vocational Training"
+  ],
+  "top_private_colleges": [
+    "Vocational Training Institutes",
+    "Technical Training Centres",
+    "Plumbing Training Schools"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 3,
+    "mid_3_7_years": 8,
+    "senior_8_15_years": 18,
+    "top_earner": 35
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Mumbai",
+      "Delhi",
+      "Bangalore",
+      "Hyderabad"
+    ],
+    "govt_vs_private": "30% govt 70% private",
+    "demand_trend": "stable",
+    "approximate_annual_openings_india": 30000
+  },
+  "career_progression": {
+    "year_0_2": "Apprenticeship, Assistant Plumber",
+    "year_3_5": "Plumber, Senior Plumber",
+    "year_6_10": "Master Plumber, Plumbing Supervisor",
+    "senior_paths": [
+      "Plumbing Inspector",
+      "Plumbing Consultant",
+      "Plumbing Business Owner"
+    ],
+    "entrepreneurship_exit": "Start a plumbing business, offer services to residential and commercial clients",
+    "global_pathway": "Work in the Middle East, Gulf countries, or abroad as a skilled plumber"
+  },
+  "india_social_context": {
+    "family_acceptance": "medium",
+    "regional_availability": "national",
+    "first_year_reality": "Challenging to find a job, may have to work as an apprentice for a long time",
+    "common_misconceptions": [
+      "Plumbing is a dirty job",
+      "Plumbers are not respected"
+    ]
+  },
+  "force_connections": {}
+}

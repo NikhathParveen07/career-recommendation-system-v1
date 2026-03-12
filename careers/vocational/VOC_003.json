@@ -1,0 +1,93 @@
+{
+  "career_id": "VOC_003",
+  "title": "Construction Supervisor",
+  "stream": "Vocational",
+  "description": "A Construction Supervisor in India oversees the day-to-day activities of construction sites, ensuring projects are completed on time, within budget, and to the required quality standards. They coordinate with architects, engineers, and laborers to resolve issues and make decisions on site. This role requires strong communication, problem-solving, and leadership skills, as well as knowledge of building codes and safety regulations.",
+  "riasec_primary": "Realistic",
+  "riasec_secondary": "Conventional",
+  "riasec_scores": {
+    "Realistic": 8,
+    "Investigative": 2,
+    "Artistic": 1,
+    "Social": 3,
+    "Enterprising": 2,
+    "Conventional": 4
+  },
+  "work_values": [
+    "Job Security",
+    "Sense of Accomplishment",
+    "Physical Activity"
+  ],
+  "eligible_streams": [
+    "Engineering",
+    "Architecture",
+    "Vocational",
+    "Science"
+  ],
+  "entrance_exams": [
+    "NATA",
+    "JEE Main",
+    "BITSAT",
+    "UPSEE"
+  ],
+  "degree_name": "Bachelor of Technology in Construction Technology",
+  "degree_duration_years": 4,
+  "course_cost_lakhs": {
+    "government_college": 3,
+    "private_college": 15
+  },
+  "top_govt_colleges": [
+    "National Institute of Technology, Warangal",
+    "National Institute of Technology, Calicut",
+    "National Institute of Technology, Raipur",
+    "National Institute of Technology, Jamshedpur",
+    "National Institute of Technology, Srinagar"
+  ],
+  "top_private_colleges": [
+    "BITS Pilani",
+    "Thapar Institute of Engineering and Technology",
+    "Manipal Institute of Technology",
+    "Vellore Institute of Technology",
+    "PSG College of Technology"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 4,
+    "mid_3_7_years": 10,
+    "senior_8_15_years": 22,
+    "top_earner": 45
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Mumbai",
+      "Delhi",
+      "Bangalore",
+      "Chennai",
+      "Hyderabad"
+    ],
+    "govt_vs_private": "20% govt 80% private",
+    "demand_trend": "growing",
+    "approximate_annual_openings_india": 50000
+  },
+  "career_progression": {
+    "year_0_2": "Assist senior supervisors, learn construction techniques, and develop problem-solving skills.",
+    "year_3_5": "Take charge of small projects, manage teams, and develop leadership skills.",
+    "year_6_10": "Oversee large projects, develop business acumen, and mentor junior supervisors.",
+    "senior_paths": [
+      "Project Manager",
+      "Construction Manager",
+      "Business Development Manager"
+    ],
+    "entrepreneurship_exit": "Start a construction company, offer services to clients, and manage a team of supervisors.",
+    "global_pathway": "Work on international projects, collaborate with global teams, and develop expertise in construction technologies."
+  },
+  "india_social_context": {
+    "family_acceptance": "high",
+    "regional_availability": "national",
+    "first_year_reality": "Starting salary is low, but opportunities for growth are high.",
+    "common_misconceptions": [
+      "Construction work is physically demanding and requires a high level of physical fitness.",
+      "Construction supervisors are only responsible for overseeing laborers."
+    ]
+  },
+  "force_connections": {}
+}

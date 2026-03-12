@@ -1,0 +1,98 @@
+{
+  "career_id": "COM_005",
+  "title": "Financial Analyst",
+  "stream": "Commerce",
+  "description": "A Financial Analyst in India typically spends their day analyzing financial data, preparing financial reports, and making recommendations to management on investments and cost-cutting measures. They work closely with other departments to ensure that financial decisions align with the company's overall strategy. Their day is often spent staring at spreadsheets, attending meetings, and communicating with stakeholders to ensure that financial goals are met.",
+  "riasec_primary": "Conventional",
+  "riasec_secondary": "Enterprising",
+  "riasec_scores": {
+    "Realistic": 6,
+    "Investigative": 4,
+    "Artistic": 2,
+    "Social": 3,
+    "Enterprising": 8,
+    "Conventional": 9
+  },
+  "work_values": [
+    "Achievement",
+    "Recognition",
+    "Security",
+    "Independence"
+  ],
+  "eligible_streams": [
+    "Commerce",
+    "Economics",
+    "Business Studies",
+    "Accountancy"
+  ],
+  "entrance_exams": [
+    "CA Foundation",
+    "CMA Foundation",
+    "ICWA Foundation",
+    "CAT",
+    "XAT",
+    "CMAT"
+  ],
+  "degree_name": "Bachelor of Commerce (B.Com)",
+  "degree_duration_years": 3,
+  "course_cost_lakhs": {
+    "government_college": 2,
+    "private_college": 8
+  },
+  "top_govt_colleges": [
+    "St. Xavier's College, Kolkata",
+    "Hansraj College, Delhi",
+    "Ramjas College, Delhi",
+    "Loyola College, Chennai",
+    "Fergusson College, Pune"
+  ],
+  "top_private_colleges": [
+    "SP Jain Institute of Management and Research, Mumbai",
+    "Jamnalal Bajaj Institute of Management Studies, Mumbai",
+    "K.J. Somaiya Institute of Management Studies and Research, Mumbai",
+    "T.A. Pai Management Institute, Manipal",
+    "Birla Institute of Management Technology, Noida"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 3.5,
+    "mid_3_7_years": 8,
+    "senior_8_15_years": 18,
+    "top_earner": 35
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Mumbai",
+      "Delhi",
+      "Bangalore",
+      "Chennai",
+      "Hyderabad"
+    ],
+    "govt_vs_private": "10% govt 90% private",
+    "demand_trend": "stable",
+    "approximate_annual_openings_india": 30000
+  },
+  "career_progression": {
+    "year_0_2": "Typically starts as a junior analyst, working under the guidance of a senior analyst. They will be responsible for data entry, data analysis, and preparing reports.",
+    "year_3_5": "Moves to a senior analyst role, taking on more complex projects and leading small teams. They will be responsible for financial modeling, forecasting, and decision-making.",
+    "year_6_10": "Promoted to a manager or team lead role, overseeing multiple projects and teams. They will be responsible for strategic planning, budgeting, and performance evaluation.",
+    "senior_paths": [
+      "Financial Planning and Analysis",
+      "Investment Banking",
+      "Risk Management",
+      "Financial Regulation",
+      "Corporate Finance"
+    ],
+    "entrepreneurship_exit": "Can start their own financial consulting firm or venture capital firm, leveraging their expertise and network.",
+    "global_pathway": "Can work in international finance roles in countries like the US, UK, Singapore, or Hong Kong, with companies like Goldman Sachs, Morgan Stanley, or Citigroup."
+  },
+  "india_social_context": {
+    "family_acceptance": "high",
+    "regional_availability": "national",
+    "first_year_reality": "Starting salary is around ₹3-4 lakhs per annum, with a steep learning curve and long working hours.",
+    "common_misconceptions": [
+      "Financial analysts are only number-crunchers",
+      "Financial analysts have to be experts in finance from day one"
+    ]
+  },
+  "force_connections": {}
+}

@@ -1,0 +1,96 @@
+{
+  "career_id": "COM_014",
+  "title": "Supply Chain Manager",
+  "stream": "Commerce",
+  "description": "A Supply Chain Manager in India is responsible for overseeing the flow of goods, services, and information from raw materials to end customers. They work closely with various stakeholders, including suppliers, manufacturers, and logistics providers, to ensure timely and cost-effective delivery of products. Their daily tasks involve analyzing demand, managing inventory, and optimizing supply chain operations to meet business objectives.",
+  "riasec_primary": "Enterprising",
+  "riasec_secondary": "Conventional",
+  "riasec_scores": {
+    "Realistic": 8,
+    "Investigative": 4,
+    "Artistic": 2,
+    "Social": 6,
+    "Enterprising": 9,
+    "Conventional": 7
+  },
+  "work_values": [
+    "Achievement",
+    "Recognition",
+    "Autonomy",
+    "Security",
+    "Stability"
+  ],
+  "eligible_streams": [
+    "Commerce",
+    "Business Studies",
+    "Accountancy",
+    "Economics"
+  ],
+  "entrance_exams": [
+    "CAT",
+    "XAT",
+    "CMAT",
+    "MAT",
+    "GMAT"
+  ],
+  "degree_name": "Master of Business Administration (MBA) in Supply Chain Management",
+  "degree_duration_years": 2,
+  "course_cost_lakhs": {
+    "government_college": 1,
+    "private_college": 10
+  },
+  "top_govt_colleges": [
+    "Indian Institute of Management (IIM) Ahmedabad",
+    "IIM Bangalore",
+    "IIM Calcutta",
+    "IIM Lucknow",
+    "IIM Kozhikode"
+  ],
+  "top_private_colleges": [
+    "SPJIMR Mumbai",
+    "MDI Gurgaon",
+    "IMT Ghaziabad",
+    "XIMB Bhubaneswar",
+    "NITIE Mumbai"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 3.5,
+    "mid_3_7_years": 8,
+    "senior_8_15_years": 18,
+    "top_earner": 35
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Mumbai",
+      "Delhi",
+      "Bangalore",
+      "Hyderabad",
+      "Chennai"
+    ],
+    "govt_vs_private": "10% govt 90% private",
+    "demand_trend": "growing",
+    "approximate_annual_openings_india": 40000
+  },
+  "career_progression": {
+    "year_0_2": "Entry-level roles in supply chain management, such as supply chain coordinator or logistics coordinator, with a salary range of ₹3-5 lakhs per annum.",
+    "year_3_5": "Mid-level roles, such as supply chain manager or procurement manager, with a salary range of ₹8-15 lakhs per annum.",
+    "year_6_10": "Senior-level roles, such as head of supply chain or director of procurement, with a salary range of ₹20-40 lakhs per annum.",
+    "senior_paths": [
+      "Head of Supply Chain",
+      "Director of Procurement",
+      "Supply Chain Director"
+    ],
+    "entrepreneurship_exit": "Supply chain managers can start their own logistics or supply chain consulting businesses, leveraging their industry expertise and network.",
+    "global_pathway": "With experience and skills, supply chain managers can explore opportunities in international companies, especially in the Asia-Pacific region."
+  },
+  "india_social_context": {
+    "family_acceptance": "high",
+    "regional_availability": "national",
+    "first_year_reality": "Starting as a supply chain manager can be challenging, with long working hours and high expectations from clients and stakeholders.",
+    "common_misconceptions": [
+      "Supply chain management is only about logistics.",
+      "Supply chain managers do not need to have a technical background."
+    ]
+  },
+  "force_connections": {}
+}

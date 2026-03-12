@@ -1,0 +1,92 @@
+{
+  "career_id": "SCI_023",
+  "title": "Forensic Scientist",
+  "stream": "Science",
+  "description": "Forensic Scientists in India work in laboratories, analyzing evidence from crime scenes, examining DNA samples, and using various techniques to help solve crimes. They often work with law enforcement agencies, courts, and other organizations to provide expert testimony and help bring criminals to justice. Their work requires attention to detail, analytical skills, and the ability to communicate complex scientific information to non-technical audiences.",
+  "riasec_primary": "Realistic",
+  "riasec_secondary": "Investigative",
+  "riasec_scores": {
+    "Realistic": 8,
+    "Investigative": 9,
+    "Artistic": 2,
+    "Social": 3,
+    "Enterprising": 1,
+    "Conventional": 4
+  },
+  "work_values": [
+    "Independence",
+    "Analytical thinking",
+    "Attention to detail"
+  ],
+  "eligible_streams": [
+    "Biology",
+    "Chemistry",
+    "Physics",
+    "Mathematics"
+  ],
+  "entrance_exams": [
+    "NEET",
+    "JIPMER",
+    "AIIMS"
+  ],
+  "degree_name": "Bachelor of Science in Forensic Science",
+  "degree_duration_years": 4,
+  "course_cost_lakhs": {
+    "government_college": 2,
+    "private_college": 12
+  },
+  "top_govt_colleges": [
+    "AIIMS Delhi",
+    "JIPMER Puducherry",
+    "NIMHANS Bangalore",
+    "PGIMER Chandigarh",
+    "Sanjay Gandhi Postgraduate Institute of Medical Sciences Lucknow"
+  ],
+  "top_private_colleges": [
+    "Manipal Academy of Higher Education",
+    "Amrita Vishwa Vidyapeetham",
+    "Sri Ramachandra Institute of Higher Education and Research",
+    "Saveetha Institute of Medical and Technical Sciences",
+    "SRM Institute of Science and Technology"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 3.5,
+    "mid_3_7_years": 8,
+    "senior_8_15_years": 18,
+    "top_earner": 35
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Delhi",
+      "Mumbai",
+      "Kolkata",
+      "Chennai",
+      "Bangalore"
+    ],
+    "govt_vs_private": "30% govt 70% private",
+    "demand_trend": "stable",
+    "approximate_annual_openings_india": 30000
+  },
+  "career_progression": {
+    "year_0_2": "Assistants in laboratories, assisting senior scientists with experiments and data analysis.",
+    "year_3_5": "Lead laboratory assistants, taking charge of specific projects and mentoring junior staff.",
+    "year_6_10": "Senior scientists, leading research teams and publishing papers in scientific journals.",
+    "senior_paths": [
+      "Research and Development",
+      "Teaching and Academia",
+      "Consulting and Entrepreneurship"
+    ],
+    "entrepreneurship_exit": "Forensic Scientists can start their own forensic consulting firms or laboratories, offering services to law enforcement agencies and private clients.",
+    "global_pathway": "Forensic Scientists can pursue postdoctoral research positions in international institutions or work as consultants for global forensic companies."
+  },
+  "india_social_context": {
+    "family_acceptance": "medium",
+    "regional_availability": "national",
+    "first_year_reality": "Forensic Scientists often face a steep learning curve, requiring them to adapt quickly to new techniques and technologies.",
+    "common_misconceptions": [
+      "Forensic Scientists are always involved in high-profile cases",
+      "Forensic Scientists are only involved in crime scene investigation"
+    ]
+  },
+  "force_connections": {}
+}

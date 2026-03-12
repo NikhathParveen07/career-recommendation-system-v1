@@ -1,0 +1,96 @@
+{
+  "career_id": "COM_013",
+  "title": "Human Resources Manager",
+  "stream": "Commerce",
+  "description": "A Human Resources Manager in India is responsible for overseeing the recruitment, training, and development of employees, ensuring compliance with labor laws, and maintaining a positive work environment. They work closely with senior management to develop HR strategies and policies, and may handle employee grievances and conflicts. In a typical day, they may review employee performance reports, conduct interviews, and coordinate training programs.",
+  "riasec_primary": "Enterprising",
+  "riasec_secondary": "Social",
+  "riasec_scores": {
+    "Realistic": 2,
+    "Investigative": 3,
+    "Artistic": 1,
+    "Social": 8,
+    "Enterprising": 9,
+    "Conventional": 4
+  },
+  "work_values": [
+    "Achievement",
+    "Recognition",
+    "Personal Growth",
+    "Work-Life Balance"
+  ],
+  "eligible_streams": [
+    "Commerce",
+    "Business Studies",
+    "Accountancy",
+    "Economics",
+    "Management"
+  ],
+  "entrance_exams": [
+    "CAT",
+    "MAT",
+    "XAT",
+    "CMAT",
+    "ATMA"
+  ],
+  "degree_name": "Master of Business Administration (MBA)",
+  "degree_duration_years": 2,
+  "course_cost_lakhs": {
+    "government_college": 1.5,
+    "private_college": 8
+  },
+  "top_govt_colleges": [
+    "Indian Institute of Management (IIM) Ahmedabad",
+    "IIM Bangalore",
+    "IIM Calcutta",
+    "IIM Lucknow",
+    "IIM Kozhikode"
+  ],
+  "top_private_colleges": [
+    "SP Jain Institute of Management and Research",
+    "Jamnalal Bajaj Institute of Management Studies",
+    "K J Somaiya Institute of Management Studies and Research",
+    "MICA Ahmedabad",
+    "TAPMI Manipal"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 3.5,
+    "mid_3_7_years": 8,
+    "senior_8_15_years": 18,
+    "top_earner": 35
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Mumbai",
+      "Delhi",
+      "Bangalore",
+      "Hyderabad",
+      "Chennai"
+    ],
+    "govt_vs_private": "10% govt 90% private",
+    "demand_trend": "stable",
+    "approximate_annual_openings_india": 30000
+  },
+  "career_progression": {
+    "year_0_2": "Starting as an HR Assistant, handling recruitment and employee onboarding, and assisting in policy development.",
+    "year_3_5": "Moving to an HR Coordinator role, handling employee relations, benefits, and training programs.",
+    "year_6_10": "Taking on an HR Manager position, overseeing HR functions, and developing HR strategies.",
+    "senior_paths": [
+      "HR Director",
+      "Talent Acquisition Manager",
+      "Organizational Development Manager"
+    ],
+    "entrepreneurship_exit": "Starting an HR consulting firm or a recruitment agency.",
+    "global_pathway": "Opportunities in multinational companies, or working as an HR consultant for international clients."
+  },
+  "india_social_context": {
+    "family_acceptance": "high",
+    "regional_availability": "national",
+    "first_year_reality": "Starting salary is around ₹3-4 lakhs per annum, and working hours can be long.",
+    "common_misconceptions": [
+      "HR is only about recruitment",
+      "HR is a desk job"
+    ]
+  },
+  "force_connections": {}
+}

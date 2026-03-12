@@ -1,0 +1,92 @@
+{
+  "career_id": "ART_027",
+  "title": "Sports Professional",
+  "stream": "Arts",
+  "description": "A Sports Professional in India is involved in various activities such as coaching, training, and managing sports teams or events. They may work with schools, colleges, clubs, or private organizations, and their daily tasks can include creating training plans, conducting sessions, and promoting sports among youth. They may also be involved in organizing tournaments, events, and competitions, and may need to travel extensively for these purposes.",
+  "riasec_primary": "Artistic",
+  "riasec_secondary": "Social",
+  "riasec_scores": {
+    "Realistic": 2,
+    "Investigative": 3,
+    "Artistic": 8,
+    "Social": 5,
+    "Enterprising": 1,
+    "Conventional": 1
+  },
+  "work_values": [
+    "Creativity",
+    "Recognition",
+    "Helping Others"
+  ],
+  "eligible_streams": [
+    "Physical Education",
+    "Sports Science",
+    "Arts",
+    "Humanities"
+  ],
+  "entrance_exams": [
+    "NIFT Entrance Exam",
+    "NID Entrance Exam",
+    "Sports Authority of India (SAI) Recruitment Exam"
+  ],
+  "degree_name": "Bachelor of Physical Education and Sports",
+  "degree_duration_years": 4,
+  "course_cost_lakhs": {
+    "government_college": 2,
+    "private_college": 12
+  },
+  "top_govt_colleges": [
+    "Maharishi Markandeshwar University",
+    "Sri Aurobindo College",
+    "University of Delhi",
+    "Guru Nanak Dev University",
+    "Banaras Hindu University"
+  ],
+  "top_private_colleges": [
+    "Symbiosis International University",
+    "Christ University",
+    "Jain University",
+    "Amity University",
+    "Lovely Professional University"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 3,
+    "mid_3_7_years": 8,
+    "senior_8_15_years": 18,
+    "top_earner": 35
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Mumbai",
+      "Delhi",
+      "Chennai",
+      "Bangalore",
+      "Kolkata"
+    ],
+    "govt_vs_private": "30% govt 70% private",
+    "demand_trend": "stable",
+    "approximate_annual_openings_india": 30000
+  },
+  "career_progression": {
+    "year_0_2": "Initial years involve training and certification programs, followed by assistant coaching roles in schools or clubs.",
+    "year_3_5": "Mid-level professionals take on coaching roles in colleges or private organizations, and may also start their own sports-related businesses.",
+    "year_6_10": "Senior professionals become team managers or directors, and may also take on leadership roles in sports-related organizations.",
+    "senior_paths": [
+      "Sports Management",
+      "Coaching",
+      "Sports Journalism"
+    ],
+    "entrepreneurship_exit": "Starting a sports-related business requires a strong network, financial backing, and a unique value proposition.",
+    "global_pathway": "Opportunities abroad are limited, but may exist in countries with strong sports cultures, such as the US, UK, or Australia."
+  },
+  "india_social_context": {
+    "family_acceptance": "medium",
+    "regional_availability": "national",
+    "first_year_reality": "Starting out can be challenging, with limited job opportunities and low salaries.",
+    "common_misconceptions": [
+      "Sports professionals are always physically fit",
+      "Sports professionals only work with children"
+    ]
+  },
+  "force_connections": {}
+}

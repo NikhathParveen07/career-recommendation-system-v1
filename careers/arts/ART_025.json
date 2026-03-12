@@ -1,0 +1,86 @@
+{
+  "career_id": "ART_025",
+  "title": "Museum Curator",
+  "stream": "Arts",
+  "description": "A Museum Curator in India is responsible for managing and maintaining museum collections, designing exhibitions, and coordinating educational programs. They work closely with artists, historians, and other stakeholders to create engaging and informative experiences for visitors. In India, Museum Curators often work in government-run museums, cultural institutions, and private galleries, and may be required to handle administrative tasks, manage budgets, and collaborate with local communities.",
+  "riasec_primary": "Artistic",
+  "riasec_secondary": "Social",
+  "riasec_scores": {
+    "Realistic": 0,
+    "Investigative": 0,
+    "Artistic": 8,
+    "Social": 6,
+    "Enterprising": 2,
+    "Conventional": 4
+  },
+  "work_values": [
+    "Creativity",
+    "Personal Growth",
+    "Social Responsibility"
+  ],
+  "eligible_streams": [
+    "Arts",
+    "Humanities",
+    "Social Sciences"
+  ],
+  "entrance_exams": [
+    "NIFT Entrance Exam",
+    "NID Entrance Exam",
+    "CEED Entrance Exam"
+  ],
+  "degree_name": "Bachelor of Arts in Museology",
+  "degree_duration_years": 4,
+  "course_cost_lakhs": {
+    "government_college": 3,
+    "private_college": 15
+  },
+  "top_govt_colleges": [
+    "National Museum Institute of History of Art, Conservation and Museology",
+    "Indian Institute of Art and Design",
+    "National Institute of Design"
+  ],
+  "top_private_colleges": [
+    "Srishti Institute of Art, Design and Technology",
+    "Apeejay Institute of Design",
+    "Anant National University"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 3.5,
+    "mid_3_7_years": 8,
+    "senior_8_15_years": 18,
+    "top_earner": 35
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Delhi",
+      "Mumbai",
+      "Kolkata",
+      "Chennai"
+    ],
+    "govt_vs_private": "30% govt 70% private",
+    "demand_trend": "stable",
+    "approximate_annual_openings_india": 30000
+  },
+  "career_progression": {
+    "year_0_2": "Assist in curatorial tasks, assist in exhibition design and installation, and gain experience in museum operations.",
+    "year_3_5": "Take on more responsibility in curatorial tasks, lead exhibition design and installation projects, and develop expertise in museum collections management.",
+    "year_6_10": "Lead curatorial teams, develop and implement museum strategic plans, and engage in community outreach and engagement.",
+    "senior_paths": [
+      "Museum Director",
+      "Curator of Collections",
+      "Exhibition Designer"
+    ],
+    "entrepreneurship_exit": "Museum Curators can start their own museums, galleries, or cultural institutions, or work as independent consultants.",
+    "global_pathway": "Museum Curators can work in international museums, cultural institutions, and private galleries, or pursue advanced degrees in museology or related fields."
+  },
+  "india_social_context": {
+    "family_acceptance": "medium",
+    "regional_availability": "national",
+    "first_year_reality": "Starting out as a Museum Curator in India can be challenging, with limited job opportunities and low salaries.",
+    "common_misconceptions": [
+      "Museum Curators only work in government museums",
+      "Museum Curators are only interested in art history"
+    ]
+  },
+  "force_connections": {}
+}

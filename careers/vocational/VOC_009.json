@@ -1,0 +1,95 @@
+{
+  "career_id": "VOC_009",
+  "title": "Quality Control Inspector",
+  "stream": "Vocational",
+  "description": "A Quality Control Inspector in India works in various industries such as manufacturing, pharmaceuticals, and food processing. They are responsible for inspecting products, materials, and equipment to ensure they meet quality and safety standards. This involves conducting regular checks, sampling, and testing to identify defects or irregularities, and reporting any issues to management for corrective action.",
+  "riasec_primary": "Realistic",
+  "riasec_secondary": "Investigative",
+  "riasec_scores": {
+    "Realistic": 8,
+    "Investigative": 6,
+    "Artistic": 2,
+    "Social": 3,
+    "Enterprising": 1,
+    "Conventional": 4
+  },
+  "work_values": [
+    "Attention to detail",
+    "Analytical skills",
+    "Problem-solving",
+    "Teamwork",
+    "Adaptability"
+  ],
+  "eligible_streams": [
+    "Science",
+    "Engineering",
+    "Vocational"
+  ],
+  "entrance_exams": [
+    "AICTE JEE",
+    "DTECET",
+    "NAT",
+    "JEXPO",
+    "KEAM"
+  ],
+  "degree_name": "Diploma in Quality Control",
+  "degree_duration_years": 3,
+  "course_cost_lakhs": {
+    "government_college": 2,
+    "private_college": 8
+  },
+  "top_govt_colleges": [
+    "National Institute of Technology, Warangal",
+    "Indian Institute of Technology, Roorkee",
+    "National Institute of Technology, Tiruchirappalli",
+    "National Institute of Technology, Jamshedpur",
+    "Indian Institute of Technology, Guwahati"
+  ],
+  "top_private_colleges": [
+    "Vellore Institute of Technology",
+    "Birla Institute of Technology and Science",
+    "SRM Institute of Science and Technology",
+    "Amrita Vishwa Vidyapeetham",
+    "Thiagarajar College of Engineering"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 3,
+    "mid_3_7_years": 8,
+    "senior_8_15_years": 18,
+    "top_earner": 35
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Mumbai",
+      "Delhi",
+      "Bangalore",
+      "Hyderabad",
+      "Chennai"
+    ],
+    "govt_vs_private": "30% govt 70% private",
+    "demand_trend": "stable",
+    "approximate_annual_openings_india": 30000
+  },
+  "career_progression": {
+    "year_0_2": "Assist in quality control inspections, learn about industry standards and regulations, and develop analytical skills.",
+    "year_3_5": "Lead quality control teams, develop and implement quality control procedures, and mentor junior inspectors.",
+    "year_6_10": "Oversee quality control operations, develop and implement quality management systems, and provide training to teams.",
+    "senior_paths": [
+      "Quality Manager",
+      "Regulatory Affairs Manager",
+      "Operations Manager"
+    ],
+    "entrepreneurship_exit": "Start a quality control consulting firm or a testing laboratory.",
+    "global_pathway": "Work in quality control roles in countries like the US, UK, or Australia, or work for multinational companies with operations in India."
+  },
+  "india_social_context": {
+    "family_acceptance": "medium",
+    "regional_availability": "national",
+    "first_year_reality": "Starting salary is low, and working hours can be long.",
+    "common_misconceptions": [
+      "Quality control inspectors have a high level of autonomy.",
+      "Quality control inspectors only work in manufacturing industries."
+    ]
+  },
+  "force_connections": {}
+}

@@ -1,0 +1,92 @@
+{
+  "career_id": "ART_012",
+  "title": "Radio Jockey Anchor",
+  "stream": "Arts",
+  "description": "A Radio Jockey Anchor in India is responsible for hosting radio shows, conducting interviews, and creating engaging content for listeners. They work closely with producers and other team members to plan and execute shows, often working irregular hours, including evenings and weekends. They must be comfortable with public speaking, think on their feet, and have a strong understanding of current events and popular culture.",
+  "riasec_primary": "Artistic",
+  "riasec_secondary": "Social",
+  "riasec_scores": {
+    "Realistic": 0,
+    "Investigative": 0,
+    "Artistic": 8,
+    "Social": 6,
+    "Enterprising": 2,
+    "Conventional": 0
+  },
+  "work_values": [
+    "Creativity",
+    "Recognition",
+    "Helping Others"
+  ],
+  "eligible_streams": [
+    "Arts",
+    "Humanities",
+    "Social Sciences"
+  ],
+  "entrance_exams": [
+    "XAT",
+    "CMAT",
+    "ATMA"
+  ],
+  "degree_name": "Bachelor of Arts in Mass Communications",
+  "degree_duration_years": 4,
+  "course_cost_lakhs": {
+    "government_college": 3,
+    "private_college": 15
+  },
+  "top_govt_colleges": [
+    "Lady Shri Ram College for Women",
+    "Hansraj College",
+    "Miranda House",
+    "St. Stephen's College",
+    "Hindu College"
+  ],
+  "top_private_colleges": [
+    "MICA Ahmedabad",
+    "Xavier Institute of Communications",
+    "Symbiosis Institute of Media and Communication",
+    "Manipal University Jaipur",
+    "Amity University Noida"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 4,
+    "mid_3_7_years": 10,
+    "senior_8_15_years": 22,
+    "top_earner": 45
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Mumbai",
+      "Delhi",
+      "Bangalore",
+      "Chennai",
+      "Pune"
+    ],
+    "govt_vs_private": "20% govt 80% private",
+    "demand_trend": "growing",
+    "approximate_annual_openings_india": 50000
+  },
+  "career_progression": {
+    "year_0_2": "Starting as a junior radio jockey, you'll work under the guidance of experienced professionals, hosting shows, and learning the ropes. You'll also be responsible for creating content, conducting interviews, and engaging with listeners.",
+    "year_3_5": "As you gain experience, you'll take on more responsibilities, such as planning and executing shows, working with producers, and developing your on-air personality.",
+    "year_6_10": "With significant experience, you'll move into senior roles, such as show director or program manager, overseeing the production of multiple shows, and mentoring junior staff.",
+    "senior_paths": [
+      "Show Director",
+      "Program Manager",
+      "Station Manager"
+    ],
+    "entrepreneurship_exit": "You can start your own podcast or YouTube channel, leveraging your on-air experience to create engaging content and build a personal brand.",
+    "global_pathway": "With experience, you can work for international radio stations or media companies, or even start your own global media venture."
+  },
+  "india_social_context": {
+    "family_acceptance": "medium",
+    "regional_availability": "national",
+    "first_year_reality": "You'll face intense competition for jobs, and the industry is highly saturated. Be prepared to work long hours, including evenings and weekends, and be flexible with your schedule.",
+    "common_misconceptions": [
+      "You'll be famous overnight",
+      "You'll earn a lot of money",
+      "You'll have a 9-to-5 job"
+    ]
+  },
+  "force_connections": {}
+}

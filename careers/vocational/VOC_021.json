@@ -1,0 +1,94 @@
+{
+  "career_id": "VOC_021",
+  "title": "Beauty Professional Cosmetologist",
+  "stream": "Vocational",
+  "description": "A beauty professional cosmetologist in India works in salons, spas, or clinics, performing various beauty treatments such as haircuts, colouring, skin care, and nail art. They also advise clients on beauty products and skincare routines. Their day involves interacting with clients, handling equipment, and maintaining a clean and hygienic work environment.",
+  "riasec_primary": "Realistic",
+  "riasec_secondary": "Artistic",
+  "riasec_scores": {
+    "Realistic": 8,
+    "Investigative": 2,
+    "Artistic": 6,
+    "Social": 4,
+    "Enterprising": 2,
+    "Conventional": 2
+  },
+  "work_values": [
+    "Creativity",
+    "Independence",
+    "Variety",
+    "Recognition"
+  ],
+  "eligible_streams": [
+    "Commerce",
+    "Science",
+    "Arts",
+    "Vocational"
+  ],
+  "entrance_exams": [
+    "AIEE",
+    "DTE",
+    "JEECUP",
+    "NAT"
+  ],
+  "degree_name": "Diploma in Beauty and Wellness",
+  "degree_duration_years": 2,
+  "course_cost_lakhs": {
+    "government_college": 1.5,
+    "private_college": 7
+  },
+  "top_govt_colleges": [
+    "National Beauty Academy, Delhi",
+    "Government Beauty College, Mumbai",
+    "Beauty and Wellness Institute, Chennai",
+    "Government Vocational College, Kolkata",
+    "Beauty and Cosmetology College, Bangalore"
+  ],
+  "top_private_colleges": [
+    "National Beauty and Wellness College, Delhi",
+    "Beauty and Cosmetology Institute, Mumbai",
+    "Beauty and Wellness Academy, Chennai",
+    "National Beauty and Cosmetology College, Kolkata",
+    "Beauty and Wellness Institute, Bangalore"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 3,
+    "mid_3_7_years": 8,
+    "senior_8_15_years": 18,
+    "top_earner": 35
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Mumbai",
+      "Delhi",
+      "Bangalore",
+      "Chennai",
+      "Kolkata"
+    ],
+    "govt_vs_private": "15% govt 85% private",
+    "demand_trend": "stable",
+    "approximate_annual_openings_india": 30000
+  },
+  "career_progression": {
+    "year_0_2": "Assistants in salons, perform basic beauty treatments, and learn from experienced professionals.",
+    "year_3_5": "Take on more responsibilities, such as managing salons, creating beauty routines, and mentoring junior staff.",
+    "year_6_10": "Open own salons, spas, or clinics, or work as beauty consultants for product companies.",
+    "senior_paths": [
+      "Beauty Product Manager",
+      "Spa Manager",
+      "Salon Owner"
+    ],
+    "entrepreneurship_exit": "Start own beauty product line, open a chain of salons, or create a beauty app.",
+    "global_pathway": "Work in international beauty companies, open own salons abroad, or work as a beauty consultant for luxury brands."
+  },
+  "india_social_context": {
+    "family_acceptance": "medium",
+    "regional_availability": "national",
+    "first_year_reality": "Starting salary is low, and working hours can be long.",
+    "common_misconceptions": [
+      "Beauty professionals are only for women.",
+      "Beauty treatments are only for the rich."
+    ]
+  },
+  "force_connections": {}
+}

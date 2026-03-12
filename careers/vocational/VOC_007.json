@@ -1,0 +1,90 @@
+{
+  "career_id": "VOC_007",
+  "title": "Welder Fabricator",
+  "stream": "Vocational",
+  "description": "A Welder Fabricator in India works on-site or in a workshop, fabricating and repairing metal structures, machinery, and equipment using various welding techniques. They follow blueprints, work with different materials, and ensure quality control. Their day involves manual labor, problem-solving, and teamwork, often in a fast-paced environment with varying temperatures and noise levels.",
+  "riasec_primary": "Realistic",
+  "riasec_secondary": "Conventional",
+  "riasec_scores": {
+    "Realistic": 8,
+    "Investigative": 2,
+    "Artistic": 1,
+    "Social": 3,
+    "Enterprising": 2,
+    "Conventional": 4
+  },
+  "work_values": [
+    "Practicality",
+    "Efficiency",
+    "Reliability",
+    "Teamwork"
+  ],
+  "eligible_streams": [
+    "Vocational",
+    "Engineering",
+    "Technology"
+  ],
+  "entrance_exams": [
+    "NCVT",
+    "NCVT ITI",
+    "DGET"
+  ],
+  "degree_name": "Diploma in Welding and Fabrication",
+  "degree_duration_years": 3,
+  "course_cost_lakhs": {
+    "government_college": 2,
+    "private_college": 10
+  },
+  "top_govt_colleges": [
+    "National Council of Vocational Training (NCVT)",
+    "Directorate General of Employment and Training (DGET)",
+    "Regional Vocational Training Institutes (RVTIs)"
+  ],
+  "top_private_colleges": [
+    "Welspun Group of Institutions",
+    "L&T Institute of Technology",
+    "VIT University",
+    "SRM University",
+    "Bharat Institute of Engineering and Technology"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 3,
+    "mid_3_7_years": 8,
+    "senior_8_15_years": 18,
+    "top_earner": 35
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Mumbai",
+      "Delhi",
+      "Chennai",
+      "Bangalore",
+      "Hyderabad"
+    ],
+    "govt_vs_private": "30% govt 70% private",
+    "demand_trend": "stable",
+    "approximate_annual_openings_india": 30000
+  },
+  "career_progression": {
+    "year_0_2": "Apprenticeship, basic training, and on-the-job experience",
+    "year_3_5": "Specialization in a specific welding technique, quality control, and leadership roles",
+    "year_6_10": "Supervisory positions, project management, and entrepreneurship",
+    "senior_paths": [
+      "Welding Inspector",
+      "Quality Control Manager",
+      "Project Manager"
+    ],
+    "entrepreneurship_exit": "Starting a welding and fabrication services company or a manufacturing unit",
+    "global_pathway": "Opportunities in the Middle East, Africa, and Southeast Asia for skilled welders and fabricators"
+  },
+  "india_social_context": {
+    "family_acceptance": "medium",
+    "regional_availability": "national",
+    "first_year_reality": "Challenging work environment, long hours, and physical demands",
+    "common_misconceptions": [
+      "Welding is a dirty job",
+      "Welders are uneducated"
+    ]
+  },
+  "force_connections": {}
+}

@@ -1,0 +1,92 @@
+{
+  "career_id": "VOC_006",
+  "title": "CNC Machine Operator",
+  "stream": "Vocational",
+  "description": "A CNC Machine Operator in India works on operating computer-controlled machines to cut, shape, and assemble metal and plastic parts. They follow blueprints and instructions to ensure precision and quality. Their day involves setting up machines, monitoring production, and performing routine maintenance tasks.",
+  "riasec_primary": "Realistic",
+  "riasec_secondary": "Conventional",
+  "riasec_scores": {
+    "Realistic": 8,
+    "Investigative": 2,
+    "Artistic": 1,
+    "Social": 1,
+    "Enterprising": 1,
+    "Conventional": 7
+  },
+  "work_values": [
+    "Precision",
+    "Efficiency",
+    "Reliability",
+    "Teamwork"
+  ],
+  "eligible_streams": [
+    "Engineering",
+    "Vocational",
+    "Diploma in Engineering"
+  ],
+  "entrance_exams": [
+    "NATA",
+    "JEECUP",
+    "DTE Maharashtra"
+  ],
+  "degree_name": "Diploma in CNC Machining",
+  "degree_duration_years": 3,
+  "course_cost_lakhs": {
+    "government_college": 1,
+    "private_college": 8
+  },
+  "top_govt_colleges": [
+    "National Institute of Technical Teachers Training and Research",
+    "Bharat Ratna Sammanit Dr. Shyama Prasad Mukherjee College of Engineering and Technology",
+    "Government Polytechnic, Mumbai",
+    "Government Polytechnic, Pune",
+    "Government Polytechnic, Delhi"
+  ],
+  "top_private_colleges": [
+    "MIT-WPU",
+    "Symbiosis Institute of Technology",
+    "VIT Vellore",
+    "Birla Institute of Technology",
+    "Thapar Institute of Engineering and Technology"
+  ],
+  "salary_lpa": {
+    "entry_0_2_years": 3,
+    "mid_3_7_years": 8,
+    "senior_8_15_years": 18,
+    "top_earner": 35
+  },
+  "india_market": {
+    "top_hiring_cities": [
+      "Mumbai",
+      "Delhi",
+      "Chennai",
+      "Bangalore",
+      "Pune"
+    ],
+    "govt_vs_private": "30% govt 70% private",
+    "demand_trend": "stable",
+    "approximate_annual_openings_india": 30000
+  },
+  "career_progression": {
+    "year_0_2": "Initial training and apprenticeship, followed by working under supervision.",
+    "year_3_5": "Developing skills in programming and operation of CNC machines, with some supervisory responsibilities.",
+    "year_6_10": "Specializing in a particular area of CNC machining, such as tooling or programming, and taking on more senior roles.",
+    "senior_paths": [
+      "Quality Control Manager",
+      "Production Manager",
+      "CNC Machine Programmer"
+    ],
+    "entrepreneurship_exit": "Starting a CNC machining service or tooling business, or creating and selling CNC-related products.",
+    "global_pathway": "Opportunities in countries with growing manufacturing sectors, such as China, Vietnam, and Indonesia."
+  },
+  "india_social_context": {
+    "family_acceptance": "medium",
+    "regional_availability": "national",
+    "first_year_reality": "Initial job may involve working long hours, including night shifts, and may require relocation to a different city.",
+    "common_misconceptions": [
+      "CNC Machine Operators have a desk job",
+      "CNC Machine Operators don't need to be skilled in math"
+    ]
+  },
+  "force_connections": {}
+}
