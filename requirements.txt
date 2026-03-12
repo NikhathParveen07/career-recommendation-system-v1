@@ -4,6 +4,3 @@ schedule==1.2.1
 python-dotenv==1.0.0
 groq==0.4.2
 chromadb==0.4.22
-sqlite3
-hashlib
-logging
