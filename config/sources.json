@@ -1,5 +1,5 @@
 {
-  "version": "1.0",
+  "version": "1.1",
   "description": "CounselAI — Monitoring sources for 7 career forces in India",
   "last_updated": "2026-03",
 
@@ -16,16 +16,6 @@
           "url": "https://nasscom.in/rss.xml",
           "credibility": "very_high",
           "update_frequency": "daily",
-          "India_specific": true,
-          "active": true
-        },
-        {
-          "source_id": "F1_RSS_002",
-          "name": "NASSCOM Insights",
-          "type": "rss",
-          "url": "https://nasscom.in/insights/rss.xml",
-          "credibility": "very_high",
-          "update_frequency": "weekly",
           "India_specific": true,
           "active": true
         },
@@ -50,22 +40,30 @@
           "active": true
         },
         {
-          "source_id": "F1_NEWS_001",
-          "name": "News API — Technology India",
-          "type": "news_api",
-          "query": "artificial intelligence automation technology India workforce",
-          "language": "en",
-          "country": "in",
-          "credibility": "medium",
+          "source_id": "F1_RSS_005",
+          "name": "Inc42 Technology India",
+          "type": "rss",
+          "url": "https://inc42.com/feed/",
+          "credibility": "high",
           "update_frequency": "daily",
           "India_specific": true,
           "active": true
         },
         {
-          "source_id": "F1_NEWS_002",
-          "name": "News API — AI India Jobs",
+          "source_id": "F1_RSS_006",
+          "name": "YourStory Technology",
+          "type": "rss",
+          "url": "https://yourstory.com/feed",
+          "credibility": "high",
+          "update_frequency": "daily",
+          "India_specific": true,
+          "active": true
+        },
+        {
+          "source_id": "F1_NEWS_001",
+          "name": "News API — Technology India",
           "type": "news_api",
-          "query": "AI jobs technology emerging careers India 2024 2025",
+          "query": "artificial intelligence automation technology India workforce",
           "language": "en",
           "credibility": "medium",
           "update_frequency": "daily",
@@ -81,41 +79,11 @@
       "sources": [
         {
           "source_id": "F2_RSS_001",
-          "name": "PIB — All Releases",
+          "name": "PIB All Releases",
           "type": "rss",
           "url": "https://pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3",
           "credibility": "very_high",
           "update_frequency": "continuous",
-          "India_specific": true,
-          "active": true
-        },
-        {
-          "source_id": "F2_RSS_002",
-          "name": "PIB — Ministry of Labour",
-          "type": "rss",
-          "url": "https://pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3",
-          "credibility": "very_high",
-          "update_frequency": "daily",
-          "India_specific": true,
-          "active": true
-        },
-        {
-          "source_id": "F2_RSS_003",
-          "name": "PIB — Skill Development",
-          "type": "rss",
-          "url": "https://pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3",
-          "credibility": "very_high",
-          "update_frequency": "daily",
-          "India_specific": true,
-          "active": true
-        },
-        {
-          "source_id": "F2_RSS_004",
-          "name": "PRS Legislative Research",
-          "type": "rss",
-          "url": "https://prsindia.org/rss.xml",
-          "credibility": "very_high",
-          "update_frequency": "daily",
           "India_specific": true,
           "active": true
         },
@@ -126,6 +94,36 @@
           "url": "https://niti.gov.in/rss.xml",
           "credibility": "very_high",
           "update_frequency": "weekly",
+          "India_specific": true,
+          "active": true
+        },
+        {
+          "source_id": "F2_RSS_006",
+          "name": "Ministry of Finance News",
+          "type": "rss",
+          "url": "https://finmin.nic.in/rss.xml",
+          "credibility": "very_high",
+          "update_frequency": "daily",
+          "India_specific": true,
+          "active": true
+        },
+        {
+          "source_id": "F2_RSS_007",
+          "name": "India Budget Portal",
+          "type": "rss",
+          "url": "https://www.indiabudget.gov.in/rss.xml",
+          "credibility": "very_high",
+          "update_frequency": "annual",
+          "India_specific": true,
+          "active": true
+        },
+        {
+          "source_id": "F2_RSS_008",
+          "name": "Business Standard Policy",
+          "type": "rss",
+          "url": "https://www.business-standard.com/rss/politics-and-policy-10307.rss",
+          "credibility": "high",
+          "update_frequency": "daily",
           "India_specific": true,
           "active": true
         },
@@ -149,21 +147,41 @@
       "sources": [
         {
           "source_id": "F3_RSS_001",
-          "name": "Economic Times — Economy",
+          "name": "PIB Census and Population",
           "type": "rss",
-          "url": "https://economictimes.indiatimes.com/rss/economy/news.cms",
-          "credibility": "high",
-          "update_frequency": "continuous",
+          "url": "https://pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3",
+          "credibility": "very_high",
+          "update_frequency": "monthly",
           "India_specific": true,
           "active": true
         },
         {
           "source_id": "F3_RSS_002",
-          "name": "PIB — Census and Population",
+          "name": "Business Standard Economy",
           "type": "rss",
-          "url": "https://pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3",
-          "credibility": "very_high",
-          "update_frequency": "monthly",
+          "url": "https://www.business-standard.com/rss/economy-policy-10602.rss",
+          "credibility": "high",
+          "update_frequency": "daily",
+          "India_specific": true,
+          "active": true
+        },
+        {
+          "source_id": "F3_RSS_003",
+          "name": "Financial Express Economy",
+          "type": "rss",
+          "url": "https://www.financialexpress.com/feed/",
+          "credibility": "high",
+          "update_frequency": "daily",
+          "India_specific": true,
+          "active": true
+        },
+        {
+          "source_id": "F3_RSS_004",
+          "name": "The Hindu Economy",
+          "type": "rss",
+          "url": "https://www.thehindu.com/business/Economy/feeder/default.rss",
+          "credibility": "high",
+          "update_frequency": "daily",
           "India_specific": true,
           "active": true
         },
@@ -205,9 +223,9 @@
       "sources": [
         {
           "source_id": "F4_RSS_001",
-          "name": "RBI News",
+          "name": "RBI Publications",
           "type": "rss",
-          "url": "https://rbi.org.in/scripts/rss.aspx",
+          "url": "https://rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=rss",
           "credibility": "very_high",
           "update_frequency": "daily",
           "India_specific": true,
@@ -215,22 +233,32 @@
         },
         {
           "source_id": "F4_RSS_002",
-          "name": "Ministry of External Affairs",
+          "name": "Business Standard International",
           "type": "rss",
-          "url": "https://mea.gov.in/rss/press-releases.xml",
-          "credibility": "very_high",
+          "url": "https://www.business-standard.com/rss/international-10501.rss",
+          "credibility": "high",
           "update_frequency": "daily",
           "India_specific": true,
           "active": true
         },
         {
           "source_id": "F4_RSS_003",
-          "name": "Economic Times — International",
+          "name": "Financial Express Trade",
           "type": "rss",
-          "url": "https://economictimes.indiatimes.com/rss/internationalbusiness.cms",
+          "url": "https://www.financialexpress.com/feed/",
           "credibility": "high",
-          "update_frequency": "continuous",
-          "India_specific": false,
+          "update_frequency": "daily",
+          "India_specific": true,
+          "active": true
+        },
+        {
+          "source_id": "F4_RSS_004",
+          "name": "The Hindu Business",
+          "type": "rss",
+          "url": "https://www.thehindu.com/business/feeder/default.rss",
+          "credibility": "high",
+          "update_frequency": "daily",
+          "India_specific": true,
           "active": true
         },
         {
@@ -256,7 +284,7 @@
           "language": "en",
           "credibility": "medium",
           "update_frequency": "daily",
-          "India_specific": false,
+          "India_specific": true,
           "active": true
         }
       ]
@@ -268,7 +296,7 @@
       "sources": [
         {
           "source_id": "F5_RSS_001",
-          "name": "Ministry of Education — PIB",
+          "name": "PIB Education",
           "type": "rss",
           "url": "https://pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3",
           "credibility": "very_high",
@@ -278,21 +306,30 @@
         },
         {
           "source_id": "F5_RSS_002",
-          "name": "UGC News",
+          "name": "The Hindu Education",
           "type": "rss",
-          "url": "https://www.ugc.gov.in/rss/news.xml",
-          "credibility": "very_high",
-          "update_frequency": "weekly",
+          "url": "https://www.thehindu.com/education/feeder/default.rss",
+          "credibility": "high",
+          "update_frequency": "daily",
           "India_specific": true,
           "active": true
         },
         {
-          "source_id": "F5_NEWS_001",
-          "name": "News API — India Education Employment",
-          "type": "news_api",
-          "query": "India graduate unemployment engineering oversupply skill gap employability",
-          "language": "en",
-          "credibility": "medium",
+          "source_id": "F5_RSS_003",
+          "name": "Financial Express Education",
+          "type": "rss",
+          "url": "https://www.financialexpress.com/feed/",
+          "credibility": "high",
+          "update_frequency": "daily",
+          "India_specific": true,
+          "active": true
+        },
+        {
+          "source_id": "F5_RSS_004",
+          "name": "India Today Education",
+          "type": "rss",
+          "url": "https://www.indiatoday.in/rss/home",
+          "credibility": "high",
           "update_frequency": "daily",
           "India_specific": true,
           "active": true
@@ -311,6 +348,17 @@
           "update_frequency": "annual",
           "India_specific": true,
           "active": true
+        },
+        {
+          "source_id": "F5_NEWS_001",
+          "name": "News API — India Education Employment",
+          "type": "news_api",
+          "query": "India graduate unemployment engineering oversupply skill gap employability",
+          "language": "en",
+          "credibility": "medium",
+          "update_frequency": "daily",
+          "India_specific": true,
+          "active": true
         }
       ]
     },
@@ -321,17 +369,7 @@
       "sources": [
         {
           "source_id": "F6_RSS_001",
-          "name": "MNRE News",
-          "type": "rss",
-          "url": "https://mnre.gov.in/rss.xml",
-          "credibility": "very_high",
-          "update_frequency": "daily",
-          "India_specific": true,
-          "active": true
-        },
-        {
-          "source_id": "F6_RSS_002",
-          "name": "PIB — Environment and Climate",
+          "name": "PIB Environment and Climate",
           "type": "rss",
           "url": "https://pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3",
           "credibility": "very_high",
@@ -340,8 +378,8 @@
           "active": true
         },
         {
-          "source_id": "F6_RSS_003",
-          "name": "Carbon Brief — India",
+          "source_id": "F6_RSS_002",
+          "name": "Carbon Brief India",
           "type": "rss",
           "url": "https://www.carbonbrief.org/rss",
           "credibility": "high",
@@ -350,12 +388,32 @@
           "active": true
         },
         {
-          "source_id": "F6_RSS_004",
-          "name": "Economic Times — Energy",
+          "source_id": "F6_RSS_003",
+          "name": "Business Standard Energy",
           "type": "rss",
-          "url": "https://economictimes.indiatimes.com/rss/energy.cms",
+          "url": "https://www.business-standard.com/rss/economy-policy-10602.rss",
           "credibility": "high",
-          "update_frequency": "continuous",
+          "update_frequency": "daily",
+          "India_specific": true,
+          "active": true
+        },
+        {
+          "source_id": "F6_RSS_004",
+          "name": "Financial Express Climate",
+          "type": "rss",
+          "url": "https://www.financialexpress.com/feed/",
+          "credibility": "high",
+          "update_frequency": "daily",
+          "India_specific": true,
+          "active": true
+        },
+        {
+          "source_id": "F6_RSS_005",
+          "name": "The Hindu Environment",
+          "type": "rss",
+          "url": "https://www.thehindu.com/sci-tech/energy-and-environment/feeder/default.rss",
+          "credibility": "high",
+          "update_frequency": "daily",
           "India_specific": true,
           "active": true
         },
@@ -379,17 +437,7 @@
       "sources": [
         {
           "source_id": "F7_RSS_001",
-          "name": "Economic Times — Society",
-          "type": "rss",
-          "url": "https://economictimes.indiatimes.com/rss/news.cms",
-          "credibility": "high",
-          "update_frequency": "continuous",
-          "India_specific": true,
-          "active": true
-        },
-        {
-          "source_id": "F7_RSS_002",
-          "name": "The Hindu — Society",
+          "name": "The Hindu Society",
           "type": "rss",
           "url": "https://www.thehindu.com/society/feeder/default.rss",
           "credibility": "high",
@@ -398,10 +446,40 @@
           "active": true
         },
         {
-          "source_id": "F7_RSS_003",
-          "name": "Live Mint — Consumer",
+          "source_id": "F7_RSS_002",
+          "name": "The Hindu Life and Style",
           "type": "rss",
-          "url": "https://www.livemint.com/rss/consumer.xml",
+          "url": "https://www.thehindu.com/life-and-style/feeder/default.rss",
+          "credibility": "high",
+          "update_frequency": "daily",
+          "India_specific": true,
+          "active": true
+        },
+        {
+          "source_id": "F7_RSS_003",
+          "name": "Business Standard Consumer",
+          "type": "rss",
+          "url": "https://www.business-standard.com/rss/companies-10101.rss",
+          "credibility": "high",
+          "update_frequency": "daily",
+          "India_specific": true,
+          "active": true
+        },
+        {
+          "source_id": "F7_RSS_004",
+          "name": "India Today Lifestyle",
+          "type": "rss",
+          "url": "https://www.indiatoday.in/rss/home",
+          "credibility": "high",
+          "update_frequency": "daily",
+          "India_specific": true,
+          "active": true
+        },
+        {
+          "source_id": "F7_RSS_005",
+          "name": "YourStory India Startups",
+          "type": "rss",
+          "url": "https://yourstory.com/feed",
           "credibility": "high",
           "update_frequency": "daily",
           "India_specific": true,
@@ -415,25 +493,6 @@
           "language": "en",
           "credibility": "medium",
           "update_frequency": "daily",
-          "India_specific": true,
-          "active": true
-        },
-        {
-          "source_id": "F7_TRENDS_001",
-          "name": "Google Trends India",
-          "type": "google_trends",
-          "keywords": [
-            "mental health India",
-            "yoga instructor India",
-            "content creator India",
-            "therapy India",
-            "work from home India",
-            "electric vehicle India",
-            "sustainable living India"
-          ],
-          "geo": "IN",
-          "credibility": "medium",
-          "update_frequency": "weekly",
           "India_specific": true,
           "active": true
         }
