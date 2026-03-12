@@ -28,6 +28,7 @@ from storage.database import (
 from monitoring.rss_monitor import poll_all_rss_sources
 from monitoring.news_monitor import poll_all_news_sources
 from monitoring.worldbank_monitor import poll_all_world_bank_sources
+from extraction.extractor import run_extraction_cycle
 
 # ── Configuration ─────────────────────────────────────────────────────
 DB_PATH = os.getenv('DB_PATH', 'storage/counselai.db')
@@ -127,7 +128,14 @@ def run_monitoring_cycle():
         logger.info(f"World Bank complete: {wb_new} new records")
     except Exception as e:
         logger.error(f"World Bank polling failed: {e}")
-
+    # ── Step 4: LLM Extraction ────────────────────────────────────────
+    logger.info("🔍 Stage 4: Running LLM extraction...")
+    try:
+        extraction_results = run_extraction_cycle(DB_PATH)
+        signals = extraction_results.get("signals_extracted", 0)
+        logger.info(f"Extraction complete: {signals} new signals extracted")
+    except Exception as e:
+        logger.error(f"Extraction failed: {e}")
     # ── Cycle Summary ─────────────────────────────────────────────────
     cycle_end = datetime.utcnow()
     duration = (cycle_end - cycle_start).total_seconds()
