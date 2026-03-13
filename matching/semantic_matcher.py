@@ -187,42 +187,43 @@ def cosine_similarity(vec1, vec2):
         return 0.0
     return float(dot / (norm1 * norm2))
 
-def match_signals_to_careers(careers, signals, model):
+def match_signals_to_careers(careers, signals, model=None):
     """
-    Core matching function.
-    Returns dict of career_id -> list of matched signals with scores
+    Core matching using TF-IDF similarity.
+    Lightweight — no heavy ML model needed.
     """
     if not signals:
         logger.warning("No signals to match against")
         return {}
 
-    logger.info("Building career embeddings...")
+    logger.info("Building texts for matching...")
     career_texts = [build_career_text(c) for c in careers]
-    career_embeddings = model.encode(
-        career_texts,
-        batch_size=32,
-        show_progress_bar=False
-    )
-
-    logger.info("Building signal embeddings...")
     signal_texts = [build_signal_text(s) for s in signals]
-    signal_embeddings = model.encode(
-        signal_texts,
-        batch_size=32,
-        show_progress_bar=False
+
+    all_texts = career_texts + signal_texts
+
+    logger.info("Fitting TF-IDF vectorizer...")
+    vectorizer = TfidfVectorizer(
+        max_features=5000,
+        stop_words='english',
+        ngram_range=(1, 2)
     )
+    tfidf_matrix = vectorizer.fit_transform(all_texts)
+
+    n_careers = len(careers)
+    career_vecs = tfidf_matrix[:n_careers]
+    signal_vecs = tfidf_matrix[n_careers:]
 
     logger.info("Calculating similarities...")
+    similarity_matrix = sklearn_cosine(career_vecs, signal_vecs)
+
     results = {}
-
     for i, career in enumerate(careers):
-        career_id  = career.get("career_id")
-        career_vec = career_embeddings[i]
-
-        # Calculate similarity with every signal
+        career_id = career.get("career_id")
         scored_signals = []
+
         for j, signal in enumerate(signals):
-            score = cosine_similarity(career_vec, signal_embeddings[j])
+            score = float(similarity_matrix[i, j])
             scored_signals.append({
                 "signal_id"       : signal["signal_id"],
                 "force"           : signal["force"],
@@ -233,7 +234,6 @@ def match_signals_to_careers(careers, signals, model):
                 "similarity_score": score
             })
 
-        # Keep top K most similar signals
         scored_signals.sort(
             key=lambda x: x["similarity_score"], reverse=True
         )
@@ -448,13 +448,8 @@ def run_matching_cycle():
 
     logger.info(f"Matching {len(careers)} careers against {len(signals)} signals")
 
-    # Load model — downloads once, cached after
-    logger.info("Loading sentence transformer model...")
-    model = SentenceTransformer(MODEL_NAME)
-    logger.info("Model loaded")
-
-    # Run matching
-    all_matches = match_signals_to_careers(careers, signals, model)
+     # Run matching — TF-IDF no model download needed
+    all_matches = match_signals_to_careers(careers, signals)
 
     # Score trajectories and save
     growing  = 0
