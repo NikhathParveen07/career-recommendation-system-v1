@@ -3,26 +3,25 @@ import sqlite3
 import logging
 import os
 import sys
+import math
+import re
 from pathlib import Path
 from datetime import datetime
+from collections import Counter
 
 import numpy as np
-from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.metrics.pairwise import cosine_similarity as sklearn_cosine
 
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from storage.database import log_pipeline_event
 
 logger = logging.getLogger(__name__)
 
-# ── Config ────────────────────────────────────────────────────────────
 CAREERS_DIR = Path("careers")
 DB_PATH     = os.getenv("DB_PATH", "storage/counselai.db")
-MODEL_NAME  = "all-MiniLM-L6-v2"  # Small, fast, free, runs on CPU
-TOP_K       = 20  # Top signals per career
+TOP_K       = 20
 
 
-# ── Database Helpers ──────────────────────────────────────────────────
+# ── Database ──────────────────────────────────────────────────────────
 
 def get_db_connection():
     conn = sqlite3.connect(DB_PATH)
@@ -31,11 +30,8 @@ def get_db_connection():
 
 
 def ensure_tables():
-    """Create tables for storing matcher results"""
     conn = get_db_connection()
     cursor = conn.cursor()
-
-    # Career trajectory scores
     cursor.execute("""
         CREATE TABLE IF NOT EXISTS career_trajectories (
             career_id TEXT PRIMARY KEY,
@@ -50,8 +46,6 @@ def ensure_tables():
             last_updated TEXT NOT NULL
         )
     """)
-
-    # Career-signal connections
     cursor.execute("""
         CREATE TABLE IF NOT EXISTS career_signal_connections (
             id INTEGER PRIMARY KEY AUTOINCREMENT,
@@ -62,12 +56,10 @@ def ensure_tables():
             created_at TEXT NOT NULL
         )
     """)
-
     cursor.execute("""
         CREATE INDEX IF NOT EXISTS idx_connections_career
         ON career_signal_connections(career_id)
     """)
-
     conn.commit()
     conn.close()
 
@@ -75,28 +67,22 @@ def ensure_tables():
 # ── Data Loaders ──────────────────────────────────────────────────────
 
 def load_all_careers():
-    """Load all 120 career JSON files"""
     careers = []
-
     for json_file in sorted(CAREERS_DIR.rglob("*.json")):
         if json_file.name == "career_index.json":
             continue
         try:
             with open(json_file, encoding="utf-8") as f:
-                career = json.load(f)
-            careers.append(career)
+                careers.append(json.load(f))
         except Exception as e:
             logger.error(f"Error loading {json_file}: {e}")
-
     logger.info(f"Loaded {len(careers)} careers")
     return careers
 
 
 def load_all_signals():
-    """Load all active force signals from database"""
     conn = get_db_connection()
     cursor = conn.cursor()
-
     cursor.execute("""
         SELECT signal_id, force, source_name,
                signal_summary, key_facts,
@@ -106,18 +92,14 @@ def load_all_signals():
         AND confidence >= 0.6
         ORDER BY extracted_at DESC
     """)
-
     signals = []
     for row in cursor.fetchall():
         signal = dict(row)
         try:
-            signal["key_facts"] = json.loads(
-                signal.get("key_facts", "[]")
-            )
+            signal["key_facts"] = json.loads(signal.get("key_facts", "[]"))
         except:
             signal["key_facts"] = []
         signals.append(signal)
-
     conn.close()
     logger.info(f"Loaded {len(signals)} force signals")
     return signals
@@ -126,105 +108,134 @@ def load_all_signals():
 # ── Text Builders ─────────────────────────────────────────────────────
 
 def build_career_text(career):
-    """
-    Build rich text representation of a career
-    for embedding — captures what the career is about
-    """
     parts = []
-
-    parts.append(f"Career: {career.get('title', '')}")
-    parts.append(f"Stream: {career.get('stream', '')}")
-
+    parts.append(career.get("title", ""))
+    parts.append(career.get("stream", ""))
     desc = career.get("description", "") or career.get("india_description", "")
     if desc:
-        parts.append(f"Description: {desc}")
-
+        parts.append(desc)
     market = career.get("india_market", {})
     if market:
-        parts.append(
-            f"Market: {market.get('demand_trend', '')} demand. "
-            f"Cities: {', '.join(market.get('top_hiring_cities', []))}"
-        )
-
-    progression = career.get("career_progression", {})
-    if progression:
-        parts.append(
-            f"Progression: {progression.get('year_0_2', '')}"
-        )
-
-    return " | ".join(parts)
+        parts.append(market.get("demand_trend", ""))
+        parts.extend(market.get("top_hiring_cities", []))
+    prog = career.get("career_progression", {})
+    if prog:
+        parts.append(prog.get("year_0_2", ""))
+    return " ".join(parts)
 
 
 def build_signal_text(signal):
-    """
-    Build text representation of a force signal for embedding
-    """
     parts = []
+    parts.append(signal.get("force", "").replace("_", " "))
+    parts.append(signal.get("signal_summary", ""))
+    for fact in signal.get("key_facts", [])[:3]:
+        parts.append(fact)
+    parts.append(signal.get("direction", ""))
+    parts.append(signal.get("magnitude", ""))
+    return " ".join(parts)
 
-    parts.append(f"Force: {signal.get('force', '')}")
-    parts.append(f"Signal: {signal.get('signal_summary', '')}")
 
-    facts = signal.get("key_facts", [])
-    if facts:
-        parts.append(f"Facts: {'. '.join(facts[:3])}")
+# ── Pure Python TF-IDF ────────────────────────────────────────────────
 
-    direction  = signal.get("direction", "")
-    magnitude  = signal.get("magnitude", "")
-    if direction and magnitude:
-        parts.append(f"Direction: {direction}. Magnitude: {magnitude}")
+STOPWORDS = {
+    "the", "a", "an", "and", "or", "but", "in", "on", "at",
+    "to", "for", "of", "with", "by", "is", "are", "was", "were",
+    "be", "been", "being", "have", "has", "had", "do", "does",
+    "did", "will", "would", "could", "should", "may", "might",
+    "this", "that", "these", "those", "it", "its", "as", "from"
+}
 
-    return " | ".join(parts)
+
+def tokenize(text):
+    """Simple tokenizer"""
+    text = text.lower()
+    text = re.sub(r'[^a-z0-9\s]', ' ', text)
+    tokens = text.split()
+    return [t for t in tokens if t not in STOPWORDS and len(t) > 2]
+
+
+def compute_tfidf(texts):
+    """
+    Compute TF-IDF matrix for a list of texts.
+    Returns: (matrix as list of dicts, vocabulary)
+    """
+    # Tokenize all texts
+    tokenized = [tokenize(t) for t in texts]
+
+    # Build vocabulary
+    vocab = set()
+    for tokens in tokenized:
+        vocab.update(tokens)
+    vocab = list(vocab)
+    word_to_idx = {w: i for i, w in enumerate(vocab)}
+
+    n_docs = len(texts)
+
+    # Compute document frequency
+    df = Counter()
+    for tokens in tokenized:
+        for word in set(tokens):
+            df[word] += 1
+
+    # Compute IDF
+    idf = {}
+    for word in vocab:
+        idf[word] = math.log((n_docs + 1) / (df[word] + 1)) + 1
+
+    # Compute TF-IDF vectors as numpy arrays
+    vectors = []
+    for tokens in tokenized:
+        tf = Counter(tokens)
+        total = len(tokens) if tokens else 1
+        vec = np.zeros(len(vocab))
+        for word, count in tf.items():
+            if word in word_to_idx:
+                idx = word_to_idx[word]
+                vec[idx] = (count / total) * idf[word]
+        # Normalize
+        norm = np.linalg.norm(vec)
+        if norm > 0:
+            vec = vec / norm
+        vectors.append(vec)
+
+    return vectors
+
+
+def cosine_sim(vec1, vec2):
+    """Cosine similarity between two normalized vectors"""
+    return float(np.dot(vec1, vec2))
 
 
 # ── Core Matcher ──────────────────────────────────────────────────────
 
-def cosine_similarity(vec1, vec2):
-    """Calculate cosine similarity between two vectors"""
-    dot   = np.dot(vec1, vec2)
-    norm1 = np.linalg.norm(vec1)
-    norm2 = np.linalg.norm(vec2)
-    if norm1 == 0 or norm2 == 0:
-        return 0.0
-    return float(dot / (norm1 * norm2))
+def match_signals_to_careers(careers, signals):
+    """Match force signals to careers using TF-IDF"""
 
-def match_signals_to_careers(careers, signals, model=None):
-    """
-    Core matching using TF-IDF similarity.
-    Lightweight — no heavy ML model needed.
-    """
     if not signals:
-        logger.warning("No signals to match against")
+        logger.warning("No signals to match")
         return {}
 
-    logger.info("Building texts for matching...")
     career_texts = [build_career_text(c) for c in careers]
     signal_texts = [build_signal_text(s) for s in signals]
 
+    logger.info("Computing TF-IDF vectors...")
     all_texts = career_texts + signal_texts
-
-    logger.info("Fitting TF-IDF vectorizer...")
-    vectorizer = TfidfVectorizer(
-        max_features=5000,
-        stop_words='english',
-        ngram_range=(1, 2)
-    )
-    tfidf_matrix = vectorizer.fit_transform(all_texts)
+    all_vectors = compute_tfidf(all_texts)
 
     n_careers = len(careers)
-    career_vecs = tfidf_matrix[:n_careers]
-    signal_vecs = tfidf_matrix[n_careers:]
+    career_vecs = all_vectors[:n_careers]
+    signal_vecs = all_vectors[n_careers:]
 
     logger.info("Calculating similarities...")
-    similarity_matrix = sklearn_cosine(career_vecs, signal_vecs)
-
     results = {}
+
     for i, career in enumerate(careers):
         career_id = career.get("career_id")
-        scored_signals = []
+        scored = []
 
         for j, signal in enumerate(signals):
-            score = float(similarity_matrix[i, j])
-            scored_signals.append({
+            score = cosine_sim(career_vecs[i], signal_vecs[j])
+            scored.append({
                 "signal_id"       : signal["signal_id"],
                 "force"           : signal["force"],
                 "signal_summary"  : signal["signal_summary"],
@@ -234,10 +245,8 @@ def match_signals_to_careers(careers, signals, model=None):
                 "similarity_score": score
             })
 
-        scored_signals.sort(
-            key=lambda x: x["similarity_score"], reverse=True
-        )
-        results[career_id] = scored_signals[:TOP_K]
+        scored.sort(key=lambda x: x["similarity_score"], reverse=True)
+        results[career_id] = scored[:TOP_K]
 
     return results
 
@@ -245,60 +254,34 @@ def match_signals_to_careers(careers, signals, model=None):
 # ── Trajectory Scorer ─────────────────────────────────────────────────
 
 def score_trajectory(matched_signals):
-    """
-    Calculate trajectory score from matched signals.
-    Pure mathematical — no LLM needed.
-
-    Logic:
-    - Each signal has direction: positive/negative/neutral/mixed
-    - Each signal has magnitude: minor/moderate/significant/major
-    - Each signal has confidence and similarity score
-
-    Weighted sum gives trajectory
-    """
-
     if not matched_signals:
         return {
-            "trajectory" : "insufficient_data",
-            "confidence" : 0.0,
-            "timeframe"  : "unknown",
-            "score"      : 0.0
+            "trajectory": "insufficient_data",
+            "confidence": 0.0,
+            "timeframe" : "unknown",
+            "score"     : 0.0
         }
 
-    # Direction weights
     direction_weights = {
-        "positive": 1.0,
-        "negative": -1.0,
-        "neutral" : 0.0,
-        "mixed"   : 0.2
+        "positive": 1.0, "negative": -1.0,
+        "neutral" : 0.0, "mixed"   : 0.2
     }
-
-    # Magnitude weights
     magnitude_weights = {
-        "major"      : 1.0,
-        "significant": 0.75,
-        "moderate"   : 0.5,
-        "minor"      : 0.25
+        "major": 1.0, "significant": 0.75,
+        "moderate": 0.5, "minor": 0.25
     }
 
     weighted_score = 0.0
     total_weight   = 0.0
 
     for signal in matched_signals:
-        direction   = signal.get("direction", "neutral")
-        magnitude   = signal.get("magnitude", "minor")
-        confidence  = signal.get("confidence", 0.5)
-        similarity  = signal.get("similarity_score", 0.0)
-
-        # Only consider signals above similarity threshold
-        if similarity < 0.3:
+        similarity = signal.get("similarity_score", 0.0)
+        if similarity < 0.1:
             continue
-
-        dir_w = direction_weights.get(direction, 0.0)
-        mag_w = magnitude_weights.get(magnitude, 0.25)
-
-        # Weight by similarity, confidence, and magnitude
-        weight = similarity * confidence * mag_w
+        dir_w  = direction_weights.get(signal.get("direction", "neutral"), 0.0)
+        mag_w  = magnitude_weights.get(signal.get("magnitude", "minor"), 0.25)
+        conf   = signal.get("confidence", 0.5)
+        weight = similarity * conf * mag_w
         weighted_score += dir_w * weight
         total_weight   += weight
 
@@ -313,7 +296,6 @@ def score_trajectory(matched_signals):
     final_score = weighted_score / total_weight
     confidence  = min(total_weight / 5.0, 1.0)
 
-    # Convert score to label
     if final_score > 0.4:
         trajectory = "strongly_growing"
     elif final_score > 0.15:
@@ -325,80 +307,56 @@ def score_trajectory(matched_signals):
     else:
         trajectory = "strongly_declining"
 
-    # Timeframe based on signal types
-    timeframe = "medium_term_3_5_years"
-
     return {
         "trajectory": trajectory,
         "confidence": round(confidence, 3),
-        "timeframe" : timeframe,
+        "timeframe" : "medium_term_3_5_years",
         "score"     : round(final_score, 3)
     }
 
 
-# ── Database Writer ───────────────────────────────────────────────────
+# ── Database Writers ──────────────────────────────────────────────────
 
 def save_connections(career, matched_signals):
-    """Save career-signal connections to database"""
     conn = get_db_connection()
     cursor = conn.cursor()
     now = datetime.utcnow().isoformat()
-
     career_id = career.get("career_id")
-
-    # Delete old connections for this career
     cursor.execute(
         "DELETE FROM career_signal_connections WHERE career_id = ?",
         (career_id,)
     )
-
-    # Insert new connections
     for signal in matched_signals:
-        if signal["similarity_score"] < 0.3:
+        if signal["similarity_score"] < 0.1:
             continue
         cursor.execute("""
             INSERT INTO career_signal_connections
             (career_id, signal_id, similarity_score, force, created_at)
             VALUES (?, ?, ?, ?, ?)
         """, (
-            career_id,
-            signal["signal_id"],
+            career_id, signal["signal_id"],
             signal["similarity_score"],
-            signal["force"],
-            now
+            signal["force"], now
         ))
-
     conn.commit()
     conn.close()
 
 
 def save_trajectory(career, trajectory_data, matched_signals):
-    """Save career trajectory score to database"""
     conn = get_db_connection()
     cursor = conn.cursor()
-
     career_id = career.get("career_id")
 
-    # Count signals above threshold
-    valid_signals = [
-        s for s in matched_signals
-        if s["similarity_score"] >= 0.3
-    ]
+    valid = [s for s in matched_signals if s["similarity_score"] >= 0.1]
 
-    # Get top forces
     force_counts = {}
-    for s in valid_signals:
-        force = s["force"]
-        force_counts[force] = force_counts.get(force, 0) + 1
+    for s in valid:
+        force_counts[s["force"]] = force_counts.get(s["force"], 0) + 1
     top_forces = sorted(
         force_counts, key=force_counts.get, reverse=True
     )[:3]
 
-    # Build evidence summary
-    evidence = [
-        s["signal_summary"]
-        for s in valid_signals[:3]
-    ]
+    evidence = [s["signal_summary"] for s in valid[:3]]
     evidence_summary = " | ".join(evidence)
 
     cursor.execute("""
@@ -414,12 +372,11 @@ def save_trajectory(career, trajectory_data, matched_signals):
         trajectory_data["trajectory"],
         trajectory_data["confidence"],
         trajectory_data["timeframe"],
-        len(valid_signals),
+        len(valid),
         json.dumps(top_forces),
         evidence_summary[:500],
         datetime.utcnow().isoformat()
     ))
-
     conn.commit()
     conn.close()
 
@@ -427,39 +384,34 @@ def save_trajectory(career, trajectory_data, matched_signals):
 # ── Main Runner ───────────────────────────────────────────────────────
 
 def run_matching_cycle():
-    """Run complete matching cycle"""
     logger.info("🔗 Starting semantic matching cycle...")
     start = datetime.utcnow()
 
-    # Ensure tables exist
     ensure_tables()
-
-    # Load data
     careers = load_all_careers()
     signals = load_all_signals()
 
     if not careers:
-        logger.error("No careers found. Check careers/ folder.")
+        logger.error("No careers found")
         return
 
     if not signals:
-        logger.warning("No signals yet. Skipping matching.")
+        logger.warning("No signals yet — skipping matching")
         return
 
-    logger.info(f"Matching {len(careers)} careers against {len(signals)} signals")
+    logger.info(
+        f"Matching {len(careers)} careers "
+        f"against {len(signals)} signals"
+    )
 
-     # Run matching — TF-IDF no model download needed
     all_matches = match_signals_to_careers(careers, signals)
 
-    # Score trajectories and save
-    growing  = 0
-    stable   = 0
-    declining = 0
+    growing = stable = declining = 0
 
     for career in careers:
-        career_id      = career.get("career_id")
-        matched        = all_matches.get(career_id, [])
-        trajectory     = score_trajectory(matched)
+        career_id  = career.get("career_id")
+        matched    = all_matches.get(career_id, [])
+        trajectory = score_trajectory(matched)
 
         save_connections(career, matched)
         save_trajectory(career, trajectory, matched)
@@ -474,7 +426,7 @@ def run_matching_cycle():
 
         logger.info(
             f"  {career_id} {career.get('title')}: "
-            f"{t} (confidence: {trajectory['confidence']})"
+            f"{t} ({trajectory['confidence']})"
         )
 
     duration = (datetime.utcnow() - start).total_seconds()
@@ -488,7 +440,10 @@ def run_matching_cycle():
 
     log_pipeline_event(
         event_type="MATCHING_CYCLE_COMPLETE",
-        message=f"Matched {len(careers)} careers to {len(signals)} signals",
+        message=(
+            f"Matched {len(careers)} careers "
+            f"to {len(signals)} signals"
+        ),
         details={
             "careers": len(careers),
             "signals": len(signals),
@@ -503,7 +458,6 @@ def run_matching_cycle():
 
 
 if __name__ == "__main__":
-    import logging
     from dotenv import load_dotenv
     load_dotenv()
     logging.basicConfig(level=logging.INFO)
