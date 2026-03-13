@@ -180,13 +180,12 @@ def build_signal_text(signal):
 
 def cosine_similarity(vec1, vec2):
     """Calculate cosine similarity between two vectors"""
-    dot     = np.dot(vec1, vec2)
-    norm1   = np.linalg.norm(vec1)
-    norm2   = np.linalg.norm(vec2)
+    dot   = np.dot(vec1, vec2)
+    norm1 = np.linalg.norm(vec1)
+    norm2 = np.linalg.norm(vec2)
     if norm1 == 0 or norm2 == 0:
         return 0.0
     return float(dot / (norm1 * norm2))
-
 
 def match_signals_to_careers(careers, signals, model):
     """
