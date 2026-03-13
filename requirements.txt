@@ -3,6 +3,4 @@ requests==2.31.0
 schedule==1.2.1
 python-dotenv==1.0.0
 groq>=0.11.0
-chromadb==0.4.22
-scikit-learn==1.4.0
 numpy==1.26.4
