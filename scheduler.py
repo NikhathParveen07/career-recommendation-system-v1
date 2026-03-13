@@ -29,6 +29,7 @@ from monitoring.rss_monitor import poll_all_rss_sources
 from monitoring.news_monitor import poll_all_news_sources
 from monitoring.worldbank_monitor import poll_all_world_bank_sources
 from extraction.extractor import run_extraction_cycle
+from matching.semantic_matcher import run_matching_cycle
 
 # ── Configuration ─────────────────────────────────────────────────────
 DB_PATH = os.getenv('DB_PATH', 'storage/counselai.db')
@@ -136,6 +137,12 @@ def run_monitoring_cycle():
         logger.info(f"Extraction complete: {signals} new signals extracted")
     except Exception as e:
         logger.error(f"Extraction failed: {e}")
+         # ── Step 5: Semantic Matching ─────────────────────────────────────
+    logger.info("🔗 Stage 5: Running semantic matching...")
+    try:
+        run_matching_cycle()
+    except Exception as e:
+        logger.error(f"Matching failed: {e}")
     # ── Cycle Summary ─────────────────────────────────────────────────
     cycle_end = datetime.utcnow()
     duration = (cycle_end - cycle_start).total_seconds()
