@@ -7,7 +7,8 @@ from pathlib import Path
 from datetime import datetime
 
 import numpy as np
-from sentence_transformers import SentenceTransformer
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.metrics.pairwise import cosine_similarity as sklearn_cosine
 
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from storage.database import log_pipeline_event
